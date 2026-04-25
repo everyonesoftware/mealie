@@ -25,7 +25,7 @@
         style="cursor: pointer"
         @click="$router.push(routerLink)"
       >
-        TrailFood Library (I think?)
+        TrailFood Library
       </v-toolbar-title>
     </div>
     <RecipeDialogSearch ref="domSearchDialog" />
