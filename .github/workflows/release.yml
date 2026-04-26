@@ -13,17 +13,10 @@ jobs:
     outputs:
       commit-sha: ${{ steps.commit.outputs.commit-sha }}
     steps:
-      - name: Generate GitHub App Token
-        id: app-token
-        uses: actions/create-github-app-token@v1
-        with:
-          app-id: ${{ secrets.COMMIT_BOT_APP_ID }}
-          private-key: ${{ secrets.COMMIT_BOT_APP_PRIVATE_KEY }}
-
       - name: Checkout 🛎
         uses: actions/checkout@v6
         with:
-          token: ${{ steps.app-token.outputs.token }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Extract Version From Tag Name
         run: echo "VERSION_NUM=$(echo ${{ github.event.release.tag_name }} | sed 's/^v//')" >> $GITHUB_ENV
