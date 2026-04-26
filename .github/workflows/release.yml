@@ -95,9 +95,6 @@ jobs:
       tags: |
           hkotel/mealie:latest
           ghcr.io/${{ github.repository }}:latest
-    secrets:
-      DOCKERHUB_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
-      DOCKERHUB_TOKEN: ${{ secrets.DOCKERHUB_TOKEN }}
 
   rollback-on-failure:
     name: Rollback version commit if deployment fails
@@ -109,13 +106,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate GitHub App Token
-        id: app-token
-        uses: actions/create-github-app-token@v1
-        with:
-          app-id: ${{ secrets.COMMIT_BOT_APP_ID }}
-          private-key: ${{ secrets.COMMIT_BOT_APP_PRIVATE_KEY }}
-
       - name: Checkout 🛎
         uses: actions/checkout@v6
         with:
