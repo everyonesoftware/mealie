@@ -71,21 +71,21 @@
     },
     "emails": {
         "password": {
-            "subject": "Password di Mealie Dimenticata",
+            "subject": "Password di TrailFood Library Dimenticata",
             "header_text": "Password Dimenticata",
             "message_top": "Hai richiesto di reimpostare la password.",
             "message_bottom": "Clicca sul pulsante qui sotto per reimpostare la password.",
             "button_text": "Reimposta Password"
         },
         "invitation": {
-            "subject": "Invito a unirsi a Mealie",
+            "subject": "Invito a unirsi a TrailFood Library",
             "header_text": "Sei Invitato!",
-            "message_top": "Sei stato invitato a unirti a Mealie.",
+            "message_top": "Sei stato invitato a unirti a TrailFood Library.",
             "message_bottom": "Fare clic sul pulsante qui sopra per accettare l'invito.",
             "button_text": "Accetta l'invito"
         },
         "test": {
-            "subject": "Email di prova di Mealie",
+            "subject": "Email di prova di TrailFood Library",
             "header_text": "Email di prova",
             "message_top": "Questa è una email di prova.",
             "message_bottom": "Fare clic sul pulsante qui sopra per inviare l'email di prova.",

@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie pozabljeno geslo",
+            "subject": "TrailFood Library pozabljeno geslo",
             "header_text": "Pozabljeno geslo",
             "message_top": "Zahtevali ste ponastavitev gesla.",
             "message_bottom": "Prosim kliknite na zgornji gumb za ponastavitev gesla.",
             "button_text": "Ponastavitev gesla"
         },
         "invitation": {
-            "subject": "Povabilo za pridružitev na Mealie",
+            "subject": "Povabilo za pridružitev na TrailFood Library",
             "header_text": "Ste povabljeni!",
-            "message_top": "Bili ste povabljeni za pridružitev na Mealie.",
+            "message_top": "Bili ste povabljeni za pridružitev na TrailFood Library.",
             "message_bottom": "Prosim, da za sprejem povabila kliknite na zgornji gumb.",
             "button_text": "Spremite povabilo"
         },
         "test": {
-            "subject": "Mealie testni e-mail",
+            "subject": "TrailFood Library testni e-mail",
             "header_text": "Testni e-mail",
             "message_top": "To je testni e-mail.",
             "message_bottom": "Prosim, da za e-mail testiranje kliknite zgornji gumb.",
-            "button_text": "Odpri Mealie"
+            "button_text": "Odpri TrailFood Library"
         }
     }
 }

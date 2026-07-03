@@ -1,7 +1,7 @@
 {
   "about": {
     "about": "Par",
-    "about-mealie": "Par Mealie",
+    "about-mealie": "Par TrailFood Library",
     "api-docs": "API Dokumentācija",
     "api-port": "API ports",
     "application-mode": "Lietojumprogrammas režīms",
@@ -57,7 +57,7 @@
     "event-delete-confirmation": "Vai tiešām vēlaties dzēst šo notikumu?",
     "event-deleted": "Notikums dzēsts",
     "event-updated": "Notikums atjaunināts",
-    "new-notification-form-description": "Mealie izmanto Apprise bibliotēku, lai ģenerētu paziņojumus. Tie piedāvā daudzas iespējas pakalpojumiem, ko izmantot paziņojumiem. Skatiet viņu wiki, lai iegūtu visaptverošu rokasgrāmatu par to, kā izveidot URL savam pakalpojumam. Ja iespējams, paziņojuma veida atlasīšana var ietvert papildu funkcijas.",
+    "new-notification-form-description": "TrailFood Library izmanto Apprise bibliotēku, lai ģenerētu paziņojumus. Tie piedāvā daudzas iespējas pakalpojumiem, ko izmantot paziņojumiem. Skatiet viņu wiki, lai iegūtu visaptverošu rokasgrāmatu par to, kā izveidot URL savam pakalpojumam. Ja iespējams, paziņojuma veida atlasīšana var ietvert papildu funkcijas.",
     "new-version": "Pieejama jauna versija!",
     "notification": "Paziņojums",
     "refresh": "Atsvaidzināt",
@@ -421,7 +421,7 @@
     "recipe-migration": "Recepšu migrācija",
     "chowdown": {
       "description": "Migrēt datus no Chowdown",
-      "description-long": "Mealie sākotnēji atbalsta chowdown krātuves formātu. Lejupielādējiet kodu krātuvi kā.zip failu un augšupielādējiet to zemāk.",
+      "description-long": "TrailFood Library sākotnēji atbalsta chowdown krātuves formātu. Lejupielādējiet kodu krātuvi kā.zip failu un augšupielādējiet to zemāk.",
       "title": "Chowdown"
     },
     "nextcloud": {
@@ -430,52 +430,52 @@
       "title": "Nextcloud pavārgrāmata"
     },
     "copymethat": {
-      "description-long": "Mealie var importēt receptes no Copy Me That. Eksportējiet savas receptes HTML formātā, pēc tam augšupielādējiet zemāk esošu.zip.",
+      "description-long": "TrailFood Library var importēt receptes no Copy Me That. Eksportējiet savas receptes HTML formātā, pēc tam augšupielādējiet zemāk esošu.zip.",
       "title": "Kopējiet man šo recepšu pārvaldnieku"
     },
     "paprika": {
-      "description-long": "Mealie var importēt receptes no Paprika lietojumprogrammas. Eksportējiet savas receptes no paprikas, pārdēvējiet eksporta paplašinājumu uz.zip un augšupielādējiet to zemāk.",
+      "description-long": "TrailFood Library var importēt receptes no Paprika lietojumprogrammas. Eksportējiet savas receptes no paprikas, pārdēvējiet eksporta paplašinājumu uz.zip un augšupielādējiet to zemāk.",
       "title": "Paprikas recepšu vadītājs"
     },
     "mealie-pre-v1": {
-      "description-long": "Mealie var importēt receptes no lietojumprogrammas Mealie no pirms v1.0 izlaiduma. Eksportējiet receptes no vecās instances un augšupielādējiet zemāk esošo zip failu. Ņemiet vērā, ka no eksporta var importēt tikai receptes.",
-      "title": "Mealie Pre v1.0"
+      "description-long": "TrailFood Library var importēt receptes no lietojumprogrammas TrailFood Library no pirms v1.0 izlaiduma. Eksportējiet receptes no vecās instances un augšupielādējiet zemāk esošo zip failu. Ņemiet vērā, ka no eksporta var importēt tikai receptes.",
+      "title": "TrailFood Library Pre v1.0"
     },
     "tandoor": {
-      "description-long": "Mealie var importēt receptes no Tandoor. Eksportējiet savus datus formātā “Noklusējums”, pēc tam augšupielādējiet zemāk esošu.zip.",
+      "description-long": "TrailFood Library var importēt receptes no Tandoor. Eksportējiet savus datus formātā “Noklusējums”, pēc tam augšupielādējiet zemāk esošu.zip.",
       "title": "Tandoor receptes"
     },
     "cookn": {
-      "description-long": "Mealie can import recipes from DVO Cook'n X3. Export a cookbook or menu in the \"Cook'n\" format, rename the export extension to .zip, then upload the .zip below.",
+      "description-long": "TrailFood Library can import recipes from DVO Cook'n X3. Export a cookbook or menu in the \"Cook'n\" format, rename the export extension to .zip, then upload the .zip below.",
       "title": "DVO Cook'n X3"
     },
     "recipe-data-migrations": "Recepšu datu migrācija",
-    "recipe-data-migrations-explanation": "Receptes var migrēt no citas atbalstītas lietojumprogrammas uz Mealie. Tas ir lielisks veids, kā sākt darbu ar Mealie.",
-    "coming-from-another-application-or-an-even-older-version-of-mealie": "Vai nāk no citas lietojumprogrammas vai vēl vecākas Mealie versijas? Pārbaudiet migrācijas un pārbaudiet, vai jūsu datus var importēt.",
+    "recipe-data-migrations-explanation": "Receptes var migrēt no citas atbalstītas lietojumprogrammas uz TrailFood Library. Tas ir lielisks veids, kā sākt darbu ar TrailFood Library.",
+    "coming-from-another-application-or-an-even-older-version-of-mealie": "Vai nāk no citas lietojumprogrammas vai vēl vecākas TrailFood Library versijas? Pārbaudiet migrācijas un pārbaudiet, vai jūsu datus var importēt.",
     "choose-migration-type": "Izvēlieties migrācijas veidu",
     "tag-all-recipes": "Atzīmējiet visas receptes ar {tag-name} tagu",
     "nextcloud-text": "Nextcloud receptes var importēt no zip faila, kas satur datus, kas saglabāti Nextcloud. Skatiet tālāk redzamo mapju struktūras piemēru, lai pārliecinātos, ka receptes var importēt.",
-    "chowdown-text": "Mealie sākotnēji atbalsta chowdown krātuves formātu. Lejupielādējiet kodu krātuvi kā.zip failu un augšupielādējiet to zemāk.",
+    "chowdown-text": "TrailFood Library sākotnēji atbalsta chowdown krātuves formātu. Lejupielādējiet kodu krātuvi kā.zip failu un augšupielādējiet to zemāk.",
     "recipe-1": "Recepte 1",
     "recipe-2": "2. recepte",
-    "paprika-text": "Mealie var importēt receptes no Paprika lietojumprogrammas. Eksportējiet savas receptes no paprikas, pārdēvējiet eksporta paplašinājumu uz.zip un augšupielādējiet to zemāk.",
-    "mealie-text": "Mealie var importēt receptes no lietojumprogrammas Mealie no pirms v1.0 izlaiduma. Eksportējiet receptes no vecās instances un augšupielādējiet zemāk esošo zip failu. Ņemiet vērā, ka no eksporta var importēt tikai receptes.",
+    "paprika-text": "TrailFood Library var importēt receptes no Paprika lietojumprogrammas. Eksportējiet savas receptes no paprikas, pārdēvējiet eksporta paplašinājumu uz.zip un augšupielādējiet to zemāk.",
+    "mealie-text": "TrailFood Library var importēt receptes no lietojumprogrammas TrailFood Library no pirms v1.0 izlaiduma. Eksportējiet receptes no vecās instances un augšupielādējiet zemāk esošo zip failu. Ņemiet vērā, ka no eksporta var importēt tikai receptes.",
     "plantoeat": {
       "title": "Plānojiet ēst",
-      "description-long": "Mealie var importēt receptes no Plan to Eat."
+      "description-long": "TrailFood Library var importēt receptes no Plan to Eat."
     },
     "myrecipebox": {
       "title": "Mana recepšu kaste",
-      "description-long": "Mealie var importēt receptes no My Recipe Box. Eksportējiet savas receptes CSV formātā, pēc tam augšupielādējiet zemāk esošo.csv failu."
+      "description-long": "TrailFood Library var importēt receptes no My Recipe Box. Eksportējiet savas receptes CSV formātā, pēc tam augšupielādējiet zemāk esošo.csv failu."
     },
     "recipekeeper": {
       "title": "Recepšu turētājs",
-      "description-long": "Mealie var importēt receptes no Recipe Keeper. Eksportējiet savas receptes zip formātā, pēc tam augšupielādējiet zemāk esošo.zip failu."
+      "description-long": "TrailFood Library var importēt receptes no Recipe Keeper. Eksportējiet savas receptes zip formātā, pēc tam augšupielādējiet zemāk esošo.zip failu."
     }
   },
   "new-recipe": {
     "bulk-add": "Lielapjoma pievienošana",
-    "error-details": "Mealie var importēt tikai vietnes, kas satur ld+json vai mikrodatus. Lielākā daļa lielāko recepšu vietņu atbalsta šo datu struktūru. Ja jūsu vietni nevar importēt, bet žurnālā ir json dati, lūdzu, iesniedziet github problēmu ar URL un datiem.",
+    "error-details": "TrailFood Library var importēt tikai vietnes, kas satur ld+json vai mikrodatus. Lielākā daļa lielāko recepšu vietņu atbalsta šo datu struktūru. Ja jūsu vietni nevar importēt, bet žurnālā ir json dati, lūdzu, iesniedziet github problēmu ar URL un datiem.",
     "error-title": "Izskatās, ka mēs neko nevarējām atrast",
     "from-url": "Importēt recepti",
     "github-issues": "GitHub problēmas",
@@ -486,7 +486,7 @@
     "recipe-url": "Receptes URL",
     "recipe-html-or-json": "Recepte HTML vai JSON",
     "upload-a-recipe": "Augšupielādējiet recepti",
-    "upload-individual-zip-file": "Augšupielādējiet atsevišķu.zip failu, kas eksportēts no citas Mealie instances.",
+    "upload-individual-zip-file": "Augšupielādējiet atsevišķu.zip failu, kas eksportēts no citas TrailFood Library instances.",
     "url-form-hint": "Kopējiet un ielīmējiet saiti no savas iecienītākās receptes vietnes",
     "copy-and-paste-the-source-url-of-your-data-optional": "Copy and paste the source URL of your data (optional)",
     "view-scraped-data": "Skatīt nokasītos datus",
@@ -645,7 +645,7 @@
     "failed-to-add-to-timeline": "Failed to add to timeline",
     "failed-to-update-recipe": "Failed to update recipe",
     "added-to-timeline-but-failed-to-add-image": "Added to timeline, but failed to add image",
-    "api-extras-description": "Recepšu ekstras ir galvenā Mealie API iezīme. Tie ļauj jums izveidot pielāgotus JSON atslēgu/vērtību pārus receptē, lai atsaucotos no trešo pušu lietojumprogrammām. Varat izmantot šos taustiņus, lai sniegtu informāciju, piemēram, aktivizētu automatizāciju vai pielāgotus ziņojumus, lai tos pārsūtītu uz vēlamo ierīci.",
+    "api-extras-description": "Recepšu ekstras ir galvenā TrailFood Library API iezīme. Tie ļauj jums izveidot pielāgotus JSON atslēgu/vērtību pārus receptē, lai atsaucotos no trešo pušu lietojumprogrammām. Varat izmantot šos taustiņus, lai sniegtu informāciju, piemēram, aktivizētu automatizāciju vai pielāgotus ziņojumus, lai tos pārsūtītu uz vēlamo ierīci.",
     "message-key": "Ziņojuma atslēga",
     "parse": "Parsēšana",
     "ingredients-not-parsed-description": "It looks like your ingredients aren't parsed yet. Click the \"{parse}\" button below to parse your ingredients into structured foods.",
@@ -664,7 +664,7 @@
     "create-recipes": "Izveidojiet receptes",
     "import-with-zip": "Importēt ar .zip",
     "create-recipe-from-images": "Create Recipe from Images",
-    "create-recipe-from-an-image-description": "Izveidojiet recepti, augšupielādējot tās attēlu. Mealie mēģinās iegūt tekstu no attēla, izmantojot AI, un no tā izveidot recepti.",
+    "create-recipe-from-an-image-description": "Izveidojiet recepti, augšupielādējot tās attēlu. TrailFood Library mēģinās iegūt tekstu no attēla, izmantojot AI, un no tā izveidot recepti.",
     "crop-and-rotate-the-image": "Apgrieziet un pagrieziet attēlu tā, lai būtu redzams tikai teksts un tas būtu pareizajā orientācijā.",
     "create-from-images": "Create from Images",
     "should-translate-description": "Tulkojiet recepti manā valodā",
@@ -675,8 +675,8 @@
     "create-a-recipe-by-providing-the-name-all-recipes-must-have-unique-names": "Izveidojiet recepti, norādot nosaukumu. Visām receptēm jābūt unikāliem nosaukumiem.",
     "new-recipe-names-must-be-unique": "Jaunajiem recepšu nosaukumiem jābūt unikāliem",
     "scrape-recipe": "Sasmalcināšanas recepte",
-    "scrape-recipe-description": "Scrape a recipe by url. Provide the url for the site you want to scrape, and Mealie will attempt to scrape the recipe from that site and add it to your collection.",
-    "scrape-recipe-description-transcription": "You can also provide the url to a video and Mealie will attempt to transcribe it into a recipe.",
+    "scrape-recipe-description": "Scrape a recipe by url. Provide the url for the site you want to scrape, and TrailFood Library will attempt to scrape the recipe from that site and add it to your collection.",
+    "scrape-recipe-description-transcription": "You can also provide the url to a video and TrailFood Library will attempt to transcribe it into a recipe.",
     "scrape-recipe-have-a-lot-of-recipes": "Vai jums ir daudz recepšu, kuras vēlaties uzreiz nokasīt?",
     "scrape-recipe-suggest-bulk-importer": "Izmēģiniet lielapjoma importētāju",
     "scrape-recipe-have-raw-html-or-json-data": "Vai jums ir neapstrādāti HTML vai JSON dati?",
@@ -688,23 +688,23 @@
     "stay-in-edit-mode": "Palieciet rediģēšanas režīmā",
     "parse-recipe-ingredients-after-import": "Parse recipe ingredients after import",
     "import-from-zip": "Importēt no Zip",
-    "import-from-zip-description": "Importējiet vienu recepti, kas tika eksportēta no cita Mealie gadījuma.",
+    "import-from-zip-description": "Importējiet vienu recepti, kas tika eksportēta no cita TrailFood Library gadījuma.",
     "import-from-html-or-json": "Importēt no HTML vai JSON",
-    "import-from-html-or-json-description": "Importējiet vienu recepti no neapstrādāta HTML vai JSON. Tas ir noderīgi, ja jums ir recepte no vietnes, kuru Mealie nevar normāli nokasīt, vai no kāda cita ārēja avota.",
+    "import-from-html-or-json-description": "Importējiet vienu recepti no neapstrādāta HTML vai JSON. Tas ir noderīgi, ja jums ir recepte no vietnes, kuru TrailFood Library nevar normāli nokasīt, vai no kāda cita ārēja avota.",
     "json-import-format-description-colon": "Lai importētu, izmantojot JSON, tam jābūt derīgā formātā:",
     "json-editor": "JSON redaktors",
-    "zip-files-must-have-been-exported-from-mealie": ".zip failiem jābūt eksportētiem no Mealie",
+    "zip-files-must-have-been-exported-from-mealie": ".zip failiem jābūt eksportētiem no TrailFood Library",
     "create-a-recipe-by-uploading-a-scan": "Izveidojiet recepti, augšupielādējot skenēšanu.",
     "upload-a-png-image-from-a-recipe-book": "Augšupielādējiet png attēlu no recepšu grāmatas",
     "recipe-bulk-importer": "Recepšu lielapjoma importētājs",
-    "recipe-bulk-importer-description": "Lielapjoma recepšu importētājs ļauj importēt vairākas receptes vienlaikus, rindojot vietnes aizmugurē un palaižot uzdevumu fonā. Tas var būt noderīgi, sākotnēji migrējot uz Mealie vai ja vēlaties importēt lielu skaitu recepšu.",
+    "recipe-bulk-importer-description": "Lielapjoma recepšu importētājs ļauj importēt vairākas receptes vienlaikus, rindojot vietnes aizmugurē un palaižot uzdevumu fonā. Tas var būt noderīgi, sākotnēji migrējot uz TrailFood Library vai ja vēlaties importēt lielu skaitu recepšu.",
     "set-categories-and-tags": "Iestatiet kategorijas un tagus",
     "bulk-imports": "Lielapjoma imports",
     "bulk-import-process-has-started": "Ir sācies lielapjoma importa process",
     "bulk-import-process-has-failed": "Lielapjoma importēšanas process nav bijis veiksmīgs",
     "report-deletion-failed": "Ziņojuma dzēšana neizdevās",
     "recipe-debugger": "Recepšu atkļūdotājs",
-    "recipe-debugger-description": "Paņemiet tās receptes URL, kuru vēlaties atkļūdot, un ielīmējiet to šeit. URL tiks nokasīts ar recepšu skrāpi, un tiks parādīti rezultāti. Ja neredzat atgrieztos datus, vietni, kuru mēģināt nokasīt, neatbalsta Mealie vai tās skrāpju bibliotēka.",
+    "recipe-debugger-description": "Paņemiet tās receptes URL, kuru vēlaties atkļūdot, un ielīmējiet to šeit. URL tiks nokasīts ar recepšu skrāpi, un tiks parādīti rezultāti. Ja neredzat atgrieztos datus, vietni, kuru mēģināt nokasīt, neatbalsta TrailFood Library vai tās skrāpju bibliotēka.",
     "use-openai": "Izmantojiet OpenAI",
     "recipe-debugger-use-openai-description": "Izmantojiet OpenAI, lai parsētu rezultātus, nevis paļautos uz skrāpju bibliotēku. Veidojot recepti, izmantojot URL, tas tiek darīts automātiski, ja skrāpju bibliotēka neizdodas, taču šeit varat to pārbaudīt manuāli.",
     "debug": "Atkļūdošana",
@@ -780,7 +780,7 @@
     "clear-selection": "Notīrīt atlasi",
     "results": "Rezultāti",
     "search": "Meklēt",
-    "search-mealie": "Meklēt Mealie (nospiediet/)",
+    "search-mealie": "Meklēt TrailFood Library (nospiediet/)",
     "search-placeholder": "Meklēt...",
     "tag-filter": "Tagu filtrs",
     "search-hint": "Nospiediet '/'",
@@ -806,7 +806,7 @@
       "import-summary": "Importa kopsavilkums",
       "partial-backup": "Daļēja dublēšana",
       "unable-to-delete-backup": "Nevar izdzēst dublējumu.",
-      "experimental-description": "Dublējumi ir kopējie vietnes datu bāzes un datu direktorija momentuzņēmumi. Tas ietver visus datus, un to nevar iestatīt, lai izslēgtu datu apakškopas. Jūs to varat iedomāties kā Mealie momentuzņēmumu noteiktā laikā. Tie kalpo kā datu bāzes agnostisks veids, kā eksportēt un importēt datus vai dublēt vietni ārējā vietā.",
+      "experimental-description": "Dublējumi ir kopējie vietnes datu bāzes un datu direktorija momentuzņēmumi. Tas ietver visus datus, un to nevar iestatīt, lai izslēgtu datu apakškopas. Jūs to varat iedomāties kā TrailFood Library momentuzņēmumu noteiktā laikā. Tie kalpo kā datu bāzes agnostisks veids, kā eksportēt un importēt datus vai dublēt vietni ārējā vietā.",
       "backup-restore": "Dublēšanas atjaunošana",
       "back-restore-description": "Atjaunojot šo dublējumu, tiks pārrakstīti visi pašreizējie dati jūsu datu bāzē un datu direktorijā un aizstāti tos ar šīs dublējuma saturu. {cannot-be-undone}Ja atjaunošana būs veiksmīga, jūs izrakstīsities.",
       "cannot-be-undone": "Šo darbību nevar atsaukt - lietojiet piesardzīgi.",
@@ -905,7 +905,7 @@
     "tracker": "Izsekotājs",
     "configuration": "Konfigurācija",
     "docker-volume": "Docker skaļums",
-    "docker-volume-help": "Mealie pieprasa, lai priekšējam konteineram un aizmugurējam būtu vienāds dokera tilpums vai krātuve. Tas nodrošina, ka frontend konteiners var pareizi piekļūt diskā saglabātajiem attēliem un resursiem.",
+    "docker-volume-help": "TrailFood Library pieprasa, lai priekšējam konteineram un aizmugurējam būtu vienāds dokera tilpums vai krātuve. Tas nodrošina, ka frontend konteiners var pareizi piekļūt diskā saglabātajiem attēliem un resursiem.",
     "volumes-are-misconfigured": "Apjomi ir nepareizi konfigurēti.",
     "volumes-are-configured-correctly": "Apjomi ir konfigurēti pareizi.",
     "status-unknown-try-running-a-validation": "Statuss nav zināms. Mēģiniet palaist validāciju.",
@@ -920,7 +920,7 @@
     "general-about": "Vispārīgi Par",
     "application-version": "Lietojumprogrammas versija",
     "application-version-error-text": "Jūsu pašreizējā versija ({0}) neatbilst jaunākajai versijai. Apsverot atjaunināšanu uz jaunāko versiju ({1}).",
-    "mealie-is-up-to-date": "Mealie ir atjaunināta",
+    "mealie-is-up-to-date": "TrailFood Library ir atjaunināta",
     "secure-site": "Droša vietne",
     "secure-site-error-text": "Apkalpojiet, izmantojot localhost vai droši, izmantojot https. Starpliktuve un papildu pārlūkprogrammas API var nedarboties.",
     "secure-site-success-text": "Vietnei piekļūst localhost vai https",
@@ -1010,7 +1010,7 @@
     "sign-up-links": "Reģistrēšanās saites",
     "sign-up-token-deleted": "Reģistrēšanās marķieris dzēsts",
     "sign-up-token-deletion-failed": "Reģistrēšanās marķiera dzēšana neizdevās",
-    "welcome-to-mealie": "Laipni lūdzam Mealie! Lai kļūtu par šī gadījuma lietotāju, jums ir nepieciešama derīga ielūguma saite. Ja neesat saņēmis ielūgumu, nevarat reģistrēties. Lai saņemtu saiti, sazinieties ar vietnes administratoru."
+    "welcome-to-mealie": "Laipni lūdzam TrailFood Library! Lai kļūtu par šī gadījuma lietotāju, jums ir nepieciešama derīga ielūguma saite. Ja neesat saņēmis ielūgumu, nevarat reģistrēties. Lai saņemtu saiti, sazinieties ar vietnes administratoru."
   },
   "tag": {
     "tag-created": "Izveidots tags",
@@ -1119,7 +1119,7 @@
     "user-details": "Informācija par lietotāju",
     "user-name": "Lietotāja vārds",
     "authentication-method": "Autentifikācijas metode",
-    "authentication-method-hint": "This specifies how a user will authenticate with Mealie. If you're not sure, choose 'Mealie",
+    "authentication-method-hint": "This specifies how a user will authenticate with TrailFood Library. If you're not sure, choose 'TrailFood Library",
     "permissions": "Atļaujas",
     "administrator": "Administrators",
     "user-can-invite-other-to-group": "Lietotājs var uzaicināt citus grupēt",
@@ -1138,7 +1138,7 @@
   "language-dialog": {
     "translated": "tulkots",
     "choose-language": "Izvēlieties valodu",
-    "select-description": "Izvēlieties valodu Mealie lietotāja saskarnei. Iestatījums attiecas tikai uz jums, nevis citiem lietotājiem.",
+    "select-description": "Izvēlieties valodu TrailFood Library lietotāja saskarnei. Iestatījums attiecas tikai uz jums, nevis citiem lietotājiem.",
     "how-to-contribute-description": "Vai kaut kas vēl nav tulkots, nepareizi tulkots vai sarakstā trūkst jūsu valodas? {read-the-docs-link}par to, kā dot ieguldījumu!",
     "read-the-docs": "Izlasiet dokumentus"
   },
@@ -1272,7 +1272,7 @@
     "group-details": "Grupas informācija",
     "group-details-description": "Pirms konta izveides jums būs jāizveido grupa. Jūsu grupā būs tikai jūs, bet vēlāk varēsiet uzaicināt citus. Jūsu grupas dalībnieki var dalīties maltīšu plānos, iepirkumu sarakstos, receptēs un daudz ko citu!",
     "use-seed-data": "Izmantojiet sēklu datus",
-    "use-seed-data-description": "Mealie ships with a collection of Foods, Units, and Labels that can be used to populate your group with helpful data for organizing your recipes. These are translated into the language you currently have selected. You can always add to or modify this data later.",
+    "use-seed-data-description": "TrailFood Library ships with a collection of Foods, Units, and Labels that can be used to populate your group with helpful data for organizing your recipes. These are translated into the language you currently have selected. You can always add to or modify this data later.",
     "account-details": "Konta informācija"
   },
   "validation": {
@@ -1372,14 +1372,14 @@
       "actions-description-destructive": "iznīcinošs",
       "actions-description-irreversible": "neatgriezenisks",
       "logs-action-refresh": "Atsvaidzināt žurnālus",
-      "logs-page-title": "Mealie žurnāli",
+      "logs-page-title": "TrailFood Library žurnāli",
       "logs-tail-lines-label": "Astes līnijas"
     },
     "mainentance": {
       "actions-title": "Darbības"
     },
     "ingredients-natural-language-processor": "Sastāvdaļas Dabiskās valodas procesors",
-    "ingredients-natural-language-processor-explanation": "Mealie izmanto nosacītos izlases laukus (CRF) sastāvdaļu parsēšanai un apstrādei. Sastāvdaļām izmantotais modelis ir balstīts uz datu kopu, kurā ir vairāk nekā 100 000 sastāvdaļu no datu kopas, ko apkopojis New York Times. Ņemiet vērā, ka, tā kā modelis ir apmācīts tikai angļu valodā, var būt dažādi rezultāti, lietojot modeli citās valodās. Šī lapa ir rotaļu laukums modeļa pārbaudei.",
+    "ingredients-natural-language-processor-explanation": "TrailFood Library izmanto nosacītos izlases laukus (CRF) sastāvdaļu parsēšanai un apstrādei. Sastāvdaļām izmantotais modelis ir balstīts uz datu kopu, kurā ir vairāk nekā 100 000 sastāvdaļu no datu kopas, ko apkopojis New York Times. Ņemiet vērā, ka, tā kā modelis ir apmācīts tikai angļu valodā, var būt dažādi rezultāti, lietojot modeli citās valodās. Šī lapa ir rotaļu laukums modeļa pārbaudei.",
     "ingredients-natural-language-processor-explanation-2": "Tas nav ideāls, taču kopumā tas dod lieliskus rezultātus un ir labs sākumpunkts sastāvdaļu manuālai parsēšanai atsevišķos laukos. Alternatīvi, varat izmantot arī “Brute” procesoru, kas izmanto modeļu saskaņošanas paņēmienu, lai identificētu sastāvdaļas.",
     "nlp": "NLP",
     "brute": "Brutāls",
@@ -1395,13 +1395,13 @@
     "tasks": "Uzdevumi",
     "setup": {
       "first-time-setup": "Pirmo reizi iestatīšana",
-      "welcome-to-mealie-get-started": "Laipni lūdzam Mealie! Sāksim",
+      "welcome-to-mealie-get-started": "Laipni lūdzam TrailFood Library! Sāksim",
       "already-set-up-bring-to-homepage": "Es jau esmu iestatīts, vienkārši nogādājiet mani mājaslapā",
       "common-settings-for-new-sites": "Šeit ir daži kopīgi iestatījumi jaunām vietnēm",
       "setup-complete": "Iestatīšana pabeigta!",
       "ai-providers-description": "Optionally configure AI providers for your group. AI providers enable features like creating recipes from images, importing recipes from videos, and enhanced ingredient parsing. You can always configure this later from your group settings.",
-      "here-are-a-few-things-to-help-you-get-started": "Šeit ir dažas lietas, kas palīdzēs jums sākt darbu ar Mealie",
-      "restore-from-v1-backup": "Vai jums ir dublējums no iepriekšējā Mealie v1 gadījuma? Jūs varat to atjaunot šeit.",
+      "here-are-a-few-things-to-help-you-get-started": "Šeit ir dažas lietas, kas palīdzēs jums sākt darbu ar TrailFood Library",
+      "restore-from-v1-backup": "Vai jums ir dublējums no iepriekšējā TrailFood Library v1 gadījuma? Jūs varat to atjaunot šeit.",
       "manage-profile-or-get-invite-link": "Pārvaldiet savu profilu vai paņemiet uzaicinājuma saiti, lai kopīgotu ar citiem."
     },
     "debug-openai-services": "OpenAI pakalpojumu atkļūdošana",
@@ -1420,9 +1420,9 @@
     "account-summary": "Konta kopsavilkums",
     "account-summary-description": "Šeit ir jūsu grupas informācijas kopsavilkums.",
     "group-statistics": "Grupas statistika",
-    "group-statistics-description": "Jūsu grupas statistika sniedz zināmu ieskatu, kā jūs izmantojat Mealie.",
+    "group-statistics-description": "Jūsu grupas statistika sniedz zināmu ieskatu, kā jūs izmantojat TrailFood Library.",
     "household-statistics": "Mājsaimniecību statistika",
-    "household-statistics-description": "Jūsu mājsaimniecības statistika sniedz zināmu ieskatu, kā jūs izmantojat Mealie.",
+    "household-statistics-description": "Jūsu mājsaimniecības statistika sniedz zināmu ieskatu, kā jūs izmantojat TrailFood Library.",
     "storage-capacity": "Uzglabāšanas ietilpība",
     "storage-capacity-description": "Jūsu atmiņas ietilpība ir augšupielādēto attēlu un līdzekļu aprēķins.",
     "personal": "Personīgais",
@@ -1519,7 +1519,7 @@
     "announcements": "Announcements",
     "all-announcements": "All announcements",
     "mark-all-as-read": "Mark All as Read",
-    "show-announcements-from-mealie": "Show announcements from Mealie",
-    "show-announcements-setting-description": "Whether or not you want to allow users to see announcements from Mealie. When enabled users can still opt-out from seeing them in their user settings"
+    "show-announcements-from-mealie": "Show announcements from TrailFood Library",
+    "show-announcements-setting-description": "Whether or not you want to allow users to see announcements from TrailFood Library. When enabled users can still opt-out from seeing them in their user settings"
   }
 }

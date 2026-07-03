@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie Unohtunut salasana",
+            "subject": "TrailFood Library Unohtunut salasana",
             "header_text": "Unohdin salasanan",
             "message_top": "Olet pyytänyt salasanasi nollausta.",
             "message_bottom": "Klikkaa yllä olevaa painiketta nollataksesi salasanasi.",
             "button_text": "Nollaa salasana"
         },
         "invitation": {
-            "subject": "Kutsu liittyä Mealieen",
+            "subject": "Kutsu liittyä TrailFood Libraryen",
             "header_text": "Sinut on kutsuttu.",
-            "message_top": "Sinut on kutsuttu liittymään Mealieen.",
+            "message_top": "Sinut on kutsuttu liittymään TrailFood Libraryen.",
             "message_bottom": "Klikkaa yllä olevaa painiketta hyväksyäksesi kutsun.",
             "button_text": "Hyväksy kutsu"
         },
         "test": {
-            "subject": "Mealie Testiviesti",
+            "subject": "TrailFood Library Testiviesti",
             "header_text": "Testiviesti",
             "message_top": "Tämä on testiviesti.",
             "message_bottom": "Ole hyvä ja klikkaa yllä olevaa painiketta testataksesi sähköpostia.",
-            "button_text": "Avaa Mealie"
+            "button_text": "Avaa TrailFood Library"
         }
     }
 }

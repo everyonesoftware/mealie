@@ -1,7 +1,7 @@
 {
   "about": {
     "about": "Hakkında",
-    "about-mealie": "Mealie hakkında",
+    "about-mealie": "TrailFood Library hakkında",
     "api-docs": "API Dokümantasyonu",
     "api-port": "API Portu",
     "application-mode": "Uygulama Modu",
@@ -57,7 +57,7 @@
     "event-delete-confirmation": "Bu etkinliği silmek istediğinizden emin misiniz?",
     "event-deleted": "Etkinlik silindi",
     "event-updated": "Etkinlik Güncellendi",
-    "new-notification-form-description": "Mealie bildirimleri oluşturmak için Apprise kütüphanesini kullanır. Apprise bildirimlerde kullanmak için pek çok seçenek sunar. Servisiniz için URL oluşturmak için onların wiki sayfasına göz atın. Eğer mümkünse, bilidiriminizin tipini seçmek size bazı ek özellikler sunabilir.",
+    "new-notification-form-description": "TrailFood Library bildirimleri oluşturmak için Apprise kütüphanesini kullanır. Apprise bildirimlerde kullanmak için pek çok seçenek sunar. Servisiniz için URL oluşturmak için onların wiki sayfasına göz atın. Eğer mümkünse, bilidiriminizin tipini seçmek size bazı ek özellikler sunabilir.",
     "new-version": "Yeni bir sürüm var!",
     "notification": "Bildirimler",
     "refresh": "Yenile",
@@ -421,7 +421,7 @@
     "recipe-migration": "Tarif Taşıma",
     "chowdown": {
       "description": "Verileri Chowdown'dan taşı",
-      "description-long": "Mealie yerel olarak chowdown veri havuzu biçimini destekler. Kod havuzunu bir .zip dosyası olarak indirin ve aşağıya yükleyin.",
+      "description-long": "TrailFood Library yerel olarak chowdown veri havuzu biçimini destekler. Kod havuzunu bir .zip dosyası olarak indirin ve aşağıya yükleyin.",
       "title": "Chowdown"
     },
     "nextcloud": {
@@ -430,52 +430,52 @@
       "title": "Nextcloud Yemek Kitabı"
     },
     "copymethat": {
-      "description-long": "Mealie, Copy Me That'den tarifleri içe aktarabilir. Tariflerinizi HTML biçiminde dışa aktarın, ardından aşağıdaki .zip dosyasını yükleyin.",
+      "description-long": "TrailFood Library, Copy Me That'den tarifleri içe aktarabilir. Tariflerinizi HTML biçiminde dışa aktarın, ardından aşağıdaki .zip dosyasını yükleyin.",
       "title": "Bana O Tarif Yöneticisini Kopyala"
     },
     "paprika": {
-      "description-long": "Mealie, Paprika uygulamasından tarifleri içe aktarabilir. Tariflerinizi paprika'dan dışa aktarın, dışa aktarma uzantısını .zip olarak yeniden adlandırın ve aşağıda yükleyin.",
+      "description-long": "TrailFood Library, Paprika uygulamasından tarifleri içe aktarabilir. Tariflerinizi paprika'dan dışa aktarın, dışa aktarma uzantısını .zip olarak yeniden adlandırın ve aşağıda yükleyin.",
       "title": "Paprika Tarif Yöneticisi"
     },
     "mealie-pre-v1": {
-      "description-long": "Mealie, v1.0 öncesi bir sürümden Mealie uygulamasından tarifleri içe aktarabilir. Tariflerinizi eski örneğinizden dışa aktarın ve aşağıdaki zip dosyasını yükleyin. Dışa aktarmadan yalnızca tariflerin içe aktarılabileceğini unutmayın.",
-      "title": "Mealie Pre v1.0"
+      "description-long": "TrailFood Library, v1.0 öncesi bir sürümden TrailFood Library uygulamasından tarifleri içe aktarabilir. Tariflerinizi eski örneğinizden dışa aktarın ve aşağıdaki zip dosyasını yükleyin. Dışa aktarmadan yalnızca tariflerin içe aktarılabileceğini unutmayın.",
+      "title": "TrailFood Library Pre v1.0"
     },
     "tandoor": {
-      "description-long": "Mealie, Tandoor'dan tarifleri içe aktarabilir. Verilerinizi \"Varsayılan\" biçimde dışa aktarın, ardından aşağıdaki .zip dosyasını yükleyin.",
+      "description-long": "TrailFood Library, Tandoor'dan tarifleri içe aktarabilir. Verilerinizi \"Varsayılan\" biçimde dışa aktarın, ardından aşağıdaki .zip dosyasını yükleyin.",
       "title": "Tandoor Tarifleri"
     },
     "cookn": {
-      "description-long": "Mealie can import recipes from DVO Cook'n X3. Export a cookbook or menu in the \"Cook'n\" format, rename the export extension to .zip, then upload the .zip below.",
+      "description-long": "TrailFood Library can import recipes from DVO Cook'n X3. Export a cookbook or menu in the \"Cook'n\" format, rename the export extension to .zip, then upload the .zip below.",
       "title": "DVO Cook'n X3"
     },
     "recipe-data-migrations": "Tarif Verilerini Taşı",
-    "recipe-data-migrations-explanation": "Tarifler desteklenen başka bir uygulamadan Mealie'ye taşınabilir. Bu Mealie kullanmaya başlamak için mükemmel bir yöntemdir.",
-    "coming-from-another-application-or-an-even-older-version-of-mealie": "Başka bir uygulamadan mı yoksa Mealie'nin daha eski bir sürümünden mi geliyorsunuz? Taşıma işlemlerine göz atın ve verilerinizin içe aktarılıp aktarılamayacağını görün.",
+    "recipe-data-migrations-explanation": "Tarifler desteklenen başka bir uygulamadan TrailFood Library'ye taşınabilir. Bu TrailFood Library kullanmaya başlamak için mükemmel bir yöntemdir.",
+    "coming-from-another-application-or-an-even-older-version-of-mealie": "Başka bir uygulamadan mı yoksa TrailFood Library'nin daha eski bir sürümünden mi geliyorsunuz? Taşıma işlemlerine göz atın ve verilerinizin içe aktarılıp aktarılamayacağını görün.",
     "choose-migration-type": "Taşıma Türünü Seçin",
     "tag-all-recipes": "Tüm tarifleri {tag-name} etiketiyle etiketle",
     "nextcloud-text": "Nextcloud tarifleri, Nextcloud'da depolanan verileri içeren bir zip dosyasından içe aktarılabilir. Tariflerinizin içe aktarılabildiğinden emin olmak için aşağıdaki örnek klasör yapısına bakın.",
-    "chowdown-text": "Mealie yerel olarak chowdown veri havuzu formatını destekler. Kod deposunu .zip dosyası olarak indirin ve aşağıya yükleyin.",
+    "chowdown-text": "TrailFood Library yerel olarak chowdown veri havuzu formatını destekler. Kod deposunu .zip dosyası olarak indirin ve aşağıya yükleyin.",
     "recipe-1": "Tarif 1",
     "recipe-2": "Tarif 2",
-    "paprika-text": "Mealie, Paprika uygulamasından tarifleri içe aktarabilir. Tariflerinizi paprika'dan dışa aktarın, dışa aktarma uzantısını .zip olarak yeniden adlandırın ve aşağıda yükleyin.",
-    "mealie-text": "Mealie, v1.0 öncesi bir sürümden Mealie uygulamasından tarifleri içe aktarabilir. Tariflerinizi eski örneğinizden dışa aktarın ve aşağıdaki zip dosyasını yükleyin. Dışa aktarmadan yalnızca tariflerin içe aktarılabileceğini unutmayın.",
+    "paprika-text": "TrailFood Library, Paprika uygulamasından tarifleri içe aktarabilir. Tariflerinizi paprika'dan dışa aktarın, dışa aktarma uzantısını .zip olarak yeniden adlandırın ve aşağıda yükleyin.",
+    "mealie-text": "TrailFood Library, v1.0 öncesi bir sürümden TrailFood Library uygulamasından tarifleri içe aktarabilir. Tariflerinizi eski örneğinizden dışa aktarın ve aşağıdaki zip dosyasını yükleyin. Dışa aktarmadan yalnızca tariflerin içe aktarılabileceğini unutmayın.",
     "plantoeat": {
       "title": "Plan to Eat",
-      "description-long": "Mealie, Plan to Eat'ten tarifleri içe aktarabilir."
+      "description-long": "TrailFood Library, Plan to Eat'ten tarifleri içe aktarabilir."
     },
     "myrecipebox": {
       "title": "Tarife Kutum",
-      "description-long": "Mealie Tarife Kutum'dan tarifleri içe aktarabilir. Tariflerinizi CSV formatında dışa aktarın, ardından .csv dosyasını aşağıya yükleyin."
+      "description-long": "TrailFood Library Tarife Kutum'dan tarifleri içe aktarabilir. Tariflerinizi CSV formatında dışa aktarın, ardından .csv dosyasını aşağıya yükleyin."
     },
     "recipekeeper": {
       "title": "Recipe Keeper",
-      "description-long": "Mealie tarifleri Recipe Keeper'dan içe aktarabilir. Tariflerinizi zip formatında dışa aktarın, daha sonra .zip dosyasını aşağıdan yükleyin."
+      "description-long": "TrailFood Library tarifleri Recipe Keeper'dan içe aktarabilir. Tariflerinizi zip formatında dışa aktarın, daha sonra .zip dosyasını aşağıdan yükleyin."
     }
   },
   "new-recipe": {
     "bulk-add": "Toplu Ekle",
-    "error-details": "Yalnızca ld+json veya mikro veriler içeren web siteleri Mealie tarafından içe aktarılabilir. Çoğu büyük yemek tarifi web sitesi bu veri yapısını desteklemektedir. Siteniz içe aktarılamıyorsa ancak günlükte json verileri varsa lütfen URL ve verilerle birlikte bir Github sorunu gönderin.",
+    "error-details": "Yalnızca ld+json veya mikro veriler içeren web siteleri TrailFood Library tarafından içe aktarılabilir. Çoğu büyük yemek tarifi web sitesi bu veri yapısını desteklemektedir. Siteniz içe aktarılamıyorsa ancak günlükte json verileri varsa lütfen URL ve verilerle birlikte bir Github sorunu gönderin.",
     "error-title": "Görünüşe Göre Hiçbir Şey Bulamadık",
     "from-url": "Tarif İçe Aktar",
     "github-issues": "GitHub Sorunları",
@@ -486,7 +486,7 @@
     "recipe-url": "Tarif Bağlantısı",
     "recipe-html-or-json": "Tarif HTML veya JSON",
     "upload-a-recipe": "Tarif Yükle",
-    "upload-individual-zip-file": "Başka bir Mealie örneğinden dışa aktarılan ayrı bir .zip dosyası yükleyin.",
+    "upload-individual-zip-file": "Başka bir TrailFood Library örneğinden dışa aktarılan ayrı bir .zip dosyası yükleyin.",
     "url-form-hint": "Favori tarif sitenizden bir bağlantıyı kopyalayıp yapıştırın",
     "copy-and-paste-the-source-url-of-your-data-optional": "Copy and paste the source URL of your data (optional)",
     "view-scraped-data": "Kazınmış Verileri Görüntüle",
@@ -645,7 +645,7 @@
     "failed-to-add-to-timeline": "Failed to add to timeline",
     "failed-to-update-recipe": "Tarif yenileme başarısız",
     "added-to-timeline-but-failed-to-add-image": "Added to timeline, but failed to add image",
-    "api-extras-description": "Tarif ekstraları Mealie API'nin önemli bir özelliğidir. Üçüncü taraf uygulamalardan referans almak üzere bir tarif içinde özel JSON anahtar/değer çiftleri oluşturmanıza olanak tanır. Bu tuşları, örneğin otomasyonları tetiklemek veya istediğiniz cihaza iletilecek özel mesajları bilgi sağlamak için kullanabilirsiniz.",
+    "api-extras-description": "Tarif ekstraları TrailFood Library API'nin önemli bir özelliğidir. Üçüncü taraf uygulamalardan referans almak üzere bir tarif içinde özel JSON anahtar/değer çiftleri oluşturmanıza olanak tanır. Bu tuşları, örneğin otomasyonları tetiklemek veya istediğiniz cihaza iletilecek özel mesajları bilgi sağlamak için kullanabilirsiniz.",
     "message-key": "İleti Anahtarı",
     "parse": "Ayrıştırma",
     "ingredients-not-parsed-description": "Görünüşe göre içerikleriniz henüz analiz edilmemiş. Aşağıdaki \"{parse}\" butonuna tıklayarak içeriklerinizi yapılandırılmış yiyeceklere ayırabilirsiniz.",
@@ -664,7 +664,7 @@
     "create-recipes": "Tarif Oluştur",
     "import-with-zip": ".zip ile içe aktar",
     "create-recipe-from-images": "Create Recipe from Images",
-    "create-recipe-from-an-image-description": "Bir görsel yükleyerek yemek tarifi oluşturun. Mealie, yapay zekâ kullanarak görseldeki bilgileri çekip yemek tarifini oluşturmaya çalışacaktır.",
+    "create-recipe-from-an-image-description": "Bir görsel yükleyerek yemek tarifi oluşturun. TrailFood Library, yapay zekâ kullanarak görseldeki bilgileri çekip yemek tarifini oluşturmaya çalışacaktır.",
     "crop-and-rotate-the-image": "Resmi sadece yazılar gözükecek şekilde kesin ve döndürün, ayrıca doğru yönde durduğuna emin olun.",
     "create-from-images": "Resimden Oluştur",
     "should-translate-description": "Tarifi kendi dilime çevir",
@@ -675,8 +675,8 @@
     "create-a-recipe-by-providing-the-name-all-recipes-must-have-unique-names": "Oluşturmak için tarifi adlandırın. Tüm tariflerin benzersiz adları olmalı.",
     "new-recipe-names-must-be-unique": "Yeni tarif ismi benzersiz olmalı",
     "scrape-recipe": "Tarifi Kazı",
-    "scrape-recipe-description": "Scrape a recipe by url. Provide the url for the site you want to scrape, and Mealie will attempt to scrape the recipe from that site and add it to your collection.",
-    "scrape-recipe-description-transcription": "You can also provide the url to a video and Mealie will attempt to transcribe it into a recipe.",
+    "scrape-recipe-description": "Scrape a recipe by url. Provide the url for the site you want to scrape, and TrailFood Library will attempt to scrape the recipe from that site and add it to your collection.",
+    "scrape-recipe-description-transcription": "You can also provide the url to a video and TrailFood Library will attempt to transcribe it into a recipe.",
     "scrape-recipe-have-a-lot-of-recipes": "Aynı anda kazımak istediğiniz birçok tarifiniz mi var?",
     "scrape-recipe-suggest-bulk-importer": "Toplu ithalatçıyı deneyin",
     "scrape-recipe-have-raw-html-or-json-data": "Ham HTML veya JSON verileriniz mi var?",
@@ -688,23 +688,23 @@
     "stay-in-edit-mode": "Düzenleme modunda kalın",
     "parse-recipe-ingredients-after-import": "Parse recipe ingredients after import",
     "import-from-zip": "Zip'ten içeri aktar",
-    "import-from-zip-description": "Başka bir Mealie örneğinden dışa aktarılmış tek bir tarifi içe aktarın.",
+    "import-from-zip-description": "Başka bir TrailFood Library örneğinden dışa aktarılmış tek bir tarifi içe aktarın.",
     "import-from-html-or-json": "HTML veya JSON veriden içe aktar",
-    "import-from-html-or-json-description": "Ham HTML veya JSON'dan tek bir tarif içe aktar. Bu, Mealie'nin normalde veri çekemediği bir siteden ya da başka bir dış kaynaktan bir tarifin varsa faydalıdır.",
+    "import-from-html-or-json-description": "Ham HTML veya JSON'dan tek bir tarif içe aktar. Bu, TrailFood Library'nin normalde veri çekemediği bir siteden ya da başka bir dış kaynaktan bir tarifin varsa faydalıdır.",
     "json-import-format-description-colon": "JSON'dan içe aktarmak için, geçerli formatta olmalıdır:",
     "json-editor": "JSON Editör",
-    "zip-files-must-have-been-exported-from-mealie": ".zip dosyası Mealie'den dışa aktarılmış olmalıdır",
+    "zip-files-must-have-been-exported-from-mealie": ".zip dosyası TrailFood Library'den dışa aktarılmış olmalıdır",
     "create-a-recipe-by-uploading-a-scan": "Bir tarama yükleyerek tarif oluşturun.",
     "upload-a-png-image-from-a-recipe-book": "Yemek tarifi kitabından bir png resmi yükleyin",
     "recipe-bulk-importer": "Toplu Tarif İçe Aktarıcı",
-    "recipe-bulk-importer-description": "Toplu tarif içe aktarıcı, arka uçtaki siteleri sıraya koyarak ve görevi arka planda çalıştırarak aynı anda birden fazla tarifi içe aktarmanıza olanak tanır. Bu, başlangıçta Mealie'ye geçiş yaparken veya çok sayıda tarifi içe aktarmak istediğinizde yararlı olabilir.",
+    "recipe-bulk-importer-description": "Toplu tarif içe aktarıcı, arka uçtaki siteleri sıraya koyarak ve görevi arka planda çalıştırarak aynı anda birden fazla tarifi içe aktarmanıza olanak tanır. Bu, başlangıçta TrailFood Library'ye geçiş yaparken veya çok sayıda tarifi içe aktarmak istediğinizde yararlı olabilir.",
     "set-categories-and-tags": "Kategorileri ve Etiketleri Belirleyin",
     "bulk-imports": "Toplu İçe Aktarmalar",
     "bulk-import-process-has-started": "Toplu İçe Aktarma işlemi başladı",
     "bulk-import-process-has-failed": "Toplu içe aktarma işlemi başarısız oldu",
     "report-deletion-failed": "Rapor silme başarısız oldu",
     "recipe-debugger": "Tarif Hata Ayıklayıcı",
-    "recipe-debugger-description": "Hata ayıklamak istediğiniz tarifin URL'sini alın ve buraya yapıştırın. URL, tarif kazıyıcı tarafından kazınacak ve sonuçlar görüntülenecektir. Herhangi bir veri çıktısı göremiyorsanız, kazımaya çalıştığınız site Mealie veya kazıyıcı kitaplığı tarafından desteklenmiyor demektir.",
+    "recipe-debugger-description": "Hata ayıklamak istediğiniz tarifin URL'sini alın ve buraya yapıştırın. URL, tarif kazıyıcı tarafından kazınacak ve sonuçlar görüntülenecektir. Herhangi bir veri çıktısı göremiyorsanız, kazımaya çalıştığınız site TrailFood Library veya kazıyıcı kitaplığı tarafından desteklenmiyor demektir.",
     "use-openai": "OpenAI Kullan",
     "recipe-debugger-use-openai-description": "Sonuçları ayrıştırmak için kazıyıcı kitaplığına güvenmek yerine OpenAI'yi kullanın. URL aracılığıyla bir tarif oluştururken, kazıyıcı kitaplığı başarısız olursa bu otomatik olarak yapılır, ancak burada manuel olarak test edebilirsiniz.",
     "debug": "Hata ayıklama",
@@ -780,7 +780,7 @@
     "clear-selection": "Seçimi Temizle",
     "results": "Sonuçlar",
     "search": "Ara",
-    "search-mealie": "Mealie'de Ara (/ tuşuna basın)",
+    "search-mealie": "TrailFood Library'de Ara (/ tuşuna basın)",
     "search-placeholder": "Ara...",
     "tag-filter": "Etiket süzgeci",
     "search-hint": "'/' Tuşuna Basın",
@@ -806,7 +806,7 @@
       "import-summary": "İçe aktarma özeti",
       "partial-backup": "Parçalı Yedekleme",
       "unable-to-delete-backup": "Yedekleme Silinemedi.",
-      "experimental-description": "Yedeklemeler, sitenin veritabanının ve veri dizininin toplam anlık görüntüleridir. Bu, tüm verileri içerir ve verilerin alt kümelerini hariç tutacak şekilde ayarlanamaz. Bunu Mealie'nin belirli bir andaki anlık görüntüsü olarak düşünebilirsiniz. Bunlar, verileri dışa ve içe aktarmanın veya siteyi harici bir konuma yedeklemenin veritabanından bağımsız bir yolu olarak hizmet eder.",
+      "experimental-description": "Yedeklemeler, sitenin veritabanının ve veri dizininin toplam anlık görüntüleridir. Bu, tüm verileri içerir ve verilerin alt kümelerini hariç tutacak şekilde ayarlanamaz. Bunu TrailFood Library'nin belirli bir andaki anlık görüntüsü olarak düşünebilirsiniz. Bunlar, verileri dışa ve içe aktarmanın veya siteyi harici bir konuma yedeklemenin veritabanından bağımsız bir yolu olarak hizmet eder.",
       "backup-restore": "Yedekleme Geri Yükleme",
       "back-restore-description": "Bu yedeği geri yüklemek, veritabanınızdaki ve veri dizinindeki tüm mevcut verilerin üzerine yazacak ve bunları bu yedeğin içeriğiyle değiştirecektir. {cannot-be-undone} Geri yükleme başarılı olursa oturumunuz kapatılacaktır.",
       "cannot-be-undone": "Bu işlem geri alınamaz - dikkatli kullanın.",
@@ -905,7 +905,7 @@
     "tracker": "Takipçi",
     "configuration": "Yapılandırma",
     "docker-volume": "Docker Birimi",
-    "docker-volume-help": "Mealie frontend ve backend konteynerlerinin aynı Docker volume'unu ya da depolamasını kullanmasını gerektirir. Bu frontent konteynerinin diskinizdeki resim ve diğer bileşenlere düzgün bir şekilde erişebildiğinden emin olur.",
+    "docker-volume-help": "TrailFood Library frontend ve backend konteynerlerinin aynı Docker volume'unu ya da depolamasını kullanmasını gerektirir. Bu frontent konteynerinin diskinizdeki resim ve diğer bileşenlere düzgün bir şekilde erişebildiğinden emin olur.",
     "volumes-are-misconfigured": "Birimler yanlış yapılandırılmış.",
     "volumes-are-configured-correctly": "Birimler doğru yapılandırılmış.",
     "status-unknown-try-running-a-validation": "Durum bilinmiyor. Bir doğrulama çalıştırmayı deneyin.",
@@ -920,7 +920,7 @@
     "general-about": "Genel Hakkında",
     "application-version": "Uygulama Sürümü",
     "application-version-error-text": "Geçerli sürümünüz ({0}) en son sürümle eşleşmiyor. En son sürüme ({1}) güncelleme düşünülüyor.",
-    "mealie-is-up-to-date": "Mealie güncel",
+    "mealie-is-up-to-date": "TrailFood Library güncel",
     "secure-site": "Güvenli Site",
     "secure-site-error-text": "Localhost aracılığıyla servis yapın veya https ile güvenli hale getirin. Pano ve ek tarayıcı API'leri çalışmayabilir.",
     "secure-site-success-text": "Siteye localhost veya https ile erişilmektedir",
@@ -1010,7 +1010,7 @@
     "sign-up-links": "Üye Olma Bağlantıları",
     "sign-up-token-deleted": "Üye Olma Jetonu Silindi",
     "sign-up-token-deletion-failed": "Üye olma jetonu silme başarısız oldu",
-    "welcome-to-mealie": "Mealie'ye Hoşgeldin! Bu örneğin bir kullanıcısı olabilmek için geçerli bir davet bağlantısına sahip olmanız gerekmektedir. Eğer davet almadıysanız kayıt olamazsınız. Bağlantı almak için site yöneticisiyle iletişime geçin."
+    "welcome-to-mealie": "TrailFood Library'ye Hoşgeldin! Bu örneğin bir kullanıcısı olabilmek için geçerli bir davet bağlantısına sahip olmanız gerekmektedir. Eğer davet almadıysanız kayıt olamazsınız. Bağlantı almak için site yöneticisiyle iletişime geçin."
   },
   "tag": {
     "tag-created": "Etiket oluşturuldu",
@@ -1119,7 +1119,7 @@
     "user-details": "Kullanıcı Ayrıntıları",
     "user-name": "Kullanıcı Adı",
     "authentication-method": "Kimlik Doğrulama Metodu",
-    "authentication-method-hint": "Bu, bir kullanıcının Mealie ile nasıl kimlik doğrulaması yapacağını belirtir. Emin değilseniz, 'Mealie'yi seçin",
+    "authentication-method-hint": "Bu, bir kullanıcının TrailFood Library ile nasıl kimlik doğrulaması yapacağını belirtir. Emin değilseniz, 'TrailFood Library'yi seçin",
     "permissions": "İzinler",
     "administrator": "Yönetici",
     "user-can-invite-other-to-group": "Kullanıcı, başkalarını gruba davet edebilir",
@@ -1138,7 +1138,7 @@
   "language-dialog": {
     "translated": "çevirilmiş",
     "choose-language": "Dil Seç",
-    "select-description": "Mealie kullanıcı arayüzü dilini seçin. Bu ayar yalnızca sizin için geçerlidir, diğer kullanıcılar için geçerli değildir.",
+    "select-description": "TrailFood Library kullanıcı arayüzü dilini seçin. Bu ayar yalnızca sizin için geçerlidir, diğer kullanıcılar için geçerli değildir.",
     "how-to-contribute-description": "Henüz çevrilmemiş, yanlış çevrilmiş bir şeyler var ya da diliniz listede eksik mi? Nasıl katkıda bulunacağınız hakkında {read-the-docs-link}!",
     "read-the-docs": "Belgeleri okuyun"
   },
@@ -1272,7 +1272,7 @@
     "group-details": "Grup Detayları",
     "group-details-description": "Hesap oluşturmadan önce bir grup oluşturmanız gerekir. Grubunuzda yalnızca siz yer alacaksınız ancak daha sonra başkalarını da davet edebileceksiniz. Grubunuzdaki üyeler yemek planlarını, alışveriş listelerini, tarifleri ve daha fazlasını paylaşabilir!",
     "use-seed-data": "Tohum Verisi Kullan",
-    "use-seed-data-description": "Mealie, tariflerinizi düzenlemek için grubunuzu faydalı verilerle doldurmak için kullanılabilecek yiyecek, birim ve etiket koleksiyonuyla birlikte geliyor. Bunlar şu anda seçtiğiniz dile çevriliyor. Bu veriyi daha sonra ekleyebilir veya değiştirebilirsiniz.",
+    "use-seed-data-description": "TrailFood Library, tariflerinizi düzenlemek için grubunuzu faydalı verilerle doldurmak için kullanılabilecek yiyecek, birim ve etiket koleksiyonuyla birlikte geliyor. Bunlar şu anda seçtiğiniz dile çevriliyor. Bu veriyi daha sonra ekleyebilir veya değiştirebilirsiniz.",
     "account-details": "Hesap Detayları"
   },
   "validation": {
@@ -1372,14 +1372,14 @@
       "actions-description-destructive": "yıkıcı",
       "actions-description-irreversible": "geri alınamaz",
       "logs-action-refresh": "Günlükleri Yenile",
-      "logs-page-title": "Mealie Günlükleri",
+      "logs-page-title": "TrailFood Library Günlükleri",
       "logs-tail-lines-label": "Kuyruk Çizgileri"
     },
     "mainentance": {
       "actions-title": "Eylemler"
     },
     "ingredients-natural-language-processor": "İçindekiler Doğal Dil İşlemcisi",
-    "ingredients-natural-language-processor-explanation": "Mealie, bileşenleri ayrıştırmak ve işlemek için Koşullu Rastgele Alanlar (CRF'ler) kullanır. İçerikler için kullanılan model, New York Times tarafından derlenen bir veri setinden 100.000'den fazla içerikten oluşan bir veri setine dayanmaktadır. Model yalnızca İngilizce olarak oluşturulduğundan, modeli diğer dillerde kullanırken farklı sonuçlar elde edebileceğinizi unutmayın. Bu sayfa, modeli test etmek için bir oyun alanıdır.",
+    "ingredients-natural-language-processor-explanation": "TrailFood Library, bileşenleri ayrıştırmak ve işlemek için Koşullu Rastgele Alanlar (CRF'ler) kullanır. İçerikler için kullanılan model, New York Times tarafından derlenen bir veri setinden 100.000'den fazla içerikten oluşan bir veri setine dayanmaktadır. Model yalnızca İngilizce olarak oluşturulduğundan, modeli diğer dillerde kullanırken farklı sonuçlar elde edebileceğinizi unutmayın. Bu sayfa, modeli test etmek için bir oyun alanıdır.",
     "ingredients-natural-language-processor-explanation-2": "Mükemmel değil, ancak genel olarak harika sonuçlar veriyor ve malzemeleri manuel olarak ayrı alanlara ayrıştırmak için iyi bir başlangıç noktası. Alternatif olarak, malzemeleri tanımlamak için bir model eşleştirme tekniği kullanan \"Brute\" işlemciyi de kullanabilirsiniz.",
     "nlp": "NLP",
     "brute": "Kaba",
@@ -1395,13 +1395,13 @@
     "tasks": "Görevler",
     "setup": {
       "first-time-setup": "İlk Kurulum",
-      "welcome-to-mealie-get-started": "Mealie'ye hoş geldiniz! Haydi başlayalım",
+      "welcome-to-mealie-get-started": "TrailFood Library'ye hoş geldiniz! Haydi başlayalım",
       "already-set-up-bring-to-homepage": "Kurulumu zaten yaptım, beni yalnızca ana sayfaya götür",
       "common-settings-for-new-sites": "Yeni siteler için bazı ortak ayarlar şunlardır",
       "setup-complete": "Kurulum tamamlandı!",
       "ai-providers-description": "Optionally configure AI providers for your group. AI providers enable features like creating recipes from images, importing recipes from videos, and enhanced ingredient parsing. You can always configure this later from your group settings.",
-      "here-are-a-few-things-to-help-you-get-started": "Mealie'yi kullanmaya başlamanıza yardımcı olacak birkaç şey",
-      "restore-from-v1-backup": "Mealie v1'in önceki örneğinden bir yedeğiniz mi var? Buradan geri yükleyebilirsiniz.",
+      "here-are-a-few-things-to-help-you-get-started": "TrailFood Library'yi kullanmaya başlamanıza yardımcı olacak birkaç şey",
+      "restore-from-v1-backup": "TrailFood Library v1'in önceki örneğinden bir yedeğiniz mi var? Buradan geri yükleyebilirsiniz.",
       "manage-profile-or-get-invite-link": "Kendi profilinizi yönetin veya başkalarıyla paylaşmak için bir davet bağlantısı alın."
     },
     "debug-openai-services": "Debug OpenAI Services",
@@ -1420,9 +1420,9 @@
     "account-summary": "Hesap Özeti",
     "account-summary-description": "Burada grubunuzun bilgilerinin bir özeti bulunmaktadır.",
     "group-statistics": "Grup İstatistikleri",
-    "group-statistics-description": "Grup İstatistikleriniz Mealie'yi nasıl kullandığınıza dair bazı bilgiler sağlar.",
+    "group-statistics-description": "Grup İstatistikleriniz TrailFood Library'yi nasıl kullandığınıza dair bazı bilgiler sağlar.",
     "household-statistics": "Hane İstatistikleri",
-    "household-statistics-description": "Hanenize ait istatistikler, Mealie'yi nasıl kullandığınıza dair bazı bilgiler sunar.",
+    "household-statistics-description": "Hanenize ait istatistikler, TrailFood Library'yi nasıl kullandığınıza dair bazı bilgiler sunar.",
     "storage-capacity": "Depolama Kapasitesi",
     "storage-capacity-description": "Depolama kapasiten yüklediğin resim ve diğer bileşenlerin toplamıdır.",
     "personal": "Kişisel",
@@ -1443,7 +1443,7 @@
     "notifiers": "Bildirimciler",
     "notifiers-description": "Belirli etkinliklerde tetiklenen e-posta ve anlık bildirimleri ayarlayın.",
     "manage-data": "Verileri Yönet",
-    "manage-data-description": "Mealie verilerinizi yönetin; Gıdalar, Birimler, Kategoriler, Etiketler ve daha fazlası.",
+    "manage-data-description": "TrailFood Library verilerinizi yönetin; Gıdalar, Birimler, Kategoriler, Etiketler ve daha fazlası.",
     "data-migrations": "Veri Taşımaları",
     "data-migrations-description": "Mevcut verilerinizi Nextcloud Recipes ve Chowdown gibi diğer uygulamalardan taşıyın.",
     "email-sent": "E-posta Gönderildi",
@@ -1519,7 +1519,7 @@
     "announcements": "Announcements",
     "all-announcements": "All announcements",
     "mark-all-as-read": "Mark All as Read",
-    "show-announcements-from-mealie": "Show announcements from Mealie",
-    "show-announcements-setting-description": "Whether or not you want to allow users to see announcements from Mealie. When enabled users can still opt-out from seeing them in their user settings"
+    "show-announcements-from-mealie": "Show announcements from TrailFood Library",
+    "show-announcements-setting-description": "Whether or not you want to allow users to see announcements from TrailFood Library. When enabled users can still opt-out from seeing them in their user settings"
   }
 }

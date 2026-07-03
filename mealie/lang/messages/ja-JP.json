@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealieパスワードを忘れた",
+            "subject": "TrailFood Libraryパスワードを忘れた",
             "header_text": "パスワードを忘れた",
             "message_top": "パスワードのリセットをリクエストしました。",
             "message_bottom": "パスワードをリセットするには、上記のボタンをクリックしてください。",
             "button_text": "パスワードのリセット"
         },
         "invitation": {
-            "subject": "Mealieへの招待",
+            "subject": "TrailFood Libraryへの招待",
             "header_text": "招待されました！",
-            "message_top": "Mealieに参加するよう招待されました。",
+            "message_top": "TrailFood Libraryに参加するよう招待されました。",
             "message_bottom": "上記のボタンをクリックして招待を承諾してください。",
             "button_text": "招待を承認"
         },
         "test": {
-            "subject": "Mealieテストメール",
+            "subject": "TrailFood Libraryテストメール",
             "header_text": "テストメール",
             "message_top": "これはテストメールです。",
             "message_bottom": "メールをテストするには、上のボタンをクリックしてください。",
-            "button_text": "Mealieを開く"
+            "button_text": "TrailFood Libraryを開く"
         }
     }
 }

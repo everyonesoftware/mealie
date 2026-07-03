@@ -4,15 +4,18 @@ import { clearAllStores } from "~/composables/store";
 import { clearComposableCaches } from "~/composables/use-clear-composable-caches";
 import { getTokenCookieOptions } from "~/composables/use-token-cookie";
 
-interface AuthData {
+interface AuthData
+{
   value: UserOut | null;
 }
 
-interface AuthStatus {
+interface AuthStatus
+{
   value: "loading" | "authenticated" | "unauthenticated";
 }
 
-interface AuthState {
+interface AuthState
+{
   data: AuthData;
   status: AuthStatus;
   token: { readonly value: string | null | undefined };
@@ -39,13 +42,16 @@ export const useAuthBackend = function (): AuthState {
   const tokenName = runtimeConfig.public.AUTH_TOKEN;
   const tokenCookie = useCookie(tokenName, getTokenCookieOptions());
 
-  function setToken(token: string | null) {
+  function setToken(token: string | null)
+  {
     tokenCookie.value = token;
   }
 
-  function handleAuthError(error: any, redirect = false) {
+  function handleAuthError(error: any, redirect = false)
+  {
     // Only clear token on auth errors, not network errors
-    if (error?.response?.status === 401) {
+    if (error?.response?.status === 401)
+    {
       setToken(null);
       resetAuth();
       if (redirect) {
@@ -54,30 +60,36 @@ export const useAuthBackend = function (): AuthState {
     }
   }
 
-  async function getSession(): Promise<void> {
-    if (!tokenCookie.value) {
+  async function getSession(): Promise<void>
+  {
+    if (!tokenCookie.value)
+    {
       authUser.value = null;
       authStatus.value = "unauthenticated";
       return;
     }
 
     authStatus.value = "loading";
-    try {
+    try
+    {
       const { data } = await $axios.get<UserOut>("/api/users/self");
       authUser.value = data;
       authStatus.value = "authenticated";
     }
-    catch (error: any) {
+    catch (error: any)
+    {
       console.error("Failed to fetch user session:", error);
       handleAuthError(error);
       authStatus.value = "unauthenticated";
     }
   }
 
-  async function signIn(credentials: FormData): Promise<void> {
+  async function signIn(credentials: FormData): Promise<void>
+  {
     authStatus.value = "loading";
 
-    try {
+    try
+    {
       const response = await $axios.post("/api/auth/token", credentials, {
         headers: {
           "Content-Type": "multipart/form-data",
@@ -88,21 +100,26 @@ export const useAuthBackend = function (): AuthState {
       setToken(access_token);
       await getSession();
     }
-    catch (error) {
+    catch (error)
+    {
       authStatus.value = "unauthenticated";
       throw error;
     }
   }
 
-  async function signOut(callbackUrl: string = ""): Promise<void> {
-    try {
+  async function signOut(callbackUrl: string = ""): Promise<void>
+  {
+    try
+    {
       await $axios.post("/api/auth/logout");
     }
-    catch (error) {
+    catch (error)
+    {
       // Continue with logout even if API call fails
       console.warn("Logout API call failed:", error);
     }
-    finally {
+    finally
+    {
       setToken(null);
       resetAuth();
 
@@ -119,16 +136,19 @@ export const useAuthBackend = function (): AuthState {
     }
   }
 
-  async function refresh(): Promise<void> {
+  async function refresh(): Promise<void>
+  {
     if (!tokenCookie.value) return;
 
-    try {
+    try
+    {
       const response = await $axios.get("/api/auth/refresh");
       const { access_token } = response.data;
       setToken(access_token);
       await getSession();
     }
-    catch (error: any) {
+    catch (error: any)
+    {
       handleAuthError(error, true);
       throw error;
     }

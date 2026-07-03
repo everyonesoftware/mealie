@@ -1,7 +1,7 @@
 {
   "about": {
     "about": "Over",
-    "about-mealie": "Over Mealie",
+    "about-mealie": "Over TrailFood Library",
     "api-docs": "API-documentatie",
     "api-port": "API-poort",
     "application-mode": "Applicatiemodus",
@@ -57,7 +57,7 @@
     "event-delete-confirmation": "Weet je zeker dat je deze gebeurtenis wilt verwijderen?",
     "event-deleted": "Gebeurtenis verwijderd",
     "event-updated": "Gebeurtenis bijgewerkt",
-    "new-notification-form-description": "Mealie gebruikt de notificatieservices van Apprise om meldingen te genereren. Apprise biedt diverse services aan om meldingen te versturen. Raadpleeg hun wiki voor een uitgebreide handleiding over het creëren van een link voor je service. Afhankelijk van de gekozen service zijn er mogelijk extra functionaliteiten beschikbaar.",
+    "new-notification-form-description": "TrailFood Library gebruikt de notificatieservices van Apprise om meldingen te genereren. Apprise biedt diverse services aan om meldingen te versturen. Raadpleeg hun wiki voor een uitgebreide handleiding over het creëren van een link voor je service. Afhankelijk van de gekozen service zijn er mogelijk extra functionaliteiten beschikbaar.",
     "new-version": "Nieuwe versie beschikbaar!",
     "notification": "Melding",
     "refresh": "Verversen",
@@ -421,7 +421,7 @@
     "recipe-migration": "Receptmigratie",
     "chowdown": {
       "description": "Migreer gegevens uit Chowdown",
-      "description-long": "Mealie ondersteunt het formaat van de chowdown repository. Download de repository als een .zip-bestand en upload deze hieronder.",
+      "description-long": "TrailFood Library ondersteunt het formaat van de chowdown repository. Download de repository als een .zip-bestand en upload deze hieronder.",
       "title": "Chowdown"
     },
     "nextcloud": {
@@ -430,52 +430,52 @@
       "title": "Nextcloud kookboek"
     },
     "copymethat": {
-      "description-long": "Mealie kan recepten importeren uit Copy Me That. Exporteer je recepten in HTML-formaat, upload daarna de .zip hieronder.",
+      "description-long": "TrailFood Library kan recepten importeren uit Copy Me That. Exporteer je recepten in HTML-formaat, upload daarna de .zip hieronder.",
       "title": "Receptenbeheerder Copy Me That"
     },
     "paprika": {
-      "description-long": "Mealie kan recepten uit het programma Paprika importeren. Exporteer je recepten uit Paprika, hernoem de extentie van het geëxporteerde bestand naar .zip en upload dat bestand hieronder.",
+      "description-long": "TrailFood Library kan recepten uit het programma Paprika importeren. Exporteer je recepten uit Paprika, hernoem de extentie van het geëxporteerde bestand naar .zip en upload dat bestand hieronder.",
       "title": "Paprika receptenbeheerder"
     },
     "mealie-pre-v1": {
-      "description-long": "Mealie kan recepten importeren uit oude versies van Mealie (voor versie 1.0). Exporteer je recepten vanuit de oude versie, en upload het zip-bestand hieronder. Let op dat alleen recepten uit de export kunnen worden geïmporteerd.",
-      "title": "Oude versies van Mealie (vóór versie 1.0)"
+      "description-long": "TrailFood Library kan recepten importeren uit oude versies van TrailFood Library (voor versie 1.0). Exporteer je recepten vanuit de oude versie, en upload het zip-bestand hieronder. Let op dat alleen recepten uit de export kunnen worden geïmporteerd.",
+      "title": "Oude versies van TrailFood Library (vóór versie 1.0)"
     },
     "tandoor": {
-      "description-long": "Mealie kan recepten importeren van Tandoor. Exporteer je gegevens in het \"Standaardformaat\" (\"Default\") en upload het .zip bestand hieronder.",
+      "description-long": "TrailFood Library kan recepten importeren van Tandoor. Exporteer je gegevens in het \"Standaardformaat\" (\"Default\") en upload het .zip bestand hieronder.",
       "title": "Tandoor-recepten"
     },
     "cookn": {
-      "description-long": "Mealie kan recepten importeren van DVO Cook'n X3. Exporteer een cookboek of menu in het \"Cook'n\" formaat. Verander de naam van de export extensie naar .zip. En upload daarna de .zip.",
+      "description-long": "TrailFood Library kan recepten importeren van DVO Cook'n X3. Exporteer een cookboek of menu in het \"Cook'n\" formaat. Verander de naam van de export extensie naar .zip. En upload daarna de .zip.",
       "title": "DVO Cook'n X3"
     },
     "recipe-data-migrations": "Receptmigratie",
-    "recipe-data-migrations-explanation": "Je kunt recepten van een ander programma importeren in Mealie. Zo kun je snel aan de slag.",
-    "coming-from-another-application-or-an-even-older-version-of-mealie": "Kom je van een andere toepassing of een oudere versie van Mealie? Kijk eens naar de migraties. Misschien kunnen we je gegevens importeren.",
+    "recipe-data-migrations-explanation": "Je kunt recepten van een ander programma importeren in TrailFood Library. Zo kun je snel aan de slag.",
+    "coming-from-another-application-or-an-even-older-version-of-mealie": "Kom je van een andere toepassing of een oudere versie van TrailFood Library? Kijk eens naar de migraties. Misschien kunnen we je gegevens importeren.",
     "choose-migration-type": "Kies het migratietype",
     "tag-all-recipes": "Label alle recepten met het label {tag-name}",
     "nextcloud-text": "Nextcloud-recepten kunnen worden geïmporteerd uit een zip-bestand dat de gegevens bevat die zijn opgeslagen in Nextcloud. Zie de voorbeeldmapstructuur hieronder om ervoor te zorgen dat je recepten kunnen worden geïmporteerd.",
-    "chowdown-text": "Mealie ondersteunt het formaat van de Chowdown repository. Download de repository als een .zip-bestand en upload deze hieronder.",
+    "chowdown-text": "TrailFood Library ondersteunt het formaat van de Chowdown repository. Download de repository als een .zip-bestand en upload deze hieronder.",
     "recipe-1": "Eerste recept",
     "recipe-2": "Tweede recept",
-    "paprika-text": "Mealie kan recepten uit het programma Paprika importeren. Exporteer je recepten uit Paprika, hernoem de extentie van het geëxporteerde bestand naar .zip en upload dat bestand hieronder.",
-    "mealie-text": "Mealie kan recepten importeren uit oude versies van Mealie (vóór versie 1.0). Exporteer je recepten vanuit de oude versie, en upload het zip-bestand hieronder. Let op dat alleen recepten uit de export kunnen worden geïmporteerd.",
+    "paprika-text": "TrailFood Library kan recepten uit het programma Paprika importeren. Exporteer je recepten uit Paprika, hernoem de extentie van het geëxporteerde bestand naar .zip en upload dat bestand hieronder.",
+    "mealie-text": "TrailFood Library kan recepten importeren uit oude versies van TrailFood Library (vóór versie 1.0). Exporteer je recepten vanuit de oude versie, en upload het zip-bestand hieronder. Let op dat alleen recepten uit de export kunnen worden geïmporteerd.",
     "plantoeat": {
       "title": "Plan to Eat",
-      "description-long": "Mealie kan recepten importeren van Plan naar Eet."
+      "description-long": "TrailFood Library kan recepten importeren van Plan naar Eet."
     },
     "myrecipebox": {
       "title": "My Recipe Box",
-      "description-long": "Mealie kan recepten importeren uit My Recipe Box. Exporteer je recepten in CSV-formaat, upload daarna het .csv bestand hieronder."
+      "description-long": "TrailFood Library kan recepten importeren uit My Recipe Box. Exporteer je recepten in CSV-formaat, upload daarna het .csv bestand hieronder."
     },
     "recipekeeper": {
       "title": "Recipe Keeper",
-      "description-long": "Mealie kan recepten importeren van Recipe Keeper. Exporteer de recepten als .zip. Dat bestand kan je hier dan uploaden."
+      "description-long": "TrailFood Library kan recepten importeren van Recipe Keeper. Exporteer de recepten als .zip. Dat bestand kan je hier dan uploaden."
     }
   },
   "new-recipe": {
     "bulk-add": "Toevoegen in bulk",
-    "error-details": "Alleen websites met ld+json of microdata kunnen worden geïmporteerd door Mealie. De meeste grote receptenwebsites ondersteunen deze gegevensstructuur. Als je site niet kan worden geïmporteerd, maar er zijn json-gegevens in de log, maak dan een github issue aan met de URL en gegevens.",
+    "error-details": "Alleen websites met ld+json of microdata kunnen worden geïmporteerd door TrailFood Library. De meeste grote receptenwebsites ondersteunen deze gegevensstructuur. Als je site niet kan worden geïmporteerd, maar er zijn json-gegevens in de log, maak dan een github issue aan met de URL en gegevens.",
     "error-title": "Het lijkt erop dat we niets konden vinden",
     "from-url": "Recept importeren",
     "github-issues": "GitHubproblemen",
@@ -486,7 +486,7 @@
     "recipe-url": "Recept-URL",
     "recipe-html-or-json": "Recept HTML of JSON",
     "upload-a-recipe": "Upload een recept",
-    "upload-individual-zip-file": "Upload een .zip-bestand dat uit een andere Mealie-instantie is geëxporteerd.",
+    "upload-individual-zip-file": "Upload een .zip-bestand dat uit een andere TrailFood Library-instantie is geëxporteerd.",
     "url-form-hint": "Kopieer en plak een link vanuit jouw favoriete receptenwebsite",
     "copy-and-paste-the-source-url-of-your-data-optional": "Kopieer en plak de bron URL van uw gegevens (optioneel)",
     "view-scraped-data": "Bekijk opgehaalde data",
@@ -645,10 +645,10 @@
     "failed-to-add-to-timeline": "Toegevoegd aan tijdlijn",
     "failed-to-update-recipe": "Updaten recept mislukt",
     "added-to-timeline-but-failed-to-add-image": "Toegevoegd aan tijdlijn maar afbeelding is niet gelukt",
-    "api-extras-description": "Extra's bij recepten zijn een belangrijke functie van de Mealie API. Hiermee kun je aangepaste JSON key/value paren maken bij een recept om naar te verwijzen vanuit applicaties van derden. Je kunt deze sleutels gebruiken om extra informatie te bieden, bijvoorbeeld om automatisering aan te sturen of aangepaste berichten naar je gewenste apparaat te laten versturen.",
+    "api-extras-description": "Extra's bij recepten zijn een belangrijke functie van de TrailFood Library API. Hiermee kun je aangepaste JSON key/value paren maken bij een recept om naar te verwijzen vanuit applicaties van derden. Je kunt deze sleutels gebruiken om extra informatie te bieden, bijvoorbeeld om automatisering aan te sturen of aangepaste berichten naar je gewenste apparaat te laten versturen.",
     "message-key": "Berichtsleutel",
     "parse": "Ontleed",
-    "ingredients-not-parsed-description": "Mealie heeft je ingrediënten nog niet verwerkt. Klik op de '{parse}' knop om je ingrediënten te verwerken als gestructureerde levensmiddelen.",
+    "ingredients-not-parsed-description": "TrailFood Library heeft je ingrediënten nog niet verwerkt. Klik op de '{parse}' knop om je ingrediënten te verwerken als gestructureerde levensmiddelen.",
     "attach-images-hint": "Voeg afbeeldingen toe door ze te slepen en in de editor te plaatsen",
     "drop-image": "Afbeelding toevoegen",
     "enable-ingredient-amounts-to-use-this-feature": "Schakel ingrediënthoeveelheden in om deze functie te gebruiken",
@@ -664,19 +664,19 @@
     "create-recipes": "Recepten aanmaken",
     "import-with-zip": "Importeer met .zip",
     "create-recipe-from-images": "Maak een recept op basis van een afbeelding",
-    "create-recipe-from-an-image-description": "Maak een recept door een afbeelding ervan te uploaden. Mealie probeert de tekst met behulp van AI uit de afbeelding te halen en er een recept uit te maken.",
+    "create-recipe-from-an-image-description": "Maak een recept door een afbeelding ervan te uploaden. TrailFood Library probeert de tekst met behulp van AI uit de afbeelding te halen en er een recept uit te maken.",
     "crop-and-rotate-the-image": "Snijd de afbeelding bij zodat alleen tekst zichtbaar is. En draai t plaatje zodat het leesbaar is.",
     "create-from-images": "Maak recept van een afbeelding",
     "should-translate-description": "Vertaal het recept in mijn taal",
-    "please-wait-image-procesing": "Even wachten. Mealie verwerkt de afbeelding. Dit kan even duren.",
-    "please-wait-images-processing": "Even wachten. Mealie verwerkt de afbeelding. Dit kan even duren.",
+    "please-wait-image-procesing": "Even wachten. TrailFood Library verwerkt de afbeelding. Dit kan even duren.",
+    "please-wait-images-processing": "Even wachten. TrailFood Library verwerkt de afbeelding. Dit kan even duren.",
     "bulk-url-import": "URL-import in bulk",
     "debug-scraper": "Debug Scraper",
     "create-a-recipe-by-providing-the-name-all-recipes-must-have-unique-names": "Maak een recept door het een naam te geven. Alle recepten moeten unieke namen hebben.",
     "new-recipe-names-must-be-unique": "Nieuwe receptnamen moeten uniek zijn",
     "scrape-recipe": "Scrape recept",
-    "scrape-recipe-description": "Een recept ophalen via de url. Voer de url in van de website waarvan je het recept wilt ophalen en Mealie zal proberen het recept van die website op te halen en aan je verzameling toe te voegen.",
-    "scrape-recipe-description-transcription": "Je kunt ook de url naar een video geven en Mealie zal proberen deze in een recept om te zetten.",
+    "scrape-recipe-description": "Een recept ophalen via de url. Voer de url in van de website waarvan je het recept wilt ophalen en TrailFood Library zal proberen het recept van die website op te halen en aan je verzameling toe te voegen.",
+    "scrape-recipe-description-transcription": "Je kunt ook de url naar een video geven en TrailFood Library zal proberen deze in een recept om te zetten.",
     "scrape-recipe-have-a-lot-of-recipes": "Heb je veel recepten die je in één keer wil importeren?",
     "scrape-recipe-suggest-bulk-importer": "Probeer importeren in bulk",
     "scrape-recipe-have-raw-html-or-json-data": "Heb je onbewerkte HTML of JSON gegevens?",
@@ -688,23 +688,23 @@
     "stay-in-edit-mode": "Blijf in bewerkingsmodus",
     "parse-recipe-ingredients-after-import": "Ontleed de ingrediënten van het recept na importeren",
     "import-from-zip": "Importeren uit zip",
-    "import-from-zip-description": "Importeer een recept dat geëxporteerd was uit een andere Mealie instantie.",
+    "import-from-zip-description": "Importeer een recept dat geëxporteerd was uit een andere TrailFood Library instantie.",
     "import-from-html-or-json": "Importeer van HTML of JSON",
-    "import-from-html-or-json-description": "Importeer een enkel recept van ruwe HTML of JSON. Dit is handig als je een recept hebt van een site dat Mealie niet normaal kan scrapen, of van een andere externe bron.",
+    "import-from-html-or-json-description": "Importeer een enkel recept van ruwe HTML of JSON. Dit is handig als je een recept hebt van een site dat TrailFood Library niet normaal kan scrapen, of van een andere externe bron.",
     "json-import-format-description-colon": "Om via JSON te kunnen importeren, moet deze in geldig formaat zijn:",
     "json-editor": "JSON-bewerker",
-    "zip-files-must-have-been-exported-from-mealie": ".zip-bestanden moeten uit Mealie geëxporteerd zijn",
+    "zip-files-must-have-been-exported-from-mealie": ".zip-bestanden moeten uit TrailFood Library geëxporteerd zijn",
     "create-a-recipe-by-uploading-a-scan": "Een recept maken door een scan te uploaden.",
     "upload-a-png-image-from-a-recipe-book": "Upload een png-afbeelding uit een receptenboek",
     "recipe-bulk-importer": "Recepten in bulk importeren",
-    "recipe-bulk-importer-description": "Met recepten in bulk importeren kunt u meerdere recepten tegelijk importeren door de sites op de backend in een wachtrij te plaatsen en de taak op de achtergrond uit te voeren. Dit kan handig zijn bij een eerste migratie naar Mealie, of wanneer u een groot aantal recepten wilt importeren.",
+    "recipe-bulk-importer-description": "Met recepten in bulk importeren kunt u meerdere recepten tegelijk importeren door de sites op de backend in een wachtrij te plaatsen en de taak op de achtergrond uit te voeren. Dit kan handig zijn bij een eerste migratie naar TrailFood Library, of wanneer u een groot aantal recepten wilt importeren.",
     "set-categories-and-tags": "Categorieën en tags instellen",
     "bulk-imports": "Importeren in bulk",
     "bulk-import-process-has-started": "Bulk importproces is gestart",
     "bulk-import-process-has-failed": "Bulk-importproces is mislukt",
     "report-deletion-failed": "Rapport verwijderen is mislukt",
     "recipe-debugger": "Recept debugger",
-    "recipe-debugger-description": "Pak de URL van het recept dat u wilt debuggen en plak die hier. De URL zal door de receptenscraper worden gescrapet en de resultaten zullen worden weergegeven. Als u geen gegevens ziet, wordt de site die u probeert te scrapen niet ondersteund door Mealie of zijn scraperbibliotheek.",
+    "recipe-debugger-description": "Pak de URL van het recept dat u wilt debuggen en plak die hier. De URL zal door de receptenscraper worden gescrapet en de resultaten zullen worden weergegeven. Als u geen gegevens ziet, wordt de site die u probeert te scrapen niet ondersteund door TrailFood Library of zijn scraperbibliotheek.",
     "use-openai": "Gebruik OpenAI",
     "recipe-debugger-use-openai-description": "Gebruik OpenAI om de resultaten te verwerken in plaats van te vertrouwen op de scraper-bibliotheek. Bij het maken van een recept via een URL wordt dit automatisch gedaan als de scraper-bibliotheek mislukt, maar u kunt het hier handmatig testen.",
     "debug": "Debug",
@@ -730,8 +730,8 @@
       "no-unit": "Geen eenheid",
       "missing-unit": "Maak ontbrekende eenheid aan: {unit}",
       "missing-food": "Ontbrekend levensmiddel maken: {food}",
-      "this-unit-could-not-be-parsed-automatically": "Mealie kon deze meeteenheid niet automatisch verwerken",
-      "this-food-could-not-be-parsed-automatically": "Mealie kon dit soort voedsel niet automatisch verwerken",
+      "this-unit-could-not-be-parsed-automatically": "TrailFood Library kon deze meeteenheid niet automatisch verwerken",
+      "this-food-could-not-be-parsed-automatically": "TrailFood Library kon dit soort voedsel niet automatisch verwerken",
       "no-food": "Geen levensmiddel",
       "review-parsed-ingredients": "Controleer ingrediënten na de ontleding",
       "confidence-score": "Betrouwbaarheids-score",
@@ -780,7 +780,7 @@
     "clear-selection": "Selectie wissen",
     "results": "Resultaten",
     "search": "Zoek",
-    "search-mealie": "Zoek in Mealie (druk /)",
+    "search-mealie": "Zoek in TrailFood Library (druk /)",
     "search-placeholder": "Zoeken...",
     "tag-filter": "Labelfilter",
     "search-hint": "Druk op '/'",
@@ -806,7 +806,7 @@
       "import-summary": "Samenvatting importeren",
       "partial-backup": "Gedeeltelijke back-up",
       "unable-to-delete-backup": "Kan back-up niet verwijderen.",
-      "experimental-description": "Back-ups zijn een complete kopie van de database en de data map. Je kunt niet kiezen wat wel of niet in de reservekopie zit. Het is een kopie van Mealie van dat moment. Je kunt de back-up gebruiken om data te importeren of exporteren. Of om de hele site op een andere plek te bewaren.",
+      "experimental-description": "Back-ups zijn een complete kopie van de database en de data map. Je kunt niet kiezen wat wel of niet in de reservekopie zit. Het is een kopie van TrailFood Library van dat moment. Je kunt de back-up gebruiken om data te importeren of exporteren. Of om de hele site op een andere plek te bewaren.",
       "backup-restore": "Back-up maken/terugzetten",
       "back-restore-description": "Het terugzetten van deze back-up overschrijft alle huidige gegevens in je database en in de gegevensmap. {cannot-be-undone} Als het terugzetten is gelukt wordt je afgemeld.",
       "cannot-be-undone": "Deze actie kan niet ongedaan worden gemaakt – gebruik met voorzichtigheid.",
@@ -905,7 +905,7 @@
     "tracker": "Tracker",
     "configuration": "Configuratie",
     "docker-volume": "Docker Volume",
-    "docker-volume-help": "Mealie vereist dat de frontend container en de backend hetzelfde docker volume of opslag delen. Dit zorgt ervoor dat de frontend container op een goede manier toegang heeft tot de afbeeldingen en bestanden op de schijf.",
+    "docker-volume-help": "TrailFood Library vereist dat de frontend container en de backend hetzelfde docker volume of opslag delen. Dit zorgt ervoor dat de frontend container op een goede manier toegang heeft tot de afbeeldingen en bestanden op de schijf.",
     "volumes-are-misconfigured": "Volumes zijn verkeerd geconfigureerd.",
     "volumes-are-configured-correctly": "Volumes zijn juist geconfigureerd.",
     "status-unknown-try-running-a-validation": "Status onbekend. Probeer een controle te doen.",
@@ -920,7 +920,7 @@
     "general-about": "Algemene informatie",
     "application-version": "Applicatieversie",
     "application-version-error-text": "De huidige versie ({0}) komt niet overeen met de nieuwste versie. Overweeg bijwerken naar de laatste versie ({1}).",
-    "mealie-is-up-to-date": "Laatste versie van Mealie",
+    "mealie-is-up-to-date": "Laatste versie van TrailFood Library",
     "secure-site": "Beveiligde website",
     "secure-site-error-text": "Benader via localhost of beveiligd met https. Clipboard en extra browser-API's werken mogelijk niet.",
     "secure-site-success-text": "Site wordt geopend door localhost of https",
@@ -1010,7 +1010,7 @@
     "sign-up-links": "Registratielinks",
     "sign-up-token-deleted": "Registratietoken verwijderd",
     "sign-up-token-deletion-failed": "Registratietoken verwijderen mislukt",
-    "welcome-to-mealie": "Welkom bij Mealie! Om gebruiker te worden van deze instantie ben je verplicht om een geldige registratielink te hebben. Neem contact op met de beheerder als je nog geen uitnodiging hebt ontvangen."
+    "welcome-to-mealie": "Welkom bij TrailFood Library! Om gebruiker te worden van deze instantie ben je verplicht om een geldige registratielink te hebben. Neem contact op met de beheerder als je nog geen uitnodiging hebt ontvangen."
   },
   "tag": {
     "tag-created": "Label aangemaakt",
@@ -1119,7 +1119,7 @@
     "user-details": "Gebruikersdetails",
     "user-name": "Gebruikersnaam",
     "authentication-method": "Verificatiemethode",
-    "authentication-method-hint": "Dit bepaalt hoe een gebruiker zich aanmeldt bij Mealie. Als je het niet zeker weet, kies dan voor 'Mealie'",
+    "authentication-method-hint": "Dit bepaalt hoe een gebruiker zich aanmeldt bij TrailFood Library. Als je het niet zeker weet, kies dan voor 'TrailFood Library'",
     "permissions": "Gebruikersrechten",
     "administrator": "Beheerder",
     "user-can-invite-other-to-group": "Gebruiker kan anderen uitnodigen voor zijn groep",
@@ -1138,7 +1138,7 @@
   "language-dialog": {
     "translated": "vertaald",
     "choose-language": "Taal kiezen",
-    "select-description": "Kies de taal voor Mealie UI. De instelling is alleen voor jou van toepassing, niet voor andere gebruikers.",
+    "select-description": "Kies de taal voor TrailFood Library UI. De instelling is alleen voor jou van toepassing, niet voor andere gebruikers.",
     "how-to-contribute-description": "Is iets nog niet, of verkeerd vertaald, of ontbreekt je taal in de lijst? {read-the-docs-link} over hoe je een bijdrage levert!",
     "read-the-docs": "Lees de documentatie"
   },
@@ -1272,7 +1272,7 @@
     "group-details": "Groepsdetails",
     "group-details-description": "Voordat je een account aanmaakt moet je eerst een groep aanmaken. Jij bent het enige lid van de groep, maar je kunt later anderen uitnodigen. Leden van je groep kunnen maaltijdplannen, boodschappenlijstjes, recepten en nog veel meer delen!",
     "use-seed-data": "Gebruik voorbeeldgegevens",
-    "use-seed-data-description": "Mealie komt standaard met lijsten voor Voedsel, Eenheden en Labels. Die gebruik je om je recepten handig in te delen. Of om je groep handige informatie te geven. Ze zijn vertaald in de taal die je voor Mealie hebt ingesteld. Je kunt deze lijsten altijd aanvullen of aanpassen.",
+    "use-seed-data-description": "TrailFood Library komt standaard met lijsten voor Voedsel, Eenheden en Labels. Die gebruik je om je recepten handig in te delen. Of om je groep handige informatie te geven. Ze zijn vertaald in de taal die je voor TrailFood Library hebt ingesteld. Je kunt deze lijsten altijd aanvullen of aanpassen.",
     "account-details": "Accountgegevens"
   },
   "validation": {
@@ -1372,14 +1372,14 @@
       "actions-description-destructive": "destructief",
       "actions-description-irreversible": "onomkeerbaar",
       "logs-action-refresh": "Logbestanden verversen",
-      "logs-page-title": "Mealie logboekbestanden",
+      "logs-page-title": "TrailFood Library logboekbestanden",
       "logs-tail-lines-label": "Laatste regels"
     },
     "mainentance": {
       "actions-title": "Acties"
     },
     "ingredients-natural-language-processor": "Natuurlijke taalprocessor voor ingrediënten",
-    "ingredients-natural-language-processor-explanation": "Mealie gebruikt willekeurige voorwaardelijke velden (Conditional Random Fields, CRFs) voor het ontleden en verwerken van ingrediënten. Het model is gebaseerd op een gegevensset van meer dan 100.000 ingrediënten. Die komen uit een dataset die is samengesteld door de New York Times. Aangezien het model alleen in het Engels wordt getraind, kan het resultaat van het model in andere talen wisselend zijn. Deze pagina is een speeltuin om het model te testen.",
+    "ingredients-natural-language-processor-explanation": "TrailFood Library gebruikt willekeurige voorwaardelijke velden (Conditional Random Fields, CRFs) voor het ontleden en verwerken van ingrediënten. Het model is gebaseerd op een gegevensset van meer dan 100.000 ingrediënten. Die komen uit een dataset die is samengesteld door de New York Times. Aangezien het model alleen in het Engels wordt getraind, kan het resultaat van het model in andere talen wisselend zijn. Deze pagina is een speeltuin om het model te testen.",
     "ingredients-natural-language-processor-explanation-2": "Het is niet perfect, maar het levert over het algemeen uitstekende resultaten op en is een goed uitgangspunt voor het handmatig ontleden van ingrediënten in afzonderlijke velden. Je kunt ook de \"Ruwe\" ontleder gebruiken die een patroonovereenkomende techniek gebruikt om ingrediënten te identificeren.",
     "nlp": "NLP",
     "brute": "Ruw",
@@ -1395,13 +1395,13 @@
     "tasks": "Taken",
     "setup": {
       "first-time-setup": "Instellingen eerste gebruik",
-      "welcome-to-mealie-get-started": "Welkom bij Mealie! Laten we beginnen",
+      "welcome-to-mealie-get-started": "Welkom bij TrailFood Library! Laten we beginnen",
       "already-set-up-bring-to-homepage": "Ik ben al ingesteld, breng me naar de startpagina",
       "common-settings-for-new-sites": "Hier zijn enkele algemene instellingen voor nieuwe sites",
       "setup-complete": "Installatie voltooid!",
       "ai-providers-description": "Optioneel kun je AI-aanbieders instellen voor je groep. AI-aanbieders maken functies, zoals het maken van recepten op basis van afbeeldingen, het malen van recepten op basis van video's, en verbeterde ingrediëntenparsing mogelijk. Je kunt dit later altijd instellen vanuit je groepsinstellingen.",
-      "here-are-a-few-things-to-help-you-get-started": "Hier zijn een aantal dingen om je op weg te helpen met Mealie",
-      "restore-from-v1-backup": "Heb je een back-up van een vorig exemplaar van Mealie v1? Deze kan je hier terugzetten.",
+      "here-are-a-few-things-to-help-you-get-started": "Hier zijn een aantal dingen om je op weg te helpen met TrailFood Library",
+      "restore-from-v1-backup": "Heb je een back-up van een vorig exemplaar van TrailFood Library v1? Deze kan je hier terugzetten.",
       "manage-profile-or-get-invite-link": "Beheer je eigen profiel, of gebruik een uitnodigingslink om te delen met anderen."
     },
     "debug-openai-services": "Debug OpenAI diensten",
@@ -1420,9 +1420,9 @@
     "account-summary": "Accountoverzicht",
     "account-summary-description": "Hier is een samenvatting van jouw groep.",
     "group-statistics": "Groepsstatistieken",
-    "group-statistics-description": "Jouw groepsstatistieken bieden inzicht in hoe je Mealie gebruikt.",
+    "group-statistics-description": "Jouw groepsstatistieken bieden inzicht in hoe je TrailFood Library gebruikt.",
     "household-statistics": "Statistieken huishouden",
-    "household-statistics-description": "De statistieken van je huishouden bieden inzicht in hoe je Mealie gebruikt.",
+    "household-statistics-description": "De statistieken van je huishouden bieden inzicht in hoe je TrailFood Library gebruikt.",
     "storage-capacity": "Opslagcapaciteit",
     "storage-capacity-description": "Jouw opslagcapaciteit is een berekening van de afbeeldingen en bijlagen die je hebt geüpload.",
     "personal": "Persoonlijk",
@@ -1443,7 +1443,7 @@
     "notifiers": "Melders",
     "notifiers-description": "Stel e-mail en push-meldingen in die worden getriggerd bij specifieke gebeurtenissen.",
     "manage-data": "Gegevensbeheer",
-    "manage-data-description": "Beheer je Mealie-gegevens: levensmiddelen, eenheden, categorieën, labels en meer.",
+    "manage-data-description": "Beheer je TrailFood Library-gegevens: levensmiddelen, eenheden, categorieën, labels en meer.",
     "data-migrations": "Gegevensmigraties",
     "data-migrations-description": "Importeer jouw bestaande gegevens van andere applicaties, zoals Nextcloud recepten en Chowdown.",
     "email-sent": "E-mail verzonden",
@@ -1467,7 +1467,7 @@
     "hide-cookbooks-from-other-households": "Verberg kookboeken van andere huishoudens",
     "hide-cookbooks-from-other-households-description": "Wanneer ingeschakeld, worden alleen kookboeken van uw huishouden op de zijbalk weergegeven",
     "public-cookbook": "Openbaar kookboek",
-    "public-cookbook-description": "Openbare kookboeken kunnen worden gedeeld met niet-Mealie-gebruikers en zullen worden weergegeven op jouw groepspagina.",
+    "public-cookbook-description": "Openbare kookboeken kunnen worden gedeeld met niet-TrailFood Library-gebruikers en zullen worden weergegeven op jouw groepspagina.",
     "filter-options": "Filteropties",
     "filter-options-description": "Wanneer \"Vereis alle\" geselecteerd is, zal het kookboek alleen recepten bevatten die alle geselecteerde items hebben. Dit geldt voor elke subset van selectors en niet voor een doorsnede van de geselecteerde items.",
     "require-all-categories": "Vereis alle categorieën",
@@ -1519,7 +1519,7 @@
     "announcements": "Aankondigingen",
     "all-announcements": "Alle aankondigingen",
     "mark-all-as-read": "Alles markeren als gelezen",
-    "show-announcements-from-mealie": "Aankondigingen van Mealie weergeven",
-    "show-announcements-setting-description": "Of je gebruikers wel of niet meldingen van Mealie wilt laten zien. Wanneer ingeschakeld kunnen gebruikers nog steeds afzien van het bekijken van hen in hun gebruikersinstellingen"
+    "show-announcements-from-mealie": "Aankondigingen van TrailFood Library weergeven",
+    "show-announcements-setting-description": "Of je gebruikers wel of niet meldingen van TrailFood Library wilt laten zien. Wanneer ingeschakeld kunnen gebruikers nog steeds afzien van het bekijken van hen in hun gebruikersinstellingen"
   }
 }

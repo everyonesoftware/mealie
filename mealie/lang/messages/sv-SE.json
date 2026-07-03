@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie Glömt Lösenord",
+            "subject": "TrailFood Library Glömt Lösenord",
             "header_text": "Glömt Lösenord",
             "message_top": "Du har begärt återställning av ditt lösenord.",
             "message_bottom": "Klicka på knappen ovan för att återställa ditt lösenord.",
             "button_text": "Återställ Lösenord"
         },
         "invitation": {
-            "subject": "Inbjudan till Mealie",
+            "subject": "Inbjudan till TrailFood Library",
             "header_text": "Du är inbjuden!",
-            "message_top": "Du har blivit inbjuden till Mealie.",
+            "message_top": "Du har blivit inbjuden till TrailFood Library.",
             "message_bottom": "Klicka på knappen ovan för att acceptera inbjudan.",
             "button_text": "Acceptera inbjudan"
         },
         "test": {
-            "subject": "Mealie Test Email",
+            "subject": "TrailFood Library Test Email",
             "header_text": "Test Email",
             "message_top": "Detta är ett test email.",
             "message_bottom": "Klicka på knappen ovan för att testa email.",
-            "button_text": "Öppna Mealie"
+            "button_text": "Öppna TrailFood Library"
         }
     }
 }

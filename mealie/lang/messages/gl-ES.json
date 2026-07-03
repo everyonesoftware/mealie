@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie Esqueceuse da Seña",
+            "subject": "TrailFood Library Esqueceuse da Seña",
             "header_text": "Esquecin a miña seña",
             "message_top": "Solicitou a reposición da sua seña.",
             "message_bottom": "Clique no boton acima para redefinir a sua seña.",
             "button_text": "Redefinir Seña"
         },
         "invitation": {
-            "subject": "Convite para aderirse ao Mealie",
+            "subject": "Convite para aderirse ao TrailFood Library",
             "header_text": "Está convidado!",
-            "message_top": "Foi convidado para aderirse ao Mealie.",
+            "message_top": "Foi convidado para aderirse ao TrailFood Library.",
             "message_bottom": "Clique no botón acima para aceptar o convite.",
             "button_text": "Aceptar Convite"
         },
         "test": {
-            "subject": "Email de Prova do Mealie",
+            "subject": "Email de Prova do TrailFood Library",
             "header_text": "Email de Prova",
             "message_top": "Este é un email de prova.",
             "message_bottom": "Clique no botón acima para provar o email.",
-            "button_text": "Abrir o Mealie"
+            "button_text": "Abrir o TrailFood Library"
         }
     }
 }

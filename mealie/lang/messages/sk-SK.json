@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie zabudnuté heslo",
+            "subject": "TrailFood Library zabudnuté heslo",
             "header_text": "Zabudnuté heslo",
             "message_top": "Požiadali ste o obnovenie hesla.",
             "message_bottom": "Prosím stlačte tlačidlo vyššie, na obnovenie vášho hesla.",
             "button_text": "Obnovenie hesla"
         },
         "invitation": {
-            "subject": "Pozvanie na pripojenie k Mealie",
+            "subject": "Pozvanie na pripojenie k TrailFood Library",
             "header_text": "Boli ste pozvaní!",
-            "message_top": "Boli ste pozvaní na pripojenie k Mealie.",
+            "message_top": "Boli ste pozvaní na pripojenie k TrailFood Library.",
             "message_bottom": "Prosím, kliknite na tlačidlo vyššie pre prijatie pozvánky.",
             "button_text": "Prijať pozvánku"
         },
         "test": {
-            "subject": "Testovací email Mealie",
+            "subject": "Testovací email TrailFood Library",
             "header_text": "Testovací email",
             "message_top": "Toto je testovací email.",
             "message_bottom": "Prosím, kliknite na tlačidlo vyššie, aby ste otestovali email.",
-            "button_text": "Otvoriť Mealie"
+            "button_text": "Otvoriť TrailFood Library"
         }
     }
 }

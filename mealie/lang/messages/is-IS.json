@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie Gleymt Lykilorð",
+            "subject": "TrailFood Library Gleymt Lykilorð",
             "header_text": "Gleymt Lykilorð",
             "message_top": "Þú hefur óskað eftir að endursetja lykilorðið þitt.",
             "message_bottom": "Vinsamlegast smelltu á hnappinn hér að ofan til að endursetja lykilorðið þitt.",
             "button_text": "Endursetja lykilorð"
         },
         "invitation": {
-            "subject": "Boð um að skoða Mealie",
+            "subject": "Boð um að skoða TrailFood Library",
             "header_text": "Þér er boðið!",
-            "message_top": "Þér hefur verið boðið að skoða Mealie.",
+            "message_top": "Þér hefur verið boðið að skoða TrailFood Library.",
             "message_bottom": "Vinsamlegast ýttu á takkann hér að ofan til að samþykkja boðið.",
             "button_text": "Samþykkja boð"
         },
         "test": {
-            "subject": "Mealie prufupóstur",
+            "subject": "TrailFood Library prufupóstur",
             "header_text": "Prufupóstur",
             "message_top": "Þetta er prufupóstur.",
             "message_bottom": "Vinsamlegast ýttu á takkan hér fyrir ofan til að prófa póstinn.",
-            "button_text": "Opna Mealie"
+            "button_text": "Opna TrailFood Library"
         }
     }
 }

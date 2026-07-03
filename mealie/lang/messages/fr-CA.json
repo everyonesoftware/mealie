@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mot de passe oublié pour Mealie",
+            "subject": "Mot de passe oublié pour TrailFood Library",
             "header_text": "Mot de passe oublié",
             "message_top": "Vous avez demandé de réinitialiser votre mot de passe.",
             "message_bottom": "Veuillez cliquer sur le bouton ci-dessus pour réinitialiser votre mot de passe.",
             "button_text": "Réinitialiser le mot de passe"
         },
         "invitation": {
-            "subject": "Invitation à rejoindre Mealie",
+            "subject": "Invitation à rejoindre TrailFood Library",
             "header_text": "Vous êtes invité!",
-            "message_top": "Vous avez été invité à rejoindre Mealie.",
+            "message_top": "Vous avez été invité à rejoindre TrailFood Library.",
             "message_bottom": "Veuillez cliquer sur le bouton ci-dessus pour accepter l'invitation.",
             "button_text": "Accepter l'invitation"
         },
         "test": {
-            "subject": "Email de test Mealie",
+            "subject": "Email de test TrailFood Library",
             "header_text": "Email de test",
             "message_top": "Ceci est un email de test.",
             "message_bottom": "Veuillez cliquer sur le bouton ci-dessus pour tester l'email.",
-            "button_text": "Ouvrir Mealie"
+            "button_text": "Ouvrir TrailFood Library"
         }
     }
 }

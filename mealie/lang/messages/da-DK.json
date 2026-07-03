@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie glemt adgangskode",
+            "subject": "TrailFood Library glemt adgangskode",
             "header_text": "Glemt adgangskode",
             "message_top": "Du har anmodet om at nulstille din adgangskode.",
             "message_bottom": "Klik på knappen ovenfor for at nulstille din adgangskode.",
             "button_text": "Nulstil adgangskode"
         },
         "invitation": {
-            "subject": "Invitation til at deltage i Mealie",
+            "subject": "Invitation til at deltage i TrailFood Library",
             "header_text": "Du er Inviteret!",
-            "message_top": "Du er blevet inviteret til Mealie.",
+            "message_top": "Du er blevet inviteret til TrailFood Library.",
             "message_bottom": "Klik på knappen ovenfor for at acceptere invitationen.",
             "button_text": "Acceptér invitation"
         },
         "test": {
-            "subject": "E-mail-test fra Mealie",
+            "subject": "E-mail-test fra TrailFood Library",
             "header_text": "Test E-mail",
             "message_top": "Dette er en test e-mail.",
             "message_bottom": "Klik på knappen ovenfor for at teste e-mailen.",
-            "button_text": "Åbn Mealie"
+            "button_text": "Åbn TrailFood Library"
         }
     }
 }

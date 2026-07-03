@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie 忘記密碼",
+            "subject": "TrailFood Library 忘記密碼",
             "header_text": "忘記密碼",
             "message_top": "您已申請重設密碼。",
             "message_bottom": "請點擊上方按鈕以重設您的密碼。",
             "button_text": "重設密碼"
         },
         "invitation": {
-            "subject": "邀請加入 Mealie",
+            "subject": "邀請加入 TrailFood Library",
             "header_text": "受邀通知",
-            "message_top": "您已被邀請加入 Mealie。",
+            "message_top": "您已被邀請加入 TrailFood Library。",
             "message_bottom": "請點擊上方按鈕以接受邀請。",
             "button_text": "接受邀請"
         },
         "test": {
-            "subject": "Mealie 測試郵件",
+            "subject": "TrailFood Library 測試郵件",
             "header_text": "測試郵件",
             "message_top": "這是一封測試郵件。",
             "message_bottom": "請點擊上方按鈕以測試郵件功能。",
-            "button_text": "開啟 Mealie"
+            "button_text": "開啟 TrailFood Library"
         }
     }
 }

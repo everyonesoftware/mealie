@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Нагадування пароля Mealie",
+            "subject": "Нагадування пароля TrailFood Library",
             "header_text": "Нагадати пароль",
             "message_top": "Ви надіслали запит на зміну пароля.",
             "message_bottom": "Будь ласка, натисніть кнопку вище, щоб змінити пароль.",
             "button_text": "Скинути пароль"
         },
         "invitation": {
-            "subject": "Запрошення приєднатися до Mealie",
+            "subject": "Запрошення приєднатися до TrailFood Library",
             "header_text": "Ви запрошені!",
-            "message_top": "Вас запросили приєднатися до Mealie.",
+            "message_top": "Вас запросили приєднатися до TrailFood Library.",
             "message_bottom": "Будь ласка, натисніть кнопку вище, щоб прийняти запрошення.",
             "button_text": "Прийняти запрошення"
         },
         "test": {
-            "subject": "Тестовий електронний лист Mealie",
+            "subject": "Тестовий електронний лист TrailFood Library",
             "header_text": "Тестовий лист",
             "message_top": "Це тестовий електронний лист.",
             "message_bottom": "Будь ласка, натисніть кнопку вище, щоб перевірити електронну пошту.",
-            "button_text": "Відкрити Mealie"
+            "button_text": "Відкрити TrailFood Library"
         }
     }
 }

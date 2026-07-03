@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie Şifremi Unuttum",
+            "subject": "TrailFood Library Şifremi Unuttum",
             "header_text": "Şifremi Unuttum",
             "message_top": "Şifre yenileme talebinde bulundunuz.",
             "message_bottom": "Şifrenizi sıfırlamak için lütfen yukarıdaki butona tıklayın.",
             "button_text": "Şifreyi Sıfırla"
         },
         "invitation": {
-            "subject": "Mealie'ye Katılım Daveti",
+            "subject": "TrailFood Library'ye Katılım Daveti",
             "header_text": "Davet Edildiniz!",
-            "message_top": "Mealie'ye katılmaya davet edildiniz.",
+            "message_top": "TrailFood Library'ye katılmaya davet edildiniz.",
             "message_bottom": "Daveti kabul etmek için lütfen yukarıdaki butona tıklayın.",
             "button_text": "Daveti Kabul Et"
         },
         "test": {
-            "subject": "Mealie Deneme E-Postası",
+            "subject": "TrailFood Library Deneme E-Postası",
             "header_text": "Deneme E-Postası",
             "message_top": "Bu bir test e-postasıdır.",
             "message_bottom": "E-postayı test etmek için lütfen yukarıdaki butona tıklayın.",
-            "button_text": "Mealie'yi Aç"
+            "button_text": "TrailFood Library'yi Aç"
         }
     }
 }

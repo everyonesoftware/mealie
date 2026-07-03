@@ -13,7 +13,12 @@
         icon
         color="white"
       >
-        <v-icon size="40"> {{ $globals.icons.primary }} </v-icon>
+        <v-img
+          width="100%"
+          max-height="40"
+          max-width="40"
+          src="/svgs/trailfood-library-logo.svg"
+        />
       </v-btn>
     </RouterLink>
 

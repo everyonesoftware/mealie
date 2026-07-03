@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie salasõna unustatud",
+            "subject": "TrailFood Library salasõna unustatud",
             "header_text": "Unustasid salasõna",
             "message_top": "Oled palunud salasõna lähtestamist",
             "message_bottom": "Kliki alloleval nupul, et lähtestada oma salasõna",
             "button_text": "Lähtesta salasõna"
         },
         "invitation": {
-            "subject": "Kutse Mealiega liitumiseks",
+            "subject": "Kutse TrailFood Libraryga liitumiseks",
             "header_text": "Said kutse!",
-            "message_top": "Sind on kutsutud liituma Mealiega.",
+            "message_top": "Sind on kutsutud liituma TrailFood Libraryga.",
             "message_bottom": "Palun vajuta allolevat nuppu, et võtta vastu kutse.",
             "button_text": "Võta kutse vastu"
         },
         "test": {
-            "subject": "Mealie test-email",
+            "subject": "TrailFood Library test-email",
             "header_text": "Test-email",
             "message_top": "See on test-email",
             "message_bottom": "Palun vajuta allolevat nuppu, et testida emaili.",
-            "button_text": "Ava Mealie"
+            "button_text": "Ava TrailFood Library"
         }
     }
 }

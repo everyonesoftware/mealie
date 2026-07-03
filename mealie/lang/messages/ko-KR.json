@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie 비밀번호 잊음",
+            "subject": "TrailFood Library 비밀번호 잊음",
             "header_text": "비밀번호를 분실",
             "message_top": "비밀번호 재설정을 요청하셨습니다",
             "message_bottom": "비밀번호를 변경하려면 아래 버튼을 클릭하십시오.",
             "button_text": "비밀번호 재설정"
         },
         "invitation": {
-            "subject": "Mealie 가입 초대",
+            "subject": "TrailFood Library 가입 초대",
             "header_text": "귀하는 초대되었습니다!",
-            "message_top": "Mealie에 초대되었습니다.",
+            "message_top": "TrailFood Library에 초대되었습니다.",
             "message_bottom": "초대를 수락하려면 위의 버튼을 클릭해 주세요.",
             "button_text": "초대 수락"
         },
         "test": {
-            "subject": "Mealie 테스트 이메일",
+            "subject": "TrailFood Library 테스트 이메일",
             "header_text": "테스트 이메일",
             "message_top": "이것은 테스트용 이메일입니다.",
             "message_bottom": "비밀번호를 변경하려면 아래 버튼을 클릭하십시오.",
-            "button_text": "Mealie 열기"
+            "button_text": "TrailFood Library 열기"
         }
     }
 }

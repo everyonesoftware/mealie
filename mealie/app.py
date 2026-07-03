@@ -29,16 +29,16 @@ from mealie.services.scheduler import SchedulerRegistry, SchedulerService, tasks
 settings = get_app_settings()
 
 description = """
-Mealie is a web application for managing your recipes, meal plans, and shopping lists. This is the Restful
+TrailFood Library is a web application for managing your recipes, meal plans, and shopping lists. This is the Restful
 API interactive documentation that can be used to explore the API. If you're justing getting started with
 the API and want to get started quickly, you can use the
-[API Usage | Mealie Docs](https://docs.mealie.io/documentation/getting-started/api-usage/)
+[API Usage | TrailFood Library Docs](https://docs.mealie.io/documentation/getting-started/api-usage/)
 as a reference for how to get started.
 
 
 If you have any questions or comments about mealie, please use the discord server to talk to the developers or other
 community members. If you'd like to file an issue, please use the
-[GitHub Issue Tracker | Mealie](https://github.com/mealie-recipes/mealie/issues/new/choose)
+[GitHub Issue Tracker | TrailFood Library](https://github.com/mealie-recipes/mealie/issues/new/choose)
 
 
 ## Helpful Links
@@ -96,7 +96,7 @@ async def lifespan_fn(_: FastAPI) -> AsyncGenerator[None, None]:
 
 
 app = FastAPI(
-    title="Mealie",
+    title="TrailFood Library",
     description=description,
     version=APP_VERSION,
     docs_url=settings.DOCS_URL,

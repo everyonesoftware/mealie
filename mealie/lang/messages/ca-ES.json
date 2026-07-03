@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Contrasenya de Mealie Oblidada",
+            "subject": "Contrasenya de TrailFood Library Oblidada",
             "header_text": "Contrasenya Oblidada",
             "message_top": "Has demanat restablir la teva contrasenya.",
             "message_bottom": "Si us plau, clica al botó de sobre per restablir la teva contrasenya.",
             "button_text": "Restablir contrasenya"
         },
         "invitation": {
-            "subject": "Invitació a unir-te a Mealie",
+            "subject": "Invitació a unir-te a TrailFood Library",
             "header_text": "Has estat convidat!",
-            "message_top": "Has estat convidat a unir-te a Mealie.",
+            "message_top": "Has estat convidat a unir-te a TrailFood Library.",
             "message_bottom": "Si us plau, clica al botó de sobre per acceptar la invitació.",
             "button_text": "Acceptar invitació"
         },
         "test": {
-            "subject": "Correu electrònic de prova de Mealie",
+            "subject": "Correu electrònic de prova de TrailFood Library",
             "header_text": "Correu electrònic de prova",
             "message_top": "Això és un correu electrònic de prova.",
             "message_bottom": "Si us plau, fes clic al botó de sobre per provar el correu electrònic.",
-            "button_text": "Obre Mealie"
+            "button_text": "Obre TrailFood Library"
         }
     }
 }

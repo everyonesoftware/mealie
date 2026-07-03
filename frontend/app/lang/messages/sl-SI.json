@@ -1,7 +1,7 @@
 {
   "about": {
     "about": "O programu",
-    "about-mealie": "O programu Mealie",
+    "about-mealie": "O programu TrailFood Library",
     "api-docs": "API dokumentacija",
     "api-port": "API vrata",
     "application-mode": "Način aplikacije",
@@ -57,7 +57,7 @@
     "event-delete-confirmation": "Ali ste prepričani, da želite izbrisati ta dogodek?",
     "event-deleted": "Dogodek izbrisan",
     "event-updated": "Dogodek posodobljen",
-    "new-notification-form-description": "Mealie uporablja Apprise knjižnico za kreiranje obvestil. Omogoča več različnih servisov za uporabo obvestil. Preglejte njihovo wiki stran, za bolj natančen vodič, kako izdelati URL za vaš servis. Če je na voljo, so za vaš izbran servis obvestil, na voljo tudi dodane možnosti.",
+    "new-notification-form-description": "TrailFood Library uporablja Apprise knjižnico za kreiranje obvestil. Omogoča več različnih servisov za uporabo obvestil. Preglejte njihovo wiki stran, za bolj natančen vodič, kako izdelati URL za vaš servis. Če je na voljo, so za vaš izbran servis obvestil, na voljo tudi dodane možnosti.",
     "new-version": "Na voljo je nova verzija!",
     "notification": "Obvestila",
     "refresh": "Osveži",
@@ -421,7 +421,7 @@
     "recipe-migration": "Migracija recepta",
     "chowdown": {
       "description": "Migriraj podatke iz Chowdown-a",
-      "description-long": "Mealie podpira chowdown format shrambe podatkov. Prenesi shrambo podatkov kot .zip datoteko in jo naloži spodaj.",
+      "description-long": "TrailFood Library podpira chowdown format shrambe podatkov. Prenesi shrambo podatkov kot .zip datoteko in jo naloži spodaj.",
       "title": "Prehranjevanje"
     },
     "nextcloud": {
@@ -430,52 +430,52 @@
       "title": "Kuharska knjiga Nextcloud"
     },
     "copymethat": {
-      "description-long": "Mealie lahko uvozi recepte iz aplikacije Copy Me That. Izvozi recepte v HTML format in spodaj naloži .zip datoteko.",
+      "description-long": "TrailFood Library lahko uvozi recepte iz aplikacije Copy Me That. Izvozi recepte v HTML format in spodaj naloži .zip datoteko.",
       "title": "Copy Me That upravitelj receptov"
     },
     "paprika": {
-      "description-long": "Mealie lahko uvozi recepte iz aplikacije Paprika. Izvozi recepte iz aplikacije Paprika, preimenuj končnico datoteke v .zip in jo naloži spodaj.",
+      "description-long": "TrailFood Library lahko uvozi recepte iz aplikacije Paprika. Izvozi recepte iz aplikacije Paprika, preimenuj končnico datoteke v .zip in jo naloži spodaj.",
       "title": "Urejevalnik receptov Paprika"
     },
     "mealie-pre-v1": {
-      "description-long": "Mealie lahko uvozi recepte izpred Mealie verzije v1.0. Izvozi recepte iz stare instance in spodaj uvozi zip datoteko. Omogočen je uvoz samo za recepte.",
-      "title": "Mealie pred v1.0"
+      "description-long": "TrailFood Library lahko uvozi recepte izpred TrailFood Library verzije v1.0. Izvozi recepte iz stare instance in spodaj uvozi zip datoteko. Omogočen je uvoz samo za recepte.",
+      "title": "TrailFood Library pred v1.0"
     },
     "tandoor": {
-      "description-long": "Mealie lahko uvozi recepte iz aplikacije Tandoor. Izvozi podatke v \"Default\" formatu, nato spodaj naloži .zip datoteko.",
+      "description-long": "TrailFood Library lahko uvozi recepte iz aplikacije Tandoor. Izvozi podatke v \"Default\" formatu, nato spodaj naloži .zip datoteko.",
       "title": "Tandoor recepti"
     },
     "cookn": {
-      "description-long": "Mealie lahko uvozi recepte iz DVO Cook'n X3. Izvozite kuharsko knjigo ali jedilnik v formatu »Cook'n«, preimenujte izvozno končnico v .zip in nato naložite spodnjo datoteko .zip.",
+      "description-long": "TrailFood Library lahko uvozi recepte iz DVO Cook'n X3. Izvozite kuharsko knjigo ali jedilnik v formatu »Cook'n«, preimenujte izvozno končnico v .zip in nato naložite spodnjo datoteko .zip.",
       "title": "DVO Cook'n X3"
     },
     "recipe-data-migrations": "Migracije receptov",
-    "recipe-data-migrations-explanation": "Recepte lahko migriraš iz drugih podprtih aplikacij v Mealie. To je super način za čim hitrejši začetek z Mealie.",
-    "coming-from-another-application-or-an-even-older-version-of-mealie": "Prihajaš iz druge aplijacije ali celo starejše verzije Mealie aplikacije? Poglej podprte migracije in preveri, če lahko uvoziš svoje podatke.",
+    "recipe-data-migrations-explanation": "Recepte lahko migriraš iz drugih podprtih aplikacij v TrailFood Library. To je super način za čim hitrejši začetek z TrailFood Library.",
+    "coming-from-another-application-or-an-even-older-version-of-mealie": "Prihajaš iz druge aplijacije ali celo starejše verzije TrailFood Library aplikacije? Poglej podprte migracije in preveri, če lahko uvoziš svoje podatke.",
     "choose-migration-type": "Izberi tip migracije",
     "tag-all-recipes": "Označi vse recepte z {tag-name} značko",
     "nextcloud-text": "Nextcloud recepte lahko uvoziš z zip datoteko, ki vsebuje podatke shranjene na Nextcloudu. Poglej primer strukture mape spodaj, da zagotoviš primerno strukturo za uvoz receptov.",
-    "chowdown-text": "Mealie podpira chowdown format shrambe podatkov. Prenesi shrambo podatkov kot .zip datoteko in jo naloži spodaj.",
+    "chowdown-text": "TrailFood Library podpira chowdown format shrambe podatkov. Prenesi shrambo podatkov kot .zip datoteko in jo naloži spodaj.",
     "recipe-1": "Recept 1",
     "recipe-2": "Recept 2",
-    "paprika-text": "Mealie lahko uvozi recepte iz aplikacije Paprika. Izvozi recepte iz aplikacije Paprika, preimenuj končnico datoteke v .zip in jo naloži spodaj.",
-    "mealie-text": "Mealie lahko uvozi recepte izpred Mealie verzije v1.0. Izvozi recepte iz stare instance in spodaj uvozi zip datoteko. Omogočen je uvoz samo za recepte.",
+    "paprika-text": "TrailFood Library lahko uvozi recepte iz aplikacije Paprika. Izvozi recepte iz aplikacije Paprika, preimenuj končnico datoteke v .zip in jo naloži spodaj.",
+    "mealie-text": "TrailFood Library lahko uvozi recepte izpred TrailFood Library verzije v1.0. Izvozi recepte iz stare instance in spodaj uvozi zip datoteko. Omogočen je uvoz samo za recepte.",
     "plantoeat": {
       "title": "Načrt za pojesti",
-      "description-long": "Mealie lahko uvozi recepte iz aplikacije Plan to Eat."
+      "description-long": "TrailFood Library lahko uvozi recepte iz aplikacije Plan to Eat."
     },
     "myrecipebox": {
       "title": "Moj zaboj z recepti",
-      "description-long": "Mealie lahko uvozi recepte iz aplikacije My Recipe Box. Izvozi recepte v CSV formatu, nato pa .csv datoteko naloži spodaj."
+      "description-long": "TrailFood Library lahko uvozi recepte iz aplikacije My Recipe Box. Izvozi recepte v CSV formatu, nato pa .csv datoteko naloži spodaj."
     },
     "recipekeeper": {
       "title": "Hranilec receptov",
-      "description-long": "Mealie lahko uvozi recepte iz Recipe Keeper. Izvozi svoje recepte v .zip formatu, nato spodaj naloži .zip datoteko."
+      "description-long": "TrailFood Library lahko uvozi recepte iz Recipe Keeper. Izvozi svoje recepte v .zip formatu, nato spodaj naloži .zip datoteko."
     }
   },
   "new-recipe": {
     "bulk-add": "Množično dodajanje",
-    "error-details": "Samo spletne strani, ki vsebujejo Id+json ali mikro podatke, se lahko uvozijo v Mealie. Večina večjih spletnih strani z recepti že podpirajo to podatkovno strukturo. Če se vaša stran ne uvozi, v log datoteki pa so json podatki, prosim odprite težavo na github-u z URL naslovom in podatki.",
+    "error-details": "Samo spletne strani, ki vsebujejo Id+json ali mikro podatke, se lahko uvozijo v TrailFood Library. Večina večjih spletnih strani z recepti že podpirajo to podatkovno strukturo. Če se vaša stran ne uvozi, v log datoteki pa so json podatki, prosim odprite težavo na github-u z URL naslovom in podatki.",
     "error-title": "Kot kaže nisem ničesar našel",
     "from-url": "Uvozi recept",
     "github-issues": "GitHub težave",
@@ -486,7 +486,7 @@
     "recipe-url": "URL recepta",
     "recipe-html-or-json": "Recept HTML ali JSON",
     "upload-a-recipe": "Naloži recept",
-    "upload-individual-zip-file": "Naloži posamezno .zip datoteko, izvoženo iz druge Mealie namestitve.",
+    "upload-individual-zip-file": "Naloži posamezno .zip datoteko, izvoženo iz druge TrailFood Library namestitve.",
     "url-form-hint": "Kopiraj in prilepi povezavo iz vaše priljubljene strani z recepti",
     "copy-and-paste-the-source-url-of-your-data-optional": "Kopirajte in prilepite izvorni URL svojih podatkov (neobvezno)",
     "view-scraped-data": "Poglej postrgane podatke",
@@ -645,7 +645,7 @@
     "failed-to-add-to-timeline": "Dodajanje na časovnico ni uspelo",
     "failed-to-update-recipe": "Posodobitev recepta ni uspela",
     "added-to-timeline-but-failed-to-add-image": "Dodano na časovnico, vendar slike ni bilo mogoče dodati",
-    "api-extras-description": "Dodatni podatki za recepte so ključna funkcionalnost Mealie APIja. Omogočajo ustvarjanje lastnih JSON ključ / vrednost parov v okviru recepta, da lahko do njih dostopajo zunanje aplikacije. Te ključe lahko uporabiš za posredovanje informacij, na primer za sprožanje avtomatike ali sporočanje prilagojenih sporočil na poljubno napravo.",
+    "api-extras-description": "Dodatni podatki za recepte so ključna funkcionalnost TrailFood Library APIja. Omogočajo ustvarjanje lastnih JSON ključ / vrednost parov v okviru recepta, da lahko do njih dostopajo zunanje aplikacije. Te ključe lahko uporabiš za posredovanje informacij, na primer za sprožanje avtomatike ali sporočanje prilagojenih sporočil na poljubno napravo.",
     "message-key": "Ključ sporočila",
     "parse": "Razloči",
     "ingredients-not-parsed-description": "Zdi se, da vaše sestavine še niso razčlenjene. Kliknite spodnji gumb »{parse}«, da jih razčlenite v strukturirana živila.",
@@ -664,7 +664,7 @@
     "create-recipes": "Ustvari recepte",
     "import-with-zip": "Uvozi z .zip",
     "create-recipe-from-images": "Ustvari recept iz slik",
-    "create-recipe-from-an-image-description": "Ustvarite recept tako, da naložite njegovo sliko. Mealie bo s pomočjo umetne inteligence poskušal izluščiti besedilo iz slike in iz njega ustvariti recept.",
+    "create-recipe-from-an-image-description": "Ustvarite recept tako, da naložite njegovo sliko. TrailFood Library bo s pomočjo umetne inteligence poskušal izluščiti besedilo iz slike in iz njega ustvariti recept.",
     "crop-and-rotate-the-image": "Obrežite in zasukajte sliko, tako da bo vidno samo besedilo in da bo v pravilnem položaju.",
     "create-from-images": "Ustvari iz slik",
     "should-translate-description": "Prevedi recept v moj jezik",
@@ -675,8 +675,8 @@
     "create-a-recipe-by-providing-the-name-all-recipes-must-have-unique-names": "Ustvari recept z izbranim imenom. Vsi recepti morajo imeti unikatna imena.",
     "new-recipe-names-must-be-unique": "Ime recepta mora biti unikatno",
     "scrape-recipe": "Postrgaj recept",
-    "scrape-recipe-description": "Strganje recepta po URL-ju. Navedite URL spletnega mesta, s katerega želite strgati, in Mealie bo poskušal strgati recept s tega spletnega mesta in ga dodati v vašo zbirko.",
-    "scrape-recipe-description-transcription": "Lahko pa navedete tudi URL videoposnetka in Mealie ga bo poskušal prepisati v recept.",
+    "scrape-recipe-description": "Strganje recepta po URL-ju. Navedite URL spletnega mesta, s katerega želite strgati, in TrailFood Library bo poskušal strgati recept s tega spletnega mesta in ga dodati v vašo zbirko.",
+    "scrape-recipe-description-transcription": "Lahko pa navedete tudi URL videoposnetka in TrailFood Library ga bo poskušal prepisati v recept.",
     "scrape-recipe-have-a-lot-of-recipes": "Imaš veliko receptov, ki jih želiš naenkrat postrgati s spleta?",
     "scrape-recipe-suggest-bulk-importer": "Preizkusi masovni uvoz",
     "scrape-recipe-have-raw-html-or-json-data": "Imaš surove HTML ali JSON podatke?",
@@ -688,23 +688,23 @@
     "stay-in-edit-mode": "Urejaj naprej",
     "parse-recipe-ingredients-after-import": "Razčlenitev sestavin recepta po uvozu",
     "import-from-zip": "Uvozi z Zip",
-    "import-from-zip-description": "Uvozi posamezen recept, ki je bil izvožen iz druge instance Mealie aplikacije.",
+    "import-from-zip-description": "Uvozi posamezen recept, ki je bil izvožen iz druge instance TrailFood Library aplikacije.",
     "import-from-html-or-json": "Uvozi iz HTML ali JSON",
-    "import-from-html-or-json-description": "Uvozi posamezen recept iz surovega HTML ali JSON. To je uporabno, če je recept iz spletne strani, ki jo Mealie ne more normalno postrgati, ali pa iz ostalih zunanjih virov.",
+    "import-from-html-or-json-description": "Uvozi posamezen recept iz surovega HTML ali JSON. To je uporabno, če je recept iz spletne strani, ki jo TrailFood Library ne more normalno postrgati, ali pa iz ostalih zunanjih virov.",
     "json-import-format-description-colon": "Za uvoz preko JSON je zahtevan veljaven format:",
     "json-editor": "JSON urejevalnik",
-    "zip-files-must-have-been-exported-from-mealie": ".zip datoteka mora biti izvožena iz Mealie aplikacije",
+    "zip-files-must-have-been-exported-from-mealie": ".zip datoteka mora biti izvožena iz TrailFood Library aplikacije",
     "create-a-recipe-by-uploading-a-scan": "Ustvari recept z nalaganjem skenirane datoteke.",
     "upload-a-png-image-from-a-recipe-book": "Naloži png sliko iz kuharske knjige",
     "recipe-bulk-importer": "Masovni uvoz receptov",
-    "recipe-bulk-importer-description": "Masovni uvoz receptov ti omogoča uvoz večih receptov hkrati z uvrščanjem spletnih strani v čakalno vrsto in izvajanjem nalog v ozadju. To je dobrodošlo ob začetni migraciji na Mealie ali ko želiš uvoziti večjo količino receptov.",
+    "recipe-bulk-importer-description": "Masovni uvoz receptov ti omogoča uvoz večih receptov hkrati z uvrščanjem spletnih strani v čakalno vrsto in izvajanjem nalog v ozadju. To je dobrodošlo ob začetni migraciji na TrailFood Library ali ko želiš uvoziti večjo količino receptov.",
     "set-categories-and-tags": "Nastavi kategorije in značke",
     "bulk-imports": "Masovni uvoz",
     "bulk-import-process-has-started": "Masovni uvoz se je pričel",
     "bulk-import-process-has-failed": "Masovni uvoz ni uspel",
     "report-deletion-failed": "Brisanje poročila ni bilo uspešno",
     "recipe-debugger": "Odpravljanje težav v strganju recepta",
-    "recipe-debugger-description": "Prilepi povezavo do recepta, ki ga želiš postrgati. Strgalnik receptov bo postrgal spletno stran in prikazal rezultate. Če ne vidiš nobenih podatkov, potem spletna stran, ki jo želiš strgati ni podprta v Mealie oz. v strgalniku, ki ga uporablja.",
+    "recipe-debugger-description": "Prilepi povezavo do recepta, ki ga želiš postrgati. Strgalnik receptov bo postrgal spletno stran in prikazal rezultate. Če ne vidiš nobenih podatkov, potem spletna stran, ki jo želiš strgati ni podprta v TrailFood Library oz. v strgalniku, ki ga uporablja.",
     "use-openai": "Uporabi OpenAI",
     "recipe-debugger-use-openai-description": "Za razčlenitev rezultatov uporabite OpenAI, namesto da se zanašate na knjižnico strgala. Ko ustvarjate recept prek URL-ja, se to izvede samodejno, če knjižnica strgala odpove, vendar ga lahko tukaj preizkusite ročno.",
     "debug": "Razhroščevanje",
@@ -780,7 +780,7 @@
     "clear-selection": "Počisti izbor",
     "results": "Rezultati",
     "search": "Iskanje",
-    "search-mealie": "Išči po Mealie (pritisni /)",
+    "search-mealie": "Išči po TrailFood Library (pritisni /)",
     "search-placeholder": "Išči...",
     "tag-filter": "Filter značk",
     "search-hint": "Pritisni '/'",
@@ -806,7 +806,7 @@
       "import-summary": "Povzetek uvoza",
       "partial-backup": "Delna varnostna kopija",
       "unable-to-delete-backup": "Napaka pri izbrisu varnostne kopije.",
-      "experimental-description": "Varnostne kopije so popolni posnetki podatkovne zbirke in podatkovne mape. To vključuje vse podatke in ni mogoče izključiti posameznih sklopov podatkov. Varnostno kopijo si lahko predstavljaš kot posnetek Mealie aplikacije v danem trenutku. To služi kot možnost za shranjevanje varnostne kopije na drugo lokacijo ali kot način za izvoz in uvoz podatkov, ki ni odvisen od tipa podatkovne baze.",
+      "experimental-description": "Varnostne kopije so popolni posnetki podatkovne zbirke in podatkovne mape. To vključuje vse podatke in ni mogoče izključiti posameznih sklopov podatkov. Varnostno kopijo si lahko predstavljaš kot posnetek TrailFood Library aplikacije v danem trenutku. To služi kot možnost za shranjevanje varnostne kopije na drugo lokacijo ali kot način za izvoz in uvoz podatkov, ki ni odvisen od tipa podatkovne baze.",
       "backup-restore": "Obnovitev varnostne kopije",
       "back-restore-description": "Obnavljanje varnostne kopije bo prepisalo trenutne podatke v podatkovni zbirki in v podatkovni mapi in jih zamenjalo s podatki v tej varnostni kopiji. {cannot-be-undone} Če je obnavljanje varnostne kopije uspešno, te bo sistem na koncu izpisal iz tvojega uporabniškega računa.",
       "cannot-be-undone": "Te akcije ni mogoče razveljaviti - uporabljaj previdno.",
@@ -905,7 +905,7 @@
     "tracker": "Sledilnik",
     "configuration": "Nastavitve",
     "docker-volume": "Docker mapa",
-    "docker-volume-help": "Mealie zahteva, da vsebnik sprednjega dela in zadnji del delita isto mapo ali shrambo priklopne postaje. To zagotavlja, da lahko sprednji vsebnik pravilno dostopa do slik in sredstev, shranjenih na disku.",
+    "docker-volume-help": "TrailFood Library zahteva, da vsebnik sprednjega dela in zadnji del delita isto mapo ali shrambo priklopne postaje. To zagotavlja, da lahko sprednji vsebnik pravilno dostopa do slik in sredstev, shranjenih na disku.",
     "volumes-are-misconfigured": "Mape so napačno nastavljene.",
     "volumes-are-configured-correctly": "Mape so nastavljene pravilno.",
     "status-unknown-try-running-a-validation": "Status ni znan. Poženi validacijo.",
@@ -920,7 +920,7 @@
     "general-about": "Splošne informacije",
     "application-version": "Verzija aplikacije",
     "application-version-error-text": "Tvoja trenutna verzija ({0}) se ne ujema z najnovejšo verzijo. Priporočamo nadgradnjo na najnovejšo verzijo ({1}).",
-    "mealie-is-up-to-date": "Mealie je v najnovejši različici",
+    "mealie-is-up-to-date": "TrailFood Library je v najnovejši različici",
     "secure-site": "Varna stran",
     "secure-site-error-text": "Serviraj preko localhost ali na varen način preko https. Odložišče in dodatni APIji brskalnika mogoče ne bodo delovali.",
     "secure-site-success-text": "Spletna stran je dosegljiva preko localhost ali https",
@@ -1119,7 +1119,7 @@
     "user-details": "Podatki o uporabniku",
     "user-name": "Uporabniško ime",
     "authentication-method": "Izberi način avtentikacije",
-    "authentication-method-hint": "This specifies how a user will authenticate with Mealie. If you're not sure, choose 'Mealie",
+    "authentication-method-hint": "This specifies how a user will authenticate with TrailFood Library. If you're not sure, choose 'TrailFood Library",
     "permissions": "Dovoljenja",
     "administrator": "Skrbnik",
     "user-can-invite-other-to-group": "Uporabnih lahko povabi druge v skupino",
@@ -1272,7 +1272,7 @@
     "group-details": "Detajli skupine",
     "group-details-description": "Preden kreirate račun, morate kreirati skupino. V skupini boste sprva samo vi, vendar imate možnost povabiti še ostale člane. Člani v vaši skupini lahko delijo načrte obrokov, nakupovalne sezname, recepte in še več!",
     "use-seed-data": "Uporabi privzete podatke",
-    "use-seed-data-description": "Mealie ima na voljo zbirko živil, enot in oznak, ki jih lahko uporabite za dopolnitev vaše skupine s koristnimi podatki za organizacijo receptov. Ti so prevedeni v jezik, ki ste ga trenutno izbrali. Te podatke lahko kadar koli pozneje dodate ali spremenite.",
+    "use-seed-data-description": "TrailFood Library ima na voljo zbirko živil, enot in oznak, ki jih lahko uporabite za dopolnitev vaše skupine s koristnimi podatki za organizacijo receptov. Ti so prevedeni v jezik, ki ste ga trenutno izbrali. Te podatke lahko kadar koli pozneje dodate ali spremenite.",
     "account-details": "Podatki o računu"
   },
   "validation": {
@@ -1372,14 +1372,14 @@
       "actions-description-destructive": "destruktivna",
       "actions-description-irreversible": "nemogoče razveljaviti",
       "logs-action-refresh": "Osveži dnevniške datoteke",
-      "logs-page-title": "Mealie dnevniške datoteke",
+      "logs-page-title": "TrailFood Library dnevniške datoteke",
       "logs-tail-lines-label": "Število zadnjih vrstic"
     },
     "mainentance": {
       "actions-title": "Opravila"
     },
     "ingredients-natural-language-processor": "Sestavine - naravni jezikovni procesor",
-    "ingredients-natural-language-processor-explanation": "Mealie uporablja Conditional Random Fields (CRFs) za razčlenjevanje in procesiranje sestavin. Ta model je osnovan na podatkih čez 100000 sestavin iz zbirke podatkov New York Times. Upoštevaj, da je model treniran na angleškem besedilu, zato lahko v drugih jezikih pričakuješ slabše rezultate. Ta stran služi igranju z omenjenim modelom.",
+    "ingredients-natural-language-processor-explanation": "TrailFood Library uporablja Conditional Random Fields (CRFs) za razčlenjevanje in procesiranje sestavin. Ta model je osnovan na podatkih čez 100000 sestavin iz zbirke podatkov New York Times. Upoštevaj, da je model treniran na angleškem besedilu, zato lahko v drugih jezikih pričakuješ slabše rezultate. Ta stran služi igranju z omenjenim modelom.",
     "ingredients-natural-language-processor-explanation-2": "Rezultati niso popolni, ampak so v splošnem uporabni in služijo kot dobro izhodišče za ročno urejanje sestavin v posamezna polja. Kot alternativo lahko uporabiš \"Brute\" procesor, ki deluje na osnovi ujemanja vzorcev za identifikacijo sestavin.",
     "nlp": "NLP",
     "brute": "Brute",
@@ -1395,13 +1395,13 @@
     "tasks": "Naloge",
     "setup": {
       "first-time-setup": "Prva namestitev",
-      "welcome-to-mealie-get-started": "Dobrodošli v Mealie! Pa začnimo",
+      "welcome-to-mealie-get-started": "Dobrodošli v TrailFood Library! Pa začnimo",
       "already-set-up-bring-to-homepage": "Vse imam že nastavljeno, odpri glavno stran",
       "common-settings-for-new-sites": "Tule je par pogostih nastavitev za nove spletne strani",
       "setup-complete": "Namestitev je zaključena!",
       "ai-providers-description": "Po želji lahko konfigurirate ponudnike umetne inteligence za svojo skupino. Ponudniki umetne inteligence omogočajo funkcije, kot so ustvarjanje receptov iz slik, uvoz receptov iz videoposnetkov in izboljšano razčlenjevanje sestavin. To lahko vedno konfigurirate pozneje v nastavitvah skupine.",
-      "here-are-a-few-things-to-help-you-get-started": "Par stvari, ki to bodo pomagale začeti z Mealie",
-      "restore-from-v1-backup": "Imaš varnostno kopijo iz predhodnje instance Mealie v1? Obnoviš jo lahko tule.",
+      "here-are-a-few-things-to-help-you-get-started": "Par stvari, ki to bodo pomagale začeti z TrailFood Library",
+      "restore-from-v1-backup": "Imaš varnostno kopijo iz predhodnje instance TrailFood Library v1? Obnoviš jo lahko tule.",
       "manage-profile-or-get-invite-link": "Upravljaj s svojim profilom ali skopiraj povezavo z vabilom in jo deli z drugimi."
     },
     "debug-openai-services": "Odpravljanje napak v storitvah OpenAI",
@@ -1420,9 +1420,9 @@
     "account-summary": "Pregled uporabniškega računa",
     "account-summary-description": "Tule je povzetek informacij o tvoji skupini.",
     "group-statistics": "Statistika skupine",
-    "group-statistics-description": "Statistika tvoje skupine prikazuje kako uporabljate Mealie.",
+    "group-statistics-description": "Statistika tvoje skupine prikazuje kako uporabljate TrailFood Library.",
     "household-statistics": "Statistika gospodinjstva",
-    "household-statistics-description": "Vaši gospodinjski statistični podatki ponujajo nekaj vpogleda v to, kako uporabljate Mealie.",
+    "household-statistics-description": "Vaši gospodinjski statistični podatki ponujajo nekaj vpogleda v to, kako uporabljate TrailFood Library.",
     "storage-capacity": "Poraba prostora",
     "storage-capacity-description": "Poraba prostora je izračun velikosti slik in ostalih naloženih datotek.",
     "personal": "Osebno",
@@ -1443,7 +1443,7 @@
     "notifiers": "Obveščevalci",
     "notifiers-description": "Setup email and push notifications that trigger on specific events.",
     "manage-data": "Upravljaj s podatki",
-    "manage-data-description": "Urejaj svoje Mealie podatke: živila, enote, kategorije, značke in še več.",
+    "manage-data-description": "Urejaj svoje TrailFood Library podatke: živila, enote, kategorije, značke in še več.",
     "data-migrations": "Migracije podatkov",
     "data-migrations-description": "Migriraj podatke iz drugih aplikacij, kot npr. Nextcloud Recipes ali Chowdown.",
     "email-sent": "Email poslan",
@@ -1519,7 +1519,7 @@
     "announcements": "Obvestila",
     "all-announcements": "Vsa obvestila",
     "mark-all-as-read": "Označi vse kot prebrano",
-    "show-announcements-from-mealie": "Prikaži obvestila od Mealie",
-    "show-announcements-setting-description": "Ali želite uporabnikom dovoliti ogled obvestil Mealie. Ko je to omogočeno, se lahko uporabniki v nastavitvah uporabnika še vedno odjavijo od njihovega prikaza"
+    "show-announcements-from-mealie": "Prikaži obvestila od TrailFood Library",
+    "show-announcements-setting-description": "Ali želite uporabnikom dovoliti ogled obvestil TrailFood Library. Ko je to omogočeno, se lahko uporabniki v nastavitvah uporabnika še vedno odjavijo od njihovega prikaza"
   }
 }

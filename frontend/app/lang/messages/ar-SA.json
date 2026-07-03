@@ -1,7 +1,7 @@
 {
   "about": {
     "about": "حول",
-    "about-mealie": "حول Mealie",
+    "about-mealie": "حول TrailFood Library",
     "api-docs": "مستندات API",
     "api-port": "منفذ API",
     "application-mode": "وضع التطبيق",
@@ -57,7 +57,7 @@
     "event-delete-confirmation": "هل أنت مُتأكِّد من رغبتك بحذف هذا الحدث؟",
     "event-deleted": "تم حذف الحدث",
     "event-updated": "تم تحديث الحدث",
-    "new-notification-form-description": "يستخدم Mealie  مكتبة Apprise لإرسال الإشعارات. وهي تقدم العديد من الخيارات و للخدمات لاستخدامها في إرسال الإشعارات. يرجى الرجوع إلى التعليمات الخاصة بهم للحصول على دليل شامل حول كيفية إنشاء عنوان الURL لبرامجك أو خدماتك. قد يتضمن تحديد نوع الإشعار الخاص بك ميزات إضافية، إذا كان متاحا.",
+    "new-notification-form-description": "يستخدم TrailFood Library  مكتبة Apprise لإرسال الإشعارات. وهي تقدم العديد من الخيارات و للخدمات لاستخدامها في إرسال الإشعارات. يرجى الرجوع إلى التعليمات الخاصة بهم للحصول على دليل شامل حول كيفية إنشاء عنوان الURL لبرامجك أو خدماتك. قد يتضمن تحديد نوع الإشعار الخاص بك ميزات إضافية، إذا كان متاحا.",
     "new-version": "يُوجَدُ إصدارٌ جَدِيدٌ مُتَاح!",
     "notification": "الإشعارات",
     "refresh": "تحديث",
@@ -446,7 +446,7 @@
       "title": "وصفات تاندور"
     },
     "cookn": {
-      "description-long": "يمكن لـ Mealie استيراد الوصفات من DVO Cook'n X3. قم بتصدير كتاب طبخ أو قائمة طعام بتنسيق \"Cook'n\"، ثم أعد تسمية امتداد التصدير إلى .zip، ثم قم بتحميل ملف .zip أدناه.",
+      "description-long": "يمكن لـ TrailFood Library استيراد الوصفات من DVO Cook'n X3. قم بتصدير كتاب طبخ أو قائمة طعام بتنسيق \"Cook'n\"، ثم أعد تسمية امتداد التصدير إلى .zip، ثم قم بتحميل ملف .zip أدناه.",
       "title": "DVO Cook'n X3"
     },
     "recipe-data-migrations": "وصفة 2",
@@ -459,23 +459,23 @@
     "recipe-1": "وصفة 1",
     "recipe-2": "وصفة 2",
     "paprika-text": "يُمكنك استيراد وصفاتك من تطبيق بابريكا باستخدام تطبيق ميلي. قم بتصدير وصفاتك من بابريكا، وأعد تسمية ملف التصدير إلى .zip، ثم ارفعه أدناه.",
-    "mealie-text": "يُمكن لبرنامج Mealie استيراد الوصفات من تطبيق Mealie من إصدار سابق للإصدار 1.0. صدّر وصفاتك من نسختك القديمة، ثم ارفع ملف ZIP أدناه. يُرجى العلم أنه لا يُمكن استيراد سوى الوصفات من الملف المُصدّر.",
+    "mealie-text": "يُمكن لبرنامج TrailFood Library استيراد الوصفات من تطبيق TrailFood Library من إصدار سابق للإصدار 1.0. صدّر وصفاتك من نسختك القديمة، ثم ارفع ملف ZIP أدناه. يُرجى العلم أنه لا يُمكن استيراد سوى الوصفات من الملف المُصدّر.",
     "plantoeat": {
       "title": "خِطَّة تناول الطعام",
       "description-long": "يمكن لمالي أن تستورد الوصفات من Plan to Eat."
     },
     "myrecipebox": {
       "title": "صندوق وصفاتي",
-      "description-long": "Mealie can import recipes from My Recipe Box. Export your recipes in CSV format, then upload the .csv file below."
+      "description-long": "TrailFood Library can import recipes from My Recipe Box. Export your recipes in CSV format, then upload the .csv file below."
     },
     "recipekeeper": {
       "title": "مدير الوصفة",
-      "description-long": "يمكن لـ Mealie استيراد الوصفات من وكيل الوصفات. قم بتصدير وصفاتك بتنسيق zip ، ثم قم بتحميل ملف zip أدناه."
+      "description-long": "يمكن لـ TrailFood Library استيراد الوصفات من وكيل الوصفات. قم بتصدير وصفاتك بتنسيق zip ، ثم قم بتحميل ملف zip أدناه."
     }
   },
   "new-recipe": {
     "bulk-add": "إضافة مجموعة",
-    "error-details": "لا يمكن استيراد سوى المواقع الإلكترونية التي تحتوي على بيانات ld+json أو البيانات المصغرة بواسطة Mealie. تدعم معظم مواقع وصفات الطعام الرئيسية هذا النوع من البيانات. إذا تعذر استيراد موقعك ولكن توجد بيانات json في السجل، فيُرجى تقديم طلب دعم على GitHub مع إرفاق عنوان URL والبيانات.",
+    "error-details": "لا يمكن استيراد سوى المواقع الإلكترونية التي تحتوي على بيانات ld+json أو البيانات المصغرة بواسطة TrailFood Library. تدعم معظم مواقع وصفات الطعام الرئيسية هذا النوع من البيانات. إذا تعذر استيراد موقعك ولكن توجد بيانات json في السجل، فيُرجى تقديم طلب دعم على GitHub مع إرفاق عنوان URL والبيانات.",
     "error-title": "يبدو أننا لم نتمكن من العثور على أي شيء",
     "from-url": "استيراد وصفة",
     "github-issues": "مشاكل GitHub",
@@ -645,7 +645,7 @@
     "failed-to-add-to-timeline": "فشلت الإضافة إلى الجدول الزمني",
     "failed-to-update-recipe": "فشل تحديث الوصفة",
     "added-to-timeline-but-failed-to-add-image": "تمت الإضافة إلى الجدول الزمني، ولكن فشل في إضافة صورة",
-    "api-extras-description": "تُعدّ إضافات الوصفات ميزةً أساسيةً في واجهة برمجة تطبيقات Mealie. فهي تُمكّنك من إنشاء أزواج مفاتيح/قيم JSON مخصصة داخل الوصفة، لاستخدامها كمرجع من تطبيقات خارجية. يمكنك استخدام هذه المفاتيح لتوفير معلومات، على سبيل المثال لتشغيل عمليات تلقائية أو رسائل مخصصة لإرسالها إلى الجهاز الذي تريده.",
+    "api-extras-description": "تُعدّ إضافات الوصفات ميزةً أساسيةً في واجهة برمجة تطبيقات TrailFood Library. فهي تُمكّنك من إنشاء أزواج مفاتيح/قيم JSON مخصصة داخل الوصفة، لاستخدامها كمرجع من تطبيقات خارجية. يمكنك استخدام هذه المفاتيح لتوفير معلومات، على سبيل المثال لتشغيل عمليات تلقائية أو رسائل مخصصة لإرسالها إلى الجهاز الذي تريده.",
     "message-key": "مفتاح الرساله",
     "parse": "تحليل",
     "ingredients-not-parsed-description": "يبدو أن مكوناتك لم تُحلل بعد. انقر على زر \"{parse}\" أدناه لتحليل مكوناتك إلى أطعمة مُهيكلة.",
@@ -664,7 +664,7 @@
     "create-recipes": "إنشاء الوصفات",
     "import-with-zip": "الاستيراد باستخدام zip.",
     "create-recipe-from-images": "Create Recipe from Images",
-    "create-recipe-from-an-image-description": "Create a recipe by uploading an image of it. Mealie will attempt to extract the text from the image using AI and create a recipe from it.",
+    "create-recipe-from-an-image-description": "Create a recipe by uploading an image of it. TrailFood Library will attempt to extract the text from the image using AI and create a recipe from it.",
     "crop-and-rotate-the-image": "قم بقص الصورة وتدويرها بحيث يظهر النص فقط، ويكون في الاتجاه الصحيح.",
     "create-from-images": "إنشاء عن طريق صور",
     "should-translate-description": "ترجمة الوصفة إلى لغتي",
@@ -675,7 +675,7 @@
     "create-a-recipe-by-providing-the-name-all-recipes-must-have-unique-names": "قم بإنشاء وصفة عن طريق تقديم الاسم. يجب أن يكون لجميع الوصفات أسماء فريدة.",
     "new-recipe-names-must-be-unique": "يجب أن تكون أسماء الوصفات فريدة",
     "scrape-recipe": "تحليل الوصفة",
-    "scrape-recipe-description": "استخرج وصفة طعام باستخدام عنوان URL. أدخل عنوان URL للموقع الذي تريد استخراج الوصفة منه، وسيحاول Mealie استخراج الوصفة من ذلك الموقع وإضافتها إلى مجموعتك.",
+    "scrape-recipe-description": "استخرج وصفة طعام باستخدام عنوان URL. أدخل عنوان URL للموقع الذي تريد استخراج الوصفة منه، وسيحاول TrailFood Library استخراج الوصفة من ذلك الموقع وإضافتها إلى مجموعتك.",
     "scrape-recipe-description-transcription": "اطلب وصفة طعام باستخدام عنوان URL. أدخل عنوان URL للموقع الذي تريد استخراج الوصفة منه، وسيحاول ميلي استخراج الوصفة من ذلك الموقع وإضافتها إلى مجموعتك.",
     "scrape-recipe-have-a-lot-of-recipes": "هل لديك الكثير من الوصفات التي تريد أن تحللها في نفس الوقت؟",
     "scrape-recipe-suggest-bulk-importer": "جرب الإضافة بالجملة",
@@ -690,21 +690,21 @@
     "import-from-zip": "استيراد من ملف Zip",
     "import-from-zip-description": "استيراد وصفة واحدة تم تصديرها من حساب \"ميلي\" آخر",
     "import-from-html-or-json": "الاستيراد من HTML أو JSON",
-    "import-from-html-or-json-description": "إضافة وصفة واحدة من ملف HTML أو JSON. هذا مفيد إذا كان لديك وصفة من موقع لا يستطيع Mealie أن تستخرج منه الوصفة، أو من مصدر خارجي آخر.",
+    "import-from-html-or-json-description": "إضافة وصفة واحدة من ملف HTML أو JSON. هذا مفيد إذا كان لديك وصفة من موقع لا يستطيع TrailFood Library أن تستخرج منه الوصفة، أو من مصدر خارجي آخر.",
     "json-import-format-description-colon": "لاستيراد البيانات عبر JSON، يجب أن تكون بتنسيق صالح:",
     "json-editor": "محرر‫ JSON",
-    "zip-files-must-have-been-exported-from-mealie": "يجب أن تكون ملفات .zip قد تم تصديرها من Mealie",
+    "zip-files-must-have-been-exported-from-mealie": "يجب أن تكون ملفات .zip قد تم تصديرها من TrailFood Library",
     "create-a-recipe-by-uploading-a-scan": "إنشاء وصفة عن طريق رفع مسح ضوئي.",
     "upload-a-png-image-from-a-recipe-book": "رفع صورة png من كتاب وصفات",
     "recipe-bulk-importer": "أداة الاستيراد الوصفات بالجملة",
-    "recipe-bulk-importer-description": "تتيح لك أداة استيراد الوصفات المجمعة استيراد عدة وصفات دفعة واحدة عن طريق وضع المواقع في قائمة انتظار على النظام الخلفي وتشغيل المهمة في الخلفية. قد يكون هذا مفيدًا عند الانتقال الأولي إلى Mealie، أو عندما ترغب في استيراد عدد كبير من الوصفات.",
+    "recipe-bulk-importer-description": "تتيح لك أداة استيراد الوصفات المجمعة استيراد عدة وصفات دفعة واحدة عن طريق وضع المواقع في قائمة انتظار على النظام الخلفي وتشغيل المهمة في الخلفية. قد يكون هذا مفيدًا عند الانتقال الأولي إلى TrailFood Library، أو عندما ترغب في استيراد عدد كبير من الوصفات.",
     "set-categories-and-tags": "تعيين التصنيفات والوسوم",
     "bulk-imports": "الاستيرادات بالجملة",
     "bulk-import-process-has-started": "تم بَدْء عملية الاستيراد بالجملة",
     "bulk-import-process-has-failed": "فشلت عملية الاستيراد بالجملة",
     "report-deletion-failed": "فشل حذف التقرير",
     "recipe-debugger": "تصحيح أخطاء الوصفة",
-    "recipe-debugger-description": "أحضر عنوان URL للوصفة التي تريد تصحيحها واكتبها هنا. سيتم تحليل عنوان الURL بواسطة محلل الوصفة وسيتم عرض النتائج. إذا كنت لا ترى أي بيانات يتم إرجاعها، فإن الموقع الذي تحاول نسخه غير مدعوم من قبل Mealie أو مكتبة المحلل.",
+    "recipe-debugger-description": "أحضر عنوان URL للوصفة التي تريد تصحيحها واكتبها هنا. سيتم تحليل عنوان الURL بواسطة محلل الوصفة وسيتم عرض النتائج. إذا كنت لا ترى أي بيانات يتم إرجاعها، فإن الموقع الذي تحاول نسخه غير مدعوم من قبل TrailFood Library أو مكتبة المحلل.",
     "use-openai": "استخدم OpenAI",
     "recipe-debugger-use-openai-description": "استخدم OpenAI لتحليل النتائج بدلاً من الاعتماد على مكتبة المحلل. عند إنشاء وصفة عبر الURL، يتم ذلك تلقائياً إذا فشلت مكتبة المحلل، ولكن يمكنك اختبارها يدوياً هنا.",
     "debug": "تصحيح الأخطاء",
@@ -780,7 +780,7 @@
     "clear-selection": "حذف الاختيار",
     "results": "النتائج",
     "search": "بحث",
-    "search-mealie": "للبحث في Mealie (اضغط /)",
+    "search-mealie": "للبحث في TrailFood Library (اضغط /)",
     "search-placeholder": "بحث..",
     "tag-filter": "فلتر الأصناف",
     "search-hint": "اضغط '/'",
@@ -806,7 +806,7 @@
       "import-summary": "ملخص الاستيراد",
       "partial-backup": "نسخة احتياطية جزئية",
       "unable-to-delete-backup": "تعذرت عملية حذف النسخة الاحتياطية.",
-      "experimental-description": "النسخ الاحتياطية عبارة عن لقطات كاملة لقاعدة البيانات ودليل بيانات الموقع. تشمل هذه النسخ جميع البيانات ولا يمكن استبعاد أي جزء منها. يمكنك اعتبارها لقطة لموقع Mealie في وقت محدد. تُعدّ هذه النسخ وسيلةً مستقلةً عن نوع قاعدة البيانات لتصدير واستيراد البيانات، أو لإنشاء نسخة احتياطية من الموقع إلى موقع خارجي.",
+      "experimental-description": "النسخ الاحتياطية عبارة عن لقطات كاملة لقاعدة البيانات ودليل بيانات الموقع. تشمل هذه النسخ جميع البيانات ولا يمكن استبعاد أي جزء منها. يمكنك اعتبارها لقطة لموقع TrailFood Library في وقت محدد. تُعدّ هذه النسخ وسيلةً مستقلةً عن نوع قاعدة البيانات لتصدير واستيراد البيانات، أو لإنشاء نسخة احتياطية من الموقع إلى موقع خارجي.",
       "backup-restore": "استعادة النسخة الاحتياطية",
       "back-restore-description": "ستؤدي استعادة هذه النسخة الاحتياطية إلى استبدال جميع البيانات الحالية في قاعدة البيانات وفي مجلد البيانات بمحتويات هذه النسخة الاحتياطية. {cannot-be-undone} في حال نجاح الاستعادة، سيتم تسجيل خروجك.",
       "cannot-be-undone": "لا يمكن التراجع عن هذا الإجراء - استخدم بحذر.",
@@ -1010,7 +1010,7 @@
     "sign-up-links": "روابط التسجيل",
     "sign-up-token-deleted": "تم حذف رمز التسجيل",
     "sign-up-token-deletion-failed": "فشل حذف رمز التسجيل",
-    "welcome-to-mealie": "مرحبا بكم في Mealie! لتصبح مستخدم، مطلوبٌ منك أن يكون لديك رابط دعوة صالح. إذا لم تتلق دعوة فإنك غير قادر على التسجيل. للحصول على رابط، تواصل مع مشرف الموقع."
+    "welcome-to-mealie": "مرحبا بكم في TrailFood Library! لتصبح مستخدم، مطلوبٌ منك أن يكون لديك رابط دعوة صالح. إذا لم تتلق دعوة فإنك غير قادر على التسجيل. للحصول على رابط، تواصل مع مشرف الموقع."
   },
   "tag": {
     "tag-created": "تم إنشاء الوسم",
@@ -1119,7 +1119,7 @@
     "user-details": "بيانات المستخدم",
     "user-name": "اسم المستخدم",
     "authentication-method": "طريقة التوثيق",
-    "authentication-method-hint": "This specifies how a user will authenticate with Mealie. If you're not sure, choose 'Mealie",
+    "authentication-method-hint": "This specifies how a user will authenticate with TrailFood Library. If you're not sure, choose 'TrailFood Library",
     "permissions": "الصلاحيات",
     "administrator": "المشرف",
     "user-can-invite-other-to-group": "يمكن للمستخدم دعوة الآخرين للمجموعة",
@@ -1138,7 +1138,7 @@
   "language-dialog": {
     "translated": "مترجم",
     "choose-language": "اختر اللغة",
-    "select-description": "اختر لغة واجهة المستخدم لMealie. ينطبق هذا الإعداد فقط عليك، وليس على بقية المستخدمين.",
+    "select-description": "اختر لغة واجهة المستخدم لTrailFood Library. ينطبق هذا الإعداد فقط عليك، وليس على بقية المستخدمين.",
     "how-to-contribute-description": "هل هناك شيء لم يُترجم بعد، أو تُرجم بشكل خاطئ، أو لغتك غير موجودة في القائمة؟ {read-the-docs-link} لمعرفة كيفية المساهمة!",
     "read-the-docs": "اقرأ المستندات"
   },
@@ -1272,7 +1272,7 @@
     "group-details": "تفاصيل المجموعة",
     "group-details-description": "قبل إنشاء حساب ستحتاج إلى إنشاء مجموعة. المجموعة الخاصة بك سوف تحتوي عليك فقط، ولكن ستتمكن من دعوة الآخرين لاحقاً. يمكن لأعضاء مجموعتك مشاركة خطط الوجبات وقوائم التسوق والوصفات، والمزيد!",
     "use-seed-data": "استخدام بيانات البذور",
-    "use-seed-data-description": "يأتي تطبيق Mealie مزودًا بمجموعة من الأطعمة والوحدات والملصقات التي يمكنك استخدامها لتزويد مجموعتك ببيانات مفيدة لتنظيم وصفاتك. هذه البيانات مترجمة إلى اللغة التي اخترتها حاليًا. يمكنك دائمًا إضافة المزيد إلى هذه البيانات أو تعديلها لاحقًا.",
+    "use-seed-data-description": "يأتي تطبيق TrailFood Library مزودًا بمجموعة من الأطعمة والوحدات والملصقات التي يمكنك استخدامها لتزويد مجموعتك ببيانات مفيدة لتنظيم وصفاتك. هذه البيانات مترجمة إلى اللغة التي اخترتها حاليًا. يمكنك دائمًا إضافة المزيد إلى هذه البيانات أو تعديلها لاحقًا.",
     "account-details": "تفاصيل الحساب"
   },
   "validation": {
@@ -1379,7 +1379,7 @@
       "actions-title": "الإجراءت"
     },
     "ingredients-natural-language-processor": "معالج المكونات الطبيعية",
-    "ingredients-natural-language-processor-explanation": "يستخدم تطبيق Mealie نماذج الحقول العشوائية الشرطية (CRFs) لتحليل ومعالجة المكونات. يعتمد النموذج المستخدم للمكونات على مجموعة بيانات تضم أكثر من 100,000 مكون، تم جمعها من قبل صحيفة نيويورك تايمز. يُرجى ملاحظة أنه نظرًا لتدريب النموذج باللغة الإنجليزية فقط، فقد تختلف النتائج عند استخدامه بلغات أخرى. هذه الصفحة مخصصة لاختبار النموذج.",
+    "ingredients-natural-language-processor-explanation": "يستخدم تطبيق TrailFood Library نماذج الحقول العشوائية الشرطية (CRFs) لتحليل ومعالجة المكونات. يعتمد النموذج المستخدم للمكونات على مجموعة بيانات تضم أكثر من 100,000 مكون، تم جمعها من قبل صحيفة نيويورك تايمز. يُرجى ملاحظة أنه نظرًا لتدريب النموذج باللغة الإنجليزية فقط، فقد تختلف النتائج عند استخدامه بلغات أخرى. هذه الصفحة مخصصة لاختبار النموذج.",
     "ingredients-natural-language-processor-explanation-2": "ليست مثالية، لكنها تُعطي نتائج رائعة عمومًا، وتُعدّ نقطة انطلاق جيدة لتحليل المكونات يدويًا إلى حقول منفصلة. كما يُمكنك استخدام مُعالج \"Brute\" الذي يستخدم تقنية مطابقة الأنماط لتحديد المكونات.",
     "nlp": "NLP",
     "brute": "وحشي",
@@ -1395,13 +1395,13 @@
     "tasks": "المهامّ",
     "setup": {
       "first-time-setup": "اعداد المرة الأولى",
-      "welcome-to-mealie-get-started": "مرحبا بكم في Mealie! لنبدأ",
+      "welcome-to-mealie-get-started": "مرحبا بكم في TrailFood Library! لنبدأ",
       "already-set-up-bring-to-homepage": "أنا بالفعل جاهز، فقط أحضر ني إلى الصفحة الرئيسية",
       "common-settings-for-new-sites": "فيما يلي بعض الإعدادات الشائعة للمواقع الجديدة",
       "setup-complete": "تمت الإعدادات!",
       "ai-providers-description": "Optionally configure AI providers for your group. AI providers enable features like creating recipes from images, importing recipes from videos, and enhanced ingredient parsing. You can always configure this later from your group settings.",
       "here-are-a-few-things-to-help-you-get-started": "إليك بعض الأشياء لمساعدتك على البدء مع ميالي",
-      "restore-from-v1-backup": "لديك نسخة احتياطية من مثيل سابق لـ Mealie v1؟ يمكنك استعادتها هنا.",
+      "restore-from-v1-backup": "لديك نسخة احتياطية من مثيل سابق لـ TrailFood Library v1؟ يمكنك استعادتها هنا.",
       "manage-profile-or-get-invite-link": "إدارة الملف الشخصي الخاص بك، أو التقط رابط دعوة للمشاركة مع الآخرين."
     },
     "debug-openai-services": "خدمات تصحيح أخطاء OpenAI",
@@ -1420,9 +1420,9 @@
     "account-summary": "ملخص الحساب",
     "account-summary-description": "إليك ملخص لمعلومات مجموعتك.",
     "group-statistics": "إحصائيات المجموعة",
-    "group-statistics-description": "توفر إحصائيات مجموعتك بعض المعلومات حول كيفية استخدامك لـ Mealie.",
+    "group-statistics-description": "توفر إحصائيات مجموعتك بعض المعلومات حول كيفية استخدامك لـ TrailFood Library.",
     "household-statistics": "إحصاءات الأسرة",
-    "household-statistics-description": "توفر إحصائيات مجموعتك بعض المعلومات حول كيفية استخدامك لـ Mealie.",
+    "household-statistics-description": "توفر إحصائيات مجموعتك بعض المعلومات حول كيفية استخدامك لـ TrailFood Library.",
     "storage-capacity": "سعة التخزين",
     "storage-capacity-description": "سعة التخزين الخاصة بك هي حساب للصور والأصول التي قمت برفعها.",
     "personal": "شخصي",
@@ -1443,7 +1443,7 @@
     "notifiers": "المبلغين",
     "notifiers-description": "Setup email and push notifications that trigger on specific events.",
     "manage-data": "إدارة البيانات",
-    "manage-data-description": "إدارة بيانات Mealie الخاصة بك؛ الأطعمة، الوحدات، التصنيفات، الوسوم وأكثر من ذلك.",
+    "manage-data-description": "إدارة بيانات TrailFood Library الخاصة بك؛ الأطعمة، الوحدات، التصنيفات، الوسوم وأكثر من ذلك.",
     "data-migrations": "نقل البيانات",
     "data-migrations-description": "ترحيل بياناتك الموجودة من تطبيقات أخرى مثل وصفات Nextcloud و Chowdown.",
     "email-sent": "تم إرسال البريد الإلكتروني",
@@ -1519,7 +1519,7 @@
     "announcements": "Announcements",
     "all-announcements": "All announcements",
     "mark-all-as-read": "وضع علامة مقروء على الكل",
-    "show-announcements-from-mealie": "Show announcements from Mealie",
-    "show-announcements-setting-description": "Whether or not you want to allow users to see announcements from Mealie. When enabled users can still opt-out from seeing them in their user settings"
+    "show-announcements-from-mealie": "Show announcements from TrailFood Library",
+    "show-announcements-setting-description": "Whether or not you want to allow users to see announcements from TrailFood Library. When enabled users can still opt-out from seeing them in their user settings"
   }
 }

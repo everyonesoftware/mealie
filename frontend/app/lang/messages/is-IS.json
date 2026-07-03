@@ -1,7 +1,7 @@
 {
   "about": {
     "about": "Um",
-    "about-mealie": "Um Mealie",
+    "about-mealie": "Um TrailFood Library",
     "api-docs": "API skjöl",
     "api-port": "API port",
     "application-mode": "Hugbúnaðarhamur",
@@ -57,7 +57,7 @@
     "event-delete-confirmation": "Ertu viss um að þú viljir eyða þessum viðburði?",
     "event-deleted": "Viðburði eytt",
     "event-updated": "Viðburður uppfærður",
-    "new-notification-form-description": "Mealie notar Apprise þjónustuna til að búa til tilkynningar. Apprise býður upp á marga möguleika fyrir þjónustur til að nota fyrir tilkynningar. Skoðið Apprise wiki fyrir alhliða leiðarvísi til að búa til URL fyrir þína þjónustu. Ef mögulegt, þá getur verið hægt að velja viðbótar eiginleika fyrir þínar tilkynningar.",
+    "new-notification-form-description": "TrailFood Library notar Apprise þjónustuna til að búa til tilkynningar. Apprise býður upp á marga möguleika fyrir þjónustur til að nota fyrir tilkynningar. Skoðið Apprise wiki fyrir alhliða leiðarvísi til að búa til URL fyrir þína þjónustu. Ef mögulegt, þá getur verið hægt að velja viðbótar eiginleika fyrir þínar tilkynningar.",
     "new-version": "Ný útgáfa fáanleg!",
     "notification": "Tilkynning",
     "refresh": "Endurhlaða",
@@ -421,61 +421,61 @@
     "recipe-migration": "Flutningur uppskriftar gagna",
     "chowdown": {
       "description": "Flytja gögn frá Chowdown",
-      "description-long": "Mealie styður við Chowdown gagna formið. Sæktu gögnin þaðan sem .zip skrá og svo hleður þú skránni inn hér fyrir neðan.",
+      "description-long": "TrailFood Library styður við Chowdown gagna formið. Sæktu gögnin þaðan sem .zip skrá og svo hleður þú skránni inn hér fyrir neðan.",
       "title": "Chowdown"
     },
     "nextcloud": {
       "description": "Flytja gögn frá Nextcloud Cookbook",
-      "description-long": "Nextcloud uppskriftir er hægt að hlaða upp sem .zip skrá sem hefur verið niðurhalað frá Nextcloud. Sjáðu dæmi um möppuskipan hér að neðan til til að tryggja að gögnin muni virka í Mealie.",
+      "description-long": "Nextcloud uppskriftir er hægt að hlaða upp sem .zip skrá sem hefur verið niðurhalað frá Nextcloud. Sjáðu dæmi um möppuskipan hér að neðan til til að tryggja að gögnin muni virka í TrailFood Library.",
       "title": "Nextcloud Cookbook"
     },
     "copymethat": {
-      "description-long": "Mealie getur hlaðið inn gögnum frá „Copy Me That“. Flyttu út gögnin sem HTML formi, svo hleður þú inn .zip hér fyrir neðan.",
+      "description-long": "TrailFood Library getur hlaðið inn gögnum frá „Copy Me That“. Flyttu út gögnin sem HTML formi, svo hleður þú inn .zip hér fyrir neðan.",
       "title": "Copy Me That Recipe Manager"
     },
     "paprika": {
-      "description-long": "Mealie getur hlaðið inn gögnum frá „Paprika Recipe Manager“. Flyttu gögnin út í „Paprika Recipe Manager“, endurnefndu skráarendinguna í .zip og svo hleður þú henni upp hér fyrir neðan.",
+      "description-long": "TrailFood Library getur hlaðið inn gögnum frá „Paprika Recipe Manager“. Flyttu gögnin út í „Paprika Recipe Manager“, endurnefndu skráarendinguna í .zip og svo hleður þú henni upp hér fyrir neðan.",
       "title": "Paprika Recipe Manager"
     },
     "mealie-pre-v1": {
-      "description-long": "Mealie getur flutt inn uppskriftir úr eldri útgáfum en 1.0 af Mealie. Flyttu út uppskriftirnar úr eldri útgáfunni þinni og svo hleður þú .zip skránni inn hér fyrir neðan. Athugaðu að einungis er hægt að hlaða inn uppskriftum úr eldra kerfinu.",
-      "title": "Mealie, eldri útgáfur en 1.0"
+      "description-long": "TrailFood Library getur flutt inn uppskriftir úr eldri útgáfum en 1.0 af TrailFood Library. Flyttu út uppskriftirnar úr eldri útgáfunni þinni og svo hleður þú .zip skránni inn hér fyrir neðan. Athugaðu að einungis er hægt að hlaða inn uppskriftum úr eldra kerfinu.",
+      "title": "TrailFood Library, eldri útgáfur en 1.0"
     },
     "tandoor": {
-      "description-long": "Mealie getur flutt inn uppskriftir frá Tandoor. Flyttu út gögnin í sjálfgefnu formi svo hleður þú upp .zip skránni hér fyrir neðan.",
+      "description-long": "TrailFood Library getur flutt inn uppskriftir frá Tandoor. Flyttu út gögnin í sjálfgefnu formi svo hleður þú upp .zip skránni hér fyrir neðan.",
       "title": "Tandoor Recipes"
     },
     "cookn": {
-      "description-long": "Mealie getur flutt inn uppskriftir frá DVO Cook'n X3. Flyttu matreiðslubókina eða valmyndina í „Cook'n“ sniði, endurnefndu skráarendinguna í .zip og flyttu svo .zip skrána inn hér fyrir neðan.",
+      "description-long": "TrailFood Library getur flutt inn uppskriftir frá DVO Cook'n X3. Flyttu matreiðslubókina eða valmyndina í „Cook'n“ sniði, endurnefndu skráarendinguna í .zip og flyttu svo .zip skrána inn hér fyrir neðan.",
       "title": "DVO Cook'n X3"
     },
     "recipe-data-migrations": "Flutningur uppskrifta gagna",
-    "recipe-data-migrations-explanation": "Hægt er að flytja uppskriftir úr öðrum forritum sem Mealie styður. Þetta er frábær leið til að byrja á því að nota Mealie.",
-    "coming-from-another-application-or-an-even-older-version-of-mealie": "Ef þú ert að koma frá öðru uppskriftar forriti eða jafnvel eldri útgáfu af Mealie, athugaðu þá gagnafluttninginn og skoðaðu hvort gögnin þín geti verið flutt inn.",
+    "recipe-data-migrations-explanation": "Hægt er að flytja uppskriftir úr öðrum forritum sem TrailFood Library styður. Þetta er frábær leið til að byrja á því að nota TrailFood Library.",
+    "coming-from-another-application-or-an-even-older-version-of-mealie": "Ef þú ert að koma frá öðru uppskriftar forriti eða jafnvel eldri útgáfu af TrailFood Library, athugaðu þá gagnafluttninginn og skoðaðu hvort gögnin þín geti verið flutt inn.",
     "choose-migration-type": "Veldu tegund gagnaflutnings",
     "tag-all-recipes": "Merktu allar uppskriftirnar með {tag-name}",
-    "nextcloud-text": "Nextcloud uppskriftir er hægt að hlaða upp sem .zip skrá sem hefur verið niðurhalað frá Nextcloud. Sjáðu dæmi um möppuskipan hér að neðan til til að tryggja að gögnin muni virka í Mealie.",
-    "chowdown-text": "Mealie styður við Chowdown gagna formið. Sæktu gögnin þaðan sem .zip skrá og svo hleður þú skránni inn hér fyrir neðan.",
+    "nextcloud-text": "Nextcloud uppskriftir er hægt að hlaða upp sem .zip skrá sem hefur verið niðurhalað frá Nextcloud. Sjáðu dæmi um möppuskipan hér að neðan til til að tryggja að gögnin muni virka í TrailFood Library.",
+    "chowdown-text": "TrailFood Library styður við Chowdown gagna formið. Sæktu gögnin þaðan sem .zip skrá og svo hleður þú skránni inn hér fyrir neðan.",
     "recipe-1": "Uppskrift 1",
     "recipe-2": "Uppskrift 2",
-    "paprika-text": "Mealie getur hlaðið inn gögnum frá „Paprika Recipe Manager“. Flyttu gögnin út í „Paprika Recipe Manager“, endurnefndu skráarendinguna í .zip og svo hleður þú henni upp hér fyrir neðan.",
-    "mealie-text": "Mealie getur flutt inn uppskriftir úr eldri útgáfum en 1.0 af Mealie. Flyttu út uppskriftirnar úr eldri útgáfunni þinni og svo hleður þú .zip skránni inn hér fyrir neðan. Athugaðu að einungis er hægt að hlaða inn uppskriftum úr eldra kerfinu.",
+    "paprika-text": "TrailFood Library getur hlaðið inn gögnum frá „Paprika Recipe Manager“. Flyttu gögnin út í „Paprika Recipe Manager“, endurnefndu skráarendinguna í .zip og svo hleður þú henni upp hér fyrir neðan.",
+    "mealie-text": "TrailFood Library getur flutt inn uppskriftir úr eldri útgáfum en 1.0 af TrailFood Library. Flyttu út uppskriftirnar úr eldri útgáfunni þinni og svo hleður þú .zip skránni inn hér fyrir neðan. Athugaðu að einungis er hægt að hlaða inn uppskriftum úr eldra kerfinu.",
     "plantoeat": {
       "title": "Plan to Eat",
-      "description-long": "Mealie getur hlaðið inn uppskriftum frá „Plan to Eat“."
+      "description-long": "TrailFood Library getur hlaðið inn uppskriftum frá „Plan to Eat“."
     },
     "myrecipebox": {
       "title": "My Recipe Box",
-      "description-long": "Mealie getur hlaðið inn gögnum frá „My Recipe Box“. Flyttu gögnin út í CSV snið, svo hleður þú inn .csv skrána hér fyrir neðan."
+      "description-long": "TrailFood Library getur hlaðið inn gögnum frá „My Recipe Box“. Flyttu gögnin út í CSV snið, svo hleður þú inn .csv skrána hér fyrir neðan."
     },
     "recipekeeper": {
       "title": "Recipe Keeper",
-      "description-long": "Mealie getur hlaðið inn uppskriftum frá „Recipe Keeper“. Flyttu uppskriftirnar þínar út í zip sniði og svo hleður þú inn .zip skrána hér fyrir neðan."
+      "description-long": "TrailFood Library getur hlaðið inn uppskriftum frá „Recipe Keeper“. Flyttu uppskriftirnar þínar út í zip sniði og svo hleður þú inn .zip skrána hér fyrir neðan."
     }
   },
   "new-recipe": {
     "bulk-add": "Bæta við mörgum",
-    "error-details": "Aðeins vefsíður sem innihalda ld+json eða microdata má flytja inn í Mealie. Flestar uppskriftasíður styðja þessa gagnauppbyggingu. Ef ekki er hægt að flytja inn síðu, en json-gögn birtast í annálunum (log), vinsamlegast sendu inn beiðni á GitHub með slóðinni á síðuna og gögnin.",
+    "error-details": "Aðeins vefsíður sem innihalda ld+json eða microdata má flytja inn í TrailFood Library. Flestar uppskriftasíður styðja þessa gagnauppbyggingu. Ef ekki er hægt að flytja inn síðu, en json-gögn birtast í annálunum (log), vinsamlegast sendu inn beiðni á GitHub með slóðinni á síðuna og gögnin.",
     "error-title": "Lítur út fyrir að við höfum ekki getað fundið neitt",
     "from-url": "Hlaða inn uppskrift",
     "github-issues": "GitHub vandamál",
@@ -486,7 +486,7 @@
     "recipe-url": "Slóð uppskriftar",
     "recipe-html-or-json": "HTML eða JSON form á uppskriftinni",
     "upload-a-recipe": "Hlaða inn uppskrift",
-    "upload-individual-zip-file": "Hlaða inn .zip skrá sem er flutt úr annarri Mealie uppsetningu.",
+    "upload-individual-zip-file": "Hlaða inn .zip skrá sem er flutt úr annarri TrailFood Library uppsetningu.",
     "url-form-hint": "Afritaðu og límdu tengil frá uppáhalds uppskriftar síðunni þinni",
     "copy-and-paste-the-source-url-of-your-data-optional": "Copy and paste the source URL of your data (optional)",
     "view-scraped-data": "Skoða unnin gögn",
@@ -645,7 +645,7 @@
     "failed-to-add-to-timeline": "Mistókst að bæta við tímalínu",
     "failed-to-update-recipe": "Mistókst að uppfæra uppskrift",
     "added-to-timeline-but-failed-to-add-image": "Bætt við tímalínu en mistókst að bæta við mynd",
-    "api-extras-description": "Recipe Extras er mikilvægur hluti af Mealie API-inu. Þær gera þér kleift að búa til sérsniðin JSON-lyklagildi (key/value pairs) innan uppskrifta, sem hægt er að vísa í frá utanaðkomandi forritum. Þú getur notað þessa lykla til að veita upplýsingar, til dæmis til að ræsa sjálfvirkar aðgerðir eða senda sérsniðin skilaboð til tækis að eigin vali.",
+    "api-extras-description": "Recipe Extras er mikilvægur hluti af TrailFood Library API-inu. Þær gera þér kleift að búa til sérsniðin JSON-lyklagildi (key/value pairs) innan uppskrifta, sem hægt er að vísa í frá utanaðkomandi forritum. Þú getur notað þessa lykla til að veita upplýsingar, til dæmis til að ræsa sjálfvirkar aðgerðir eða senda sérsniðin skilaboð til tækis að eigin vali.",
     "message-key": "Lykill",
     "parse": "Greina uppskrift",
     "ingredients-not-parsed-description": "Það lítur út fyrir að innihaldsefnin þín hafi ekki verið greind. Ýttu á „{parse}“ takkann fyrir neðan til að lesa og greina uppskriftina.",
@@ -664,7 +664,7 @@
     "create-recipes": "Stofna uppskriftir",
     "import-with-zip": "Hlaða inn með .zip",
     "create-recipe-from-images": "Create Recipe from Images",
-    "create-recipe-from-an-image-description": "Stofna uppskrift með því hlaða inn myndum af uppskriftartextanum. Mealie mun reyna að vinna texta úr myndunum með gervigreind og stofna nýja uppskrift út frá textanum.",
+    "create-recipe-from-an-image-description": "Stofna uppskrift með því hlaða inn myndum af uppskriftartextanum. TrailFood Library mun reyna að vinna texta úr myndunum með gervigreind og stofna nýja uppskrift út frá textanum.",
     "crop-and-rotate-the-image": "Sníða og snúa mynd svo bara textinn sé sýnilegur og að myndin snúi rétt.",
     "create-from-images": "Stofna uppskrift frá mynd",
     "should-translate-description": "Þýða uppskrift á mitt tungumál",
@@ -675,8 +675,8 @@
     "create-a-recipe-by-providing-the-name-all-recipes-must-have-unique-names": "Stofnaðu uppskrift með því að gefa henni nafn, allar uppskriftir þurfa að hafa einstakt nafn.",
     "new-recipe-names-must-be-unique": "Nöfn uppskrifta þurfa að vera einstök",
     "scrape-recipe": "Vinna uppskrift",
-    "scrape-recipe-description": "Sækja uppskrift af vefslóð. Settu inn vefslóð fyrir síðuna þar sem þú vilt sækja uppskrift og Mealie mun reyna að vinna uppskriftina þaðan og bæta henni við safnið þitt.",
-    "scrape-recipe-description-transcription": "Þú getur einnig sett inn slóð á video og Mealie mun reyna að umrita það yfir í uppskrift.",
+    "scrape-recipe-description": "Sækja uppskrift af vefslóð. Settu inn vefslóð fyrir síðuna þar sem þú vilt sækja uppskrift og TrailFood Library mun reyna að vinna uppskriftina þaðan og bæta henni við safnið þitt.",
+    "scrape-recipe-description-transcription": "Þú getur einnig sett inn slóð á video og TrailFood Library mun reyna að umrita það yfir í uppskrift.",
     "scrape-recipe-have-a-lot-of-recipes": "Ertu með margar uppskriftir sem þú villt setja inn í einu?",
     "scrape-recipe-suggest-bulk-importer": "Prófaðu að setja inn margar uppskriftir í einu",
     "scrape-recipe-have-raw-html-or-json-data": "Ertu með hrá HTML eða JSON gögn?",
@@ -688,12 +688,12 @@
     "stay-in-edit-mode": "Vera í breytingarham",
     "parse-recipe-ingredients-after-import": "Greina innhald uppskriftar eftir að búið er að hlaða inn uppskrift",
     "import-from-zip": "Hlaða inn frá .zip",
-    "import-from-zip-description": "Flytja inn uppskrift sem hefur verið flutt úr annarri Mealie uppsetningu.",
+    "import-from-zip-description": "Flytja inn uppskrift sem hefur verið flutt úr annarri TrailFood Library uppsetningu.",
     "import-from-html-or-json": "Hlaða inn frá HTML eða JSON",
     "import-from-html-or-json-description": "Hlaða inn eina uppskrift úr HTML eða JSON kóða. Þetta getur verið nothæft ef þú ert með uppskrift þar sem Meali getur ekki greint uppskriftina, eða uppskriftin er annarsstaðar frá.",
     "json-import-format-description-colon": "Til að hlaða inn í frá JSON þá verður kóðinn að vera réttur:",
     "json-editor": "JSON ritill",
-    "zip-files-must-have-been-exported-from-mealie": ".zip skrár verða að vera fluttar út frá Mealie",
+    "zip-files-must-have-been-exported-from-mealie": ".zip skrár verða að vera fluttar út frá TrailFood Library",
     "create-a-recipe-by-uploading-a-scan": "Stofnaðu uppskrift með því að hlaða inn skannaðri síðu.",
     "upload-a-png-image-from-a-recipe-book": "Settu inn .png mynd af uppskriftar bók",
     "recipe-bulk-importer": "Bæta við mögum uppskritum í einu",
@@ -704,7 +704,7 @@
     "bulk-import-process-has-failed": "Vinnslan við að flytja inn margar uppskriftir í einu mistókst",
     "report-deletion-failed": "Mistókst að eyða skýrslu",
     "recipe-debugger": "Yfirfara uppskrift",
-    "recipe-debugger-description": "Náðu í slóðina af uppskriftinni sem þú villt yfirfara og límdu hana hér. Síðan með uppskriftinni verður greind með greiningarverkfærinu og þú munnt sjá niðurstöðuna. Ef þú sérð að engin gögn skila sér þá er slóðin sem þú ert að greina ekki studd af Mealie eða greiningarverkfærinu.",
+    "recipe-debugger-description": "Náðu í slóðina af uppskriftinni sem þú villt yfirfara og límdu hana hér. Síðan með uppskriftinni verður greind með greiningarverkfærinu og þú munnt sjá niðurstöðuna. Ef þú sérð að engin gögn skila sér þá er slóðin sem þú ert að greina ekki studd af TrailFood Library eða greiningarverkfærinu.",
     "use-openai": "Nota OpenAI",
     "recipe-debugger-use-openai-description": "Nota OpenAI til að greina í staðinn fyrir að treysta á greiningar verkfærið. Ef greiningar verkfærinu mistekst að greina uppskrift af vefslóð þá gerist það sjálfvirkt að OpenAI greinir uppskriftina en þú getur prófað þetta sjálfur hér.",
     "debug": "Villuleit",
@@ -780,7 +780,7 @@
     "clear-selection": "Hreinsa val",
     "results": "Niðurstöður",
     "search": "Leita",
-    "search-mealie": "Leita í Mealie (ýttu á „/“)",
+    "search-mealie": "Leita í TrailFood Library (ýttu á „/“)",
     "search-placeholder": "Leita...",
     "tag-filter": "Merki",
     "search-hint": "Ýttu á '/'",
@@ -806,7 +806,7 @@
       "import-summary": "Samantekt endurheimtar",
       "partial-backup": "Hluta öryggisafrit",
       "unable-to-delete-backup": "Ekki hægt að eyða öryggisafriti.",
-      "experimental-description": "Öryggisafrit er heildarafrit af gagnagrunninum og skrárkerfi síðunnar. Það er því um að ræða öll gögn og ekki hægt að sleppa gögnum. Þú getur hugsað um þetta sem heildstæða mynd af Mealie á ákveðnum tíma sem hægt er að nota til að endurheimta eða flytja kerfið á annan þjón annarsstaðar.",
+      "experimental-description": "Öryggisafrit er heildarafrit af gagnagrunninum og skrárkerfi síðunnar. Það er því um að ræða öll gögn og ekki hægt að sleppa gögnum. Þú getur hugsað um þetta sem heildstæða mynd af TrailFood Library á ákveðnum tíma sem hægt er að nota til að endurheimta eða flytja kerfið á annan þjón annarsstaðar.",
       "backup-restore": "Endurheimta öryggisafrit",
       "back-restore-description": "Við að endurheimta öryggisafritið mun skrifast yfir öll núverandi gögn í gagnagrunninum og allar skrárnar með gögnum úr öryggisafritinu. {cannot-be-undone} Ef endurheimtin tekst munt þú verða skráður út úr kerfinu.",
       "cannot-be-undone": "VARÚÐ - þessa aðgerð er ekki hægt að taka tilbaka.",
@@ -905,7 +905,7 @@
     "tracker": "Rekjari",
     "configuration": "Stillingar",
     "docker-volume": "Docker Volume",
-    "docker-volume-help": "Mealie krefst þess að bæði frontend gámur og backend deili sama docker volume og geymslu. Það tryggir að froentend gámur getir nálgast myndir og önnur gögn sem geymd eru á disknum.",
+    "docker-volume-help": "TrailFood Library krefst þess að bæði frontend gámur og backend deili sama docker volume og geymslu. Það tryggir að froentend gámur getir nálgast myndir og önnur gögn sem geymd eru á disknum.",
     "volumes-are-misconfigured": "Volumes are misconfigured.",
     "volumes-are-configured-correctly": "Volumes are configured correctly.",
     "status-unknown-try-running-a-validation": "Status Unknown. Try running a validation.",
@@ -920,7 +920,7 @@
     "general-about": "Upplýsingar",
     "application-version": "Útgáfa forrits",
     "application-version-error-text": "Útgáfan þín ({0}) er ekki sú sama og nýjasta útgáfan. Athugaðu hvort þú villt uppfæra í nýjustu útgáfuna ({1}).",
-    "mealie-is-up-to-date": "Mealie er að nota nýjustu útgáfuna",
+    "mealie-is-up-to-date": "TrailFood Library er að nota nýjustu útgáfuna",
     "secure-site": "Örugg síða",
     "secure-site-error-text": "Notið localhost eða tryggið öryggi með https. Klippispjald eða viðbótar vafra-API gætu ekki virkað.",
     "secure-site-success-text": "Síðan er aðgengileg í gegnum localhost eð https",
@@ -1010,7 +1010,7 @@
     "sign-up-links": "Tenglar til að stofna aðgang",
     "sign-up-token-deleted": "Aðgangslykli fyrir skráningu eytt",
     "sign-up-token-deletion-failed": "Mistókst að eyða aðgangslykli fyrir skráningu",
-    "welcome-to-mealie": "Velkominn í Mealie! Til að verða notandi af þessari síðu þá þarftu að hafa boðstengil. Ef þú hefur ekki fengið boð þá getur þú ekki skráð þig. Til að fá tengil hafðu þá samband við kerfisstjóra."
+    "welcome-to-mealie": "Velkominn í TrailFood Library! Til að verða notandi af þessari síðu þá þarftu að hafa boðstengil. Ef þú hefur ekki fengið boð þá getur þú ekki skráð þig. Til að fá tengil hafðu þá samband við kerfisstjóra."
   },
   "tag": {
     "tag-created": "Merki stofnað",
@@ -1119,7 +1119,7 @@
     "user-details": "Upplýsingar um notanda",
     "user-name": "Notandanafn",
     "authentication-method": "Auðkenningaraðferð",
-    "authentication-method-hint": "Þetta skilgreinir hvernig notandinn auðkennir sig við Mealie. Ef þú ert ekki viss veldu þá „Mealie“",
+    "authentication-method-hint": "Þetta skilgreinir hvernig notandinn auðkennir sig við TrailFood Library. Ef þú ert ekki viss veldu þá „TrailFood Library“",
     "permissions": "Réttindi",
     "administrator": "Stjórnandi",
     "user-can-invite-other-to-group": "Notandinn getur boðið öðrum í hóp",
@@ -1148,7 +1148,7 @@
       "delete-affects-recipes-more": "View all {count} recipes",
       "merge-dialog-text": "Við að sameina valdar matvörur munu matvörurnar sem þú hefur valið sameinast í eina matvöru. Upprunalegu matvörunni verður eytt og allar tengingar við matvöruna mun breytast og vísa á sameinuðu matvöruna.",
       "merge-food-example": "Sameina {food1} við {food2}",
-      "seed-dialog-text": "Bæta matvörum á þínu tungumáli við gagnagrunninn. Það munu bætast við um 2700 matvörur við gagnagrunninn sem hafa verið þýddar af notendum Mealie.",
+      "seed-dialog-text": "Bæta matvörum á þínu tungumáli við gagnagrunninn. Það munu bætast við um 2700 matvörur við gagnagrunninn sem hafa verið þýddar af notendum TrailFood Library.",
       "seed-dialog-warning": "Það eru nú þegar matvörur í gagnagrunninum. Nýrri matvöru verður ekki bætt við ef matvara með sama nafni er þegar til staðar.",
       "combine-food": "Sameina matvörur",
       "source-food": "Upprunaleg matvara",
@@ -1272,7 +1272,7 @@
     "group-details": "Upplýsingar um hópinn",
     "group-details-description": "Áður en þý býrð til aðgang verður þú að stofna hóp. Þú munnt verða eini meðlimurinn í hópnum en þú munnt geta boðið öðrum í hópinn síðar. Meðlimir í hópnum geta deilt matarplani, innkaupalistum, uppskriftum og fleiru.",
     "use-seed-data": "Nota grunngögn",
-    "use-seed-data-description": "Mealie kemur með safn af matvörum, mælieiningum og merkimiðum sem hægt er að nota í hópnum þínum til að hjálpa við að skipuleggja uppskriftirnar þínar. Safnið er þýtt á tungumálið sem þú hefur valið. Alltaf er hægt að bæta við eða breyta þessum gögnum síðar.",
+    "use-seed-data-description": "TrailFood Library kemur með safn af matvörum, mælieiningum og merkimiðum sem hægt er að nota í hópnum þínum til að hjálpa við að skipuleggja uppskriftirnar þínar. Safnið er þýtt á tungumálið sem þú hefur valið. Alltaf er hægt að bæta við eða breyta þessum gögnum síðar.",
     "account-details": "Upplýsingar um notanda"
   },
   "validation": {
@@ -1372,14 +1372,14 @@
       "actions-description-destructive": "eyðileggjandi",
       "actions-description-irreversible": "varanlegar",
       "logs-action-refresh": "Refresh Logs",
-      "logs-page-title": "Mealie Logs",
+      "logs-page-title": "TrailFood Library Logs",
       "logs-tail-lines-label": "Tail Lines"
     },
     "mainentance": {
       "actions-title": "Aðgerðir"
     },
     "ingredients-natural-language-processor": "Innihaldsefna málgreining (Natural Language Processor)",
-    "ingredients-natural-language-processor-explanation": "Mealie notar Conditional Random Fields (CRFs) til að greina og vinna með innihaldsefni. Líkanið sem notað er byggir á gagnasafni með yfir 100.000 innihaldsefnum úr gagnasafni sem New York Times tók saman. Athugaðu að þar sem líkanið er einungis þjálfað á ensku geturðu fengið misjafnar niðurstöður þegar það er notað á önnur tungumál. Þessi síða er ætluð til að prófa líkanið.",
+    "ingredients-natural-language-processor-explanation": "TrailFood Library notar Conditional Random Fields (CRFs) til að greina og vinna með innihaldsefni. Líkanið sem notað er byggir á gagnasafni með yfir 100.000 innihaldsefnum úr gagnasafni sem New York Times tók saman. Athugaðu að þar sem líkanið er einungis þjálfað á ensku geturðu fengið misjafnar niðurstöður þegar það er notað á önnur tungumál. Þessi síða er ætluð til að prófa líkanið.",
     "ingredients-natural-language-processor-explanation-2": "Þetta er ekki fullkomið en skilar almennt góðum niðurstöðum og er góður grunnur fyrir handvirka greiningu innihaldsefna í einstaka reiti. Þú getur einnig notað „Grófgreinir“ vinnsluna, sem notar mynsturgreiningu til að bera kennsl á innihaldsefni.",
     "nlp": "NLP",
     "brute": "Grófgreinir",
@@ -1395,13 +1395,13 @@
     "tasks": "Verkefni",
     "setup": {
       "first-time-setup": "Fyrsta uppsetning",
-      "welcome-to-mealie-get-started": "Mealie býður þig velkominn, kýlum á þetta",
+      "welcome-to-mealie-get-started": "TrailFood Library býður þig velkominn, kýlum á þetta",
       "already-set-up-bring-to-homepage": "Allt er þegar klárt hjá mér, sendu mig á heimasíðuna",
       "common-settings-for-new-sites": "Hér eru nokkrar algengar stillingar fyrir nýjar síður",
       "setup-complete": "Uppsetningu lokið",
       "ai-providers-description": "Optionally configure AI providers for your group. AI providers enable features like creating recipes from images, importing recipes from videos, and enhanced ingredient parsing. You can always configure this later from your group settings.",
-      "here-are-a-few-things-to-help-you-get-started": "Hér eru nokkur atriði til að hjálpa þér að byrja á því að nota Mealie",
-      "restore-from-v1-backup": "Ertu með öryggisafrit af eldri útgáfur af Mealie útgáfu 1? Þú getur endurheimt hana hér.",
+      "here-are-a-few-things-to-help-you-get-started": "Hér eru nokkur atriði til að hjálpa þér að byrja á því að nota TrailFood Library",
+      "restore-from-v1-backup": "Ertu með öryggisafrit af eldri útgáfur af TrailFood Library útgáfu 1? Þú getur endurheimt hana hér.",
       "manage-profile-or-get-invite-link": "Stilltu eigin prófil, eða sæktu boðs-tengil til að deila með öðrum."
     },
     "debug-openai-services": "Villugreina OpenAI þjónustur",
@@ -1420,9 +1420,9 @@
     "account-summary": "Samantekt á aðgang",
     "account-summary-description": "Hér er samantekt á upplýsingum um hópinn þinn.",
     "group-statistics": "Hóp tölfræði",
-    "group-statistics-description": "Your Group Statistics provide some insight how you're using Mealie.",
+    "group-statistics-description": "Your Group Statistics provide some insight how you're using TrailFood Library.",
     "household-statistics": "Tölfræði heimilis",
-    "household-statistics-description": "Heimilis tölfræðin gefur einhverja innsýn í hvernig þú ert að nota Mealie.",
+    "household-statistics-description": "Heimilis tölfræðin gefur einhverja innsýn í hvernig þú ert að nota TrailFood Library.",
     "storage-capacity": "Geymslupláss",
     "storage-capacity-description": "Geymsluplássið þitt er samlagning á myndum og öðru sem þú hefur hlaðið inn.",
     "personal": "Eigin stillingar",
@@ -1443,7 +1443,7 @@
     "notifiers": "Tilkynningar",
     "notifiers-description": "Settu upp tölvupóst og push-tilkynningar sem virkjast við tiltekna atburði.",
     "manage-data": "Gagnastýring",
-    "manage-data-description": "Stjórnaðu Mealie gögnunum þínum: matvörum, mælieiningum, flokkum, merkingum og fleiru.",
+    "manage-data-description": "Stjórnaðu TrailFood Library gögnunum þínum: matvörum, mælieiningum, flokkum, merkingum og fleiru.",
     "data-migrations": "Flutningur uppskrifta gagna",
     "data-migrations-description": "Flytur gögnin þín úr öðrum kerfum eins og Nextcloud Recipes og Chowdown.",
     "email-sent": "Tölvpóstur sendur",
@@ -1467,7 +1467,7 @@
     "hide-cookbooks-from-other-households": "Fela uppskriftarbækur frá öðrum heimilum",
     "hide-cookbooks-from-other-households-description": "Þegar þetta er valið þá munu aðeins uppskriftarbækur úr þínu heimili birtast á hliðarstikunni",
     "public-cookbook": "Opin uppskriftarbók",
-    "public-cookbook-description": "Opnar uppskriftabækur er hægt að deila með þeim sem ekki eru notendur í Mealie kerfinu og eru þær sýnilegar á hópsíðunni þinni.",
+    "public-cookbook-description": "Opnar uppskriftabækur er hægt að deila með þeim sem ekki eru notendur í TrailFood Library kerfinu og eru þær sýnilegar á hópsíðunni þinni.",
     "filter-options": "Filter Options",
     "filter-options-description": "When require all is selected the cookbook will only include recipes that have all of the items selected. This applies to each subset of selectors and not a cross section of the selected items.",
     "require-all-categories": "Þarf alla flokka",
@@ -1519,7 +1519,7 @@
     "announcements": "Tilkynningar",
     "all-announcements": "Allar tilkynningar",
     "mark-all-as-read": "Merkja allar sem lesnar",
-    "show-announcements-from-mealie": "Sýna tilkynningar frá Mealie",
-    "show-announcements-setting-description": "Hvort leyfa eigi notendum að sjá tilkynningar fŕa Mealie. Sé þetta virkt þá getur notandinn sjálfur valið að sjá þær ekki í sínum notenda stillingum"
+    "show-announcements-from-mealie": "Sýna tilkynningar frá TrailFood Library",
+    "show-announcements-setting-description": "Hvort leyfa eigi notendum að sjá tilkynningar fŕa TrailFood Library. Sé þetta virkt þá getur notandinn sjálfur valið að sjá þær ekki í sínum notenda stillingum"
   }
 }

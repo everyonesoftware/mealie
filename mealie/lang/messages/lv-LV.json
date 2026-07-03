@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie Aizmirsi Paroli",
+            "subject": "TrailFood Library Aizmirsi Paroli",
             "header_text": "Aizmirsi Paroli",
             "message_top": "Jūs esat pieprasījis paroles atiestatīšanu.",
             "message_bottom": "Lūdzu, noklikšķiniet uz augstāk esošās pogas, lai atiestatītu savu paroli.",
             "button_text": "Atiestatīt paroli"
         },
         "invitation": {
-            "subject": "Aicinājums pievienoties Mealie",
+            "subject": "Aicinājums pievienoties TrailFood Library",
             "header_text": "Jūs esat uzaicināts!",
-            "message_top": "Jūs esat uzaicināts pievienoties Mealie.",
+            "message_top": "Jūs esat uzaicināts pievienoties TrailFood Library.",
             "message_bottom": "Lūdzu, noklikšķiniet uz pogas augstāk, lai pieņemtu ielūgumu.",
             "button_text": "Pieņemt ielūgumu"
         },
         "test": {
-            "subject": "Mealie testa e-pasts",
+            "subject": "TrailFood Library testa e-pasts",
             "header_text": "Testa e-pasts",
             "message_top": "Šis ir testa e-pasts.",
             "message_bottom": "Lūdzu, noklikšķiniet uz augstāk esošās pogas, lai pārbaudītu e-pastu.",
-            "button_text": "Atvērt Mealie"
+            "button_text": "Atvērt TrailFood Library"
         }
     }
 }

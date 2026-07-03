@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie Ξέχασα τον κωδικό πρόσβασης",
+            "subject": "TrailFood Library Ξέχασα τον κωδικό πρόσβασης",
             "header_text": "Ξέχασα τον κωδικό πρόσβασης",
             "message_top": "Εχετε ζητήσει να επαναφέρετε τον κωδικό πρόσβασής σας.",
             "message_bottom": "Παρακαλώ κάντε κλικ στο παραπάνω κουμπί για να επαναφέρετε τον κωδικό πρόσβασής σας.",
             "button_text": "Επαναφορά κωδικού πρόσβασης"
         },
         "invitation": {
-            "subject": "Πρόσκληση για συμμετοχή στο Mealie",
+            "subject": "Πρόσκληση για συμμετοχή στο TrailFood Library",
             "header_text": "Εχετε Προσκληθεί!",
-            "message_top": "Εχετε προσκληθεί να γίνετε μέλος στο Mealie.",
+            "message_top": "Εχετε προσκληθεί να γίνετε μέλος στο TrailFood Library.",
             "message_bottom": "Παρακαλώ κάντε κλικ στο παραπάνω κουμπί για να αποδεχτείτε την πρόσκληση.",
             "button_text": "Αποδοχή Πρόσκλησης"
         },
         "test": {
-            "subject": "Δοκιμαστικό Email Mealie",
+            "subject": "Δοκιμαστικό Email TrailFood Library",
             "header_text": "Δοκιμαστικό Email",
             "message_top": "Αυτό είναι ένα δοκιμαστικό email.",
             "message_bottom": "Παρακαλώ κάντε κλικ στο παραπάνω κουμπί για να δοκιμάσετε το email.",
-            "button_text": "Ανοιγμα Mealie"
+            "button_text": "Ανοιγμα TrailFood Library"
         }
     }
 }

@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie Parolă Uitată",
+            "subject": "TrailFood Library Parolă Uitată",
             "header_text": "Am uitat parola",
             "message_top": "Ai solicitat resetarea parolei.",
             "message_bottom": "Vă rugăm să faceţi clic pe butonul de mai sus pentru a reseta parola.",
             "button_text": "Resetare parolă"
         },
         "invitation": {
-            "subject": "Invitație de a te alătura Mealie",
+            "subject": "Invitație de a te alătura TrailFood Library",
             "header_text": "Ești invitat!",
-            "message_top": "Ai fost invitat să te alături lui Mealie.",
+            "message_top": "Ai fost invitat să te alături lui TrailFood Library.",
             "message_bottom": "Vă rugăm să faceţi clic pe butonul de mai sus pentru a accepta invitaţia.",
             "button_text": "Acceptă invitația"
         },
         "test": {
-            "subject": "E-mail test Mealie",
+            "subject": "E-mail test TrailFood Library",
             "header_text": "Email de test",
             "message_top": "Acesta este un e-mail de test.",
             "message_bottom": "Vă rugăm să faceţi clic pe butonul de mai sus pentru a testa e-mailul.",
-            "button_text": "Deschide Mealie"
+            "button_text": "Deschide TrailFood Library"
         }
     }
 }

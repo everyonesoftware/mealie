@@ -11,15 +11,15 @@ def serve_manifest():
     sub_path = urlparse(settings.BASE_URL).path or "/"
 
     manifest = {
-        "name": "Mealie",
-        "short_name": "Mealie",
+        "name": "TrailFood Library",
+        "short_name": "TrailFood Library",
         "id": "/",
         "start_url": sub_path,
         "scope": sub_path,
         "display": "standalone",
         "background_color": "#1E1E1E",
         "theme_color": settings.theme.light_primary,
-        "description": "Mealie is a recipe management and meal planning app",
+        "description": "TrailFood Library is a recipe management and meal planning app",
         "lang": "en",
         "display_override": ["standalone", "minimal-ui", "browser", "window-controls-overlay"],
         "categories": ["food", "lifestyle"],

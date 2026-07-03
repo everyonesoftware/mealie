@@ -71,21 +71,21 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie Заборављена лозинка",
+            "subject": "TrailFood Library Заборављена лозинка",
             "header_text": "Заборављена лозинка",
             "message_top": "Направили сте захтев за ресетовање лозинке.",
             "message_bottom": "Молимо вас да притиснете дугме изнад како бисте ресетовали лозинку.",
             "button_text": "Ресетуј лозинку"
         },
         "invitation": {
-            "subject": "Mealie Позивница за придруживање",
+            "subject": "TrailFood Library Позивница за придруживање",
             "header_text": "Позвани сте!",
-            "message_top": "Позвани сте да се придружите Mealie-у.",
+            "message_top": "Позвани сте да се придружите TrailFood Library-у.",
             "message_bottom": "Молимо вас да притиснете дугме изнад како бисте прихватили позив.",
             "button_text": "Прихвати позивницу"
         },
         "test": {
-            "subject": "Mealie тест имејл",
+            "subject": "TrailFood Library тест имејл",
             "header_text": "Пробни имејл",
             "message_top": "Ово је пробни имејл.",
             "message_bottom": "Молимо вас да притиснете дугме изнад како бисте тестирали имејл.",

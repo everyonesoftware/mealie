@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie忘记密码",
+            "subject": "TrailFood Library忘记密码",
             "header_text": "忘记密码",
             "message_top": "您已请求重置密码。",
             "message_bottom": "请按上面的按钮重置密码。",
             "button_text": "重置密码"
         },
         "invitation": {
-            "subject": "邀请加入Mealie",
+            "subject": "邀请加入TrailFood Library",
             "header_text": "您已被邀请！",
-            "message_top": "您已被邀请加入Mealie。",
+            "message_top": "您已被邀请加入TrailFood Library。",
             "message_bottom": "请点击上面的按钮接受邀请。",
             "button_text": "接受邀请"
         },
         "test": {
-            "subject": "Mealie测试邮件",
+            "subject": "TrailFood Library测试邮件",
             "header_text": "发送测试邮件",
             "message_top": "这是一封测试邮件。",
             "message_bottom": "请点击上面的按钮测试邮件。",
-            "button_text": "打开Mealie"
+            "button_text": "打开TrailFood Library"
         }
     }
 }

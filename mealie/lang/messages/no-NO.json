@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Mealie Glemt Passord",
+            "subject": "TrailFood Library Glemt Passord",
             "header_text": "Glemt passord",
             "message_top": "Du har forespurt å resette passordet.",
             "message_bottom": "Klikk på knappen over for å tilbakestille passordet ditt.",
             "button_text": "Tilbakestill passord"
         },
         "invitation": {
-            "subject": "Invitasjon til å bli med i Mealie",
+            "subject": "Invitasjon til å bli med i TrailFood Library",
             "header_text": "Du er invitert!",
-            "message_top": "Du er invitert til å bli med i Mealie.",
+            "message_top": "Du er invitert til å bli med i TrailFood Library.",
             "message_bottom": "Vennligst klikk på knappen over for å akseptere invitasjonen.",
             "button_text": "Aksepter invitasjon"
         },
         "test": {
-            "subject": "Mealie test-e-post",
+            "subject": "TrailFood Library test-e-post",
             "header_text": "Test-e-post",
             "message_top": "Dette er en test-e-post.",
             "message_bottom": "Klikk på knappen over for å teste e-posten.",
-            "button_text": "Åpne Mealie"
+            "button_text": "Åpne TrailFood Library"
         }
     }
 }

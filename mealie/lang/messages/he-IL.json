@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "שכחת סיסמה ל-Mealie",
+            "subject": "שכחת סיסמה ל-TrailFood Library",
             "header_text": "שכחת סיסמה",
             "message_top": "ביקשת לאפס את הסיסמה שלך.",
             "message_bottom": "נא ללחוץ על הכפתור למעלה לאיפוס הסיסמה.",
             "button_text": "איפוס סיסמה"
         },
         "invitation": {
-            "subject": "הזמנת הצטרפות ל-Mealie",
+            "subject": "הזמנת הצטרפות ל-TrailFood Library",
             "header_text": "הוזמנת!",
-            "message_top": "הוזמנת להצטרף ל-Mealie.",
+            "message_top": "הוזמנת להצטרף ל-TrailFood Library.",
             "message_bottom": "נא ללחוץ על הכפתור למעלה לקבלת ההזמנה.",
             "button_text": "אישור ההזמנה"
         },
         "test": {
-            "subject": "מייל בדיקה מ-Mealie",
+            "subject": "מייל בדיקה מ-TrailFood Library",
             "header_text": "מייל בדיקה",
             "message_top": "זהו מייל בדיקה.",
             "message_bottom": "נא ללחוץ על הכפתור למעלה כדי לבדוק את המייל.",
-            "button_text": "פתיחת Mealie"
+            "button_text": "פתיחת TrailFood Library"
         }
     }
 }

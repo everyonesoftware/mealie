@@ -17,7 +17,8 @@ export type SupportedMigrations =
   | "recipekeeper"
   | "cookn";
 
-export interface AIProviderCreate {
+export interface AIProviderCreate
+{
   name: string;
   baseUrl?: string | null;
   model: string;
@@ -29,7 +30,8 @@ export interface AIProviderCreate {
     [k: string]: string;
   };
 }
-export interface AIProviderOut {
+export interface AIProviderOut
+{
   name: string;
   baseUrl?: string | null;
   model: string;
@@ -42,7 +44,8 @@ export interface AIProviderOut {
   };
   id: string;
 }
-export interface AIProviderSave {
+export interface AIProviderSave
+{
   name: string;
   baseUrl?: string | null;
   model: string;
@@ -55,10 +58,12 @@ export interface AIProviderSave {
   };
   settingsId: string;
 }
-export interface AIProviderSettingsCreate {
+export interface AIProviderSettingsCreate
+{
   groupId: string;
 }
-export interface AIProviderSettingsOut {
+export interface AIProviderSettingsOut
+{
   defaultProviderId: string | null;
   audioProviderId: string | null;
   imageProviderId: string | null;
@@ -67,16 +72,19 @@ export interface AIProviderSettingsOut {
   audioProviderEnabled: boolean;
   imageProviderEnabled: boolean;
 }
-export interface AIProviderSummary {
+export interface AIProviderSummary
+{
   id: string;
   name: string;
 }
-export interface AIProviderSettingsUpdate {
+export interface AIProviderSettingsUpdate
+{
   defaultProviderId: string | null;
   audioProviderId: string | null;
   imageProviderId: string | null;
 }
-export interface AIProviderUpdate {
+export interface AIProviderUpdate
+{
   name: string;
   baseUrl?: string | null;
   model: string;
@@ -88,25 +96,30 @@ export interface AIProviderUpdate {
     [k: string]: string;
   };
 }
-export interface CreateGroupPreferences {
+export interface CreateGroupPreferences
+{
   privateGroup?: boolean;
   showAnnouncements?: boolean;
   groupId: string;
 }
-export interface DataMigrationCreate {
+export interface DataMigrationCreate
+{
   sourceType: SupportedMigrations;
 }
-export interface GroupAdminUpdate {
+export interface GroupAdminUpdate
+{
   id: string;
   name: string;
   preferences?: UpdateGroupPreferences | null;
   aiProviderSettings?: AIProviderSettingsUpdate | null;
 }
-export interface UpdateGroupPreferences {
+export interface UpdateGroupPreferences
+{
   privateGroup?: boolean;
   showAnnouncements?: boolean;
 }
-export interface GroupDataExport {
+export interface GroupDataExport
+{
   id: string;
   groupId: string;
   name: string;
@@ -115,18 +128,21 @@ export interface GroupDataExport {
   size: string;
   expires: string;
 }
-export interface GroupStorage {
+export interface GroupStorage
+{
   usedStorageBytes: number;
   usedStorageStr: string;
   totalStorageBytes: number;
   totalStorageStr: string;
 }
-export interface ReadGroupPreferences {
+export interface ReadGroupPreferences
+{
   privateGroup?: boolean;
   showAnnouncements?: boolean;
   groupId: string;
   id: string;
 }
-export interface SeederConfig {
+export interface SeederConfig
+{
   locale: string;
 }

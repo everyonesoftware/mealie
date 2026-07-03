@@ -1,7 +1,7 @@
 {
   "about": {
     "about": "Über",
-    "about-mealie": "Über Mealie",
+    "about-mealie": "Über TrailFood Library",
     "api-docs": "API Dokumentation",
     "api-port": "API-Port",
     "application-mode": "Anwendungsmodus",
@@ -57,7 +57,7 @@
     "event-delete-confirmation": "Bist du dir sicher, dass du dieses Ereignis löschen möchtest?",
     "event-deleted": "Ereignis gelöscht",
     "event-updated": "Ereignis aktualisiert",
-    "new-notification-form-description": "Mealie verwendet die Apprise-Bibliothek, um Benachrichtigungen zu erzeugen. Sie bietet viele Dienste, die für Benachrichtigungen genutzt werden können. Wirf einen Blick in deren Wiki für eine ausführliche Anleitung zum Erstellen einer URL für deinen Dienst. Einige Benachrichtigungstypen können zusätzliche Funktionen enthalten.",
+    "new-notification-form-description": "TrailFood Library verwendet die Apprise-Bibliothek, um Benachrichtigungen zu erzeugen. Sie bietet viele Dienste, die für Benachrichtigungen genutzt werden können. Wirf einen Blick in deren Wiki für eine ausführliche Anleitung zum Erstellen einer URL für deinen Dienst. Einige Benachrichtigungstypen können zusätzliche Funktionen enthalten.",
     "new-version": "Neue Version verfügbar!",
     "notification": "Benachrichtigung",
     "refresh": "Aktualisieren",
@@ -421,7 +421,7 @@
     "recipe-migration": "Rezepte übertragen",
     "chowdown": {
       "description": "Übertrage Daten aus Chowdown",
-      "description-long": "Mealie unterstützt nativ das Chowdown Repository-Format. Lade das Code Repository als .zip Datei herunter und lade es unten hoch.",
+      "description-long": "TrailFood Library unterstützt nativ das Chowdown Repository-Format. Lade das Code Repository als .zip Datei herunter und lade es unten hoch.",
       "title": "Chowdown"
     },
     "nextcloud": {
@@ -430,52 +430,52 @@
       "title": "Nextcloud Cookbook"
     },
     "copymethat": {
-      "description-long": "Mealie kann Rezepte aus Copy Me That importieren. Exportiere deine Rezepte im HTML-Format und lade dann unten die .zip Datei hoch.",
+      "description-long": "TrailFood Library kann Rezepte aus Copy Me That importieren. Exportiere deine Rezepte im HTML-Format und lade dann unten die .zip Datei hoch.",
       "title": "Kopiere mir diesen Rezept-Manager"
     },
     "paprika": {
-      "description-long": "Mealie kann Rezepte aus der Paprika-App importieren. Exportiere deine Rezepte in Paprika, ändere die Endung der Export-Datei in .zip und lade sie unten hoch.",
+      "description-long": "TrailFood Library kann Rezepte aus der Paprika-App importieren. Exportiere deine Rezepte in Paprika, ändere die Endung der Export-Datei in .zip und lade sie unten hoch.",
       "title": "Paprika Rezept-Manager"
     },
     "mealie-pre-v1": {
-      "description-long": "Mealie kann Rezepte aus der Mealie-App in einer Version vor v1.0 importieren. Exportiere deine Rezepte aus deiner alten Instanz und lade die Zip-Datei unten hoch. Bitte beachte, dass nur Rezepte aus dem Export importiert werden können.",
-      "title": "Mealie Pre v1.0"
+      "description-long": "TrailFood Library kann Rezepte aus der TrailFood Library-App in einer Version vor v1.0 importieren. Exportiere deine Rezepte aus deiner alten Instanz und lade die Zip-Datei unten hoch. Bitte beachte, dass nur Rezepte aus dem Export importiert werden können.",
+      "title": "TrailFood Library Pre v1.0"
     },
     "tandoor": {
-      "description-long": "Mealie kann Rezepte von Tandoor importieren. Exportiere deine Daten im 'Default' Format und lade dann unten die .zip Datei hoch.",
+      "description-long": "TrailFood Library kann Rezepte von Tandoor importieren. Exportiere deine Daten im 'Default' Format und lade dann unten die .zip Datei hoch.",
       "title": "Tandoor Rezepte"
     },
     "cookn": {
-      "description-long": "Mealie kann Rezepte von DVO Cook'n X3 importieren. Exportiere ein Kochbuch oder ein Menü im \"Cook'n\"-Format, benenne die Export-Erweiterung in .zip um, dann lade die .zip unten hoch.",
+      "description-long": "TrailFood Library kann Rezepte von DVO Cook'n X3 importieren. Exportiere ein Kochbuch oder ein Menü im \"Cook'n\"-Format, benenne die Export-Erweiterung in .zip um, dann lade die .zip unten hoch.",
       "title": "DVO Cook'n X3"
     },
     "recipe-data-migrations": "Rezeptdatenmigration",
-    "recipe-data-migrations-explanation": "Rezepte können aus unterstützten Programmen nach Mealie migriert werden. Das ist eine gute Möglichkeit, um mit Mealie loszulegen.",
-    "coming-from-another-application-or-an-even-older-version-of-mealie": "Wechselst du von einer anderen Anwendung oder einer noch älteren Version von Mealie? Prüfe die Migrations-Optionen, vielleicht können deine Daten importiert werden.",
+    "recipe-data-migrations-explanation": "Rezepte können aus unterstützten Programmen nach TrailFood Library migriert werden. Das ist eine gute Möglichkeit, um mit TrailFood Library loszulegen.",
+    "coming-from-another-application-or-an-even-older-version-of-mealie": "Wechselst du von einer anderen Anwendung oder einer noch älteren Version von TrailFood Library? Prüfe die Migrations-Optionen, vielleicht können deine Daten importiert werden.",
     "choose-migration-type": "Migrationsart wählen",
     "tag-all-recipes": "Alle Rezepte mit Schlagwort {tag-name} versehen",
     "nextcloud-text": "Nextcloud Rezepte können aus einer Zip-Datei importiert werden, die die in Nextcloud gespeicherten Daten enthält. Vergleiche die Beispiel-Ordnerstruktur unten um sicherzustellen, dass deine Rezepte importiert werden können.",
-    "chowdown-text": "Mealie unterstützt nativ das Chowdown Repository-Format. Lade das Code Repository als .zip Datei herunter und lade es unten hoch.",
+    "chowdown-text": "TrailFood Library unterstützt nativ das Chowdown Repository-Format. Lade das Code Repository als .zip Datei herunter und lade es unten hoch.",
     "recipe-1": "Rezept 1",
     "recipe-2": "Rezept 2",
-    "paprika-text": "Mealie kann Rezepte aus der Paprika-App importieren. Exportiere deine Rezepte in Paprika, ändere die Endung der Export-Datei in .zip und lade sie unten hoch.",
-    "mealie-text": "Mealie kann Rezepte aus der Mealie-App in einer Version vor v1.0 importieren. Exportiere deine Rezepte aus deiner alten Instanz und lade die Zip-Datei unten hoch. Bitte beachte, dass nur Rezepte aus dem Export importiert werden können.",
+    "paprika-text": "TrailFood Library kann Rezepte aus der Paprika-App importieren. Exportiere deine Rezepte in Paprika, ändere die Endung der Export-Datei in .zip und lade sie unten hoch.",
+    "mealie-text": "TrailFood Library kann Rezepte aus der TrailFood Library-App in einer Version vor v1.0 importieren. Exportiere deine Rezepte aus deiner alten Instanz und lade die Zip-Datei unten hoch. Bitte beachte, dass nur Rezepte aus dem Export importiert werden können.",
     "plantoeat": {
       "title": "Plan to Eat",
-      "description-long": "Mealie kann Rezepte von Plan to Eat importieren."
+      "description-long": "TrailFood Library kann Rezepte von Plan to Eat importieren."
     },
     "myrecipebox": {
       "title": "My Recipe Box",
-      "description-long": "Mealie kann Rezepte von My Recipe Box importieren. Exportiere deine Rezepte im CSV-Format und lade dann unten die .csv Datei hoch."
+      "description-long": "TrailFood Library kann Rezepte von My Recipe Box importieren. Exportiere deine Rezepte im CSV-Format und lade dann unten die .csv Datei hoch."
     },
     "recipekeeper": {
       "title": "Recipe Keeper",
-      "description-long": "Mealie kann Rezepte von Recipe Keeper importieren. Exportiere deine Rezepte im ZIP-Format und lade dann unten die .zip Datei hoch."
+      "description-long": "TrailFood Library kann Rezepte von Recipe Keeper importieren. Exportiere deine Rezepte im ZIP-Format und lade dann unten die .zip Datei hoch."
     }
   },
   "new-recipe": {
     "bulk-add": "Mehrere hinzufügen",
-    "error-details": "Mealie kann Rezepte nur von Webseiten importieren, die Id+json oder Mikrodaten enthalten. Die meisten großen Rezeptwebseiten unterstützen diese Datenstruktur. Wenn das Rezept nicht importiert werden kann, aber JSON-Daten im Log vorhanden sind, melde es bitte mit der URL und diesen Daten auf GitHub.",
+    "error-details": "TrailFood Library kann Rezepte nur von Webseiten importieren, die Id+json oder Mikrodaten enthalten. Die meisten großen Rezeptwebseiten unterstützen diese Datenstruktur. Wenn das Rezept nicht importiert werden kann, aber JSON-Daten im Log vorhanden sind, melde es bitte mit der URL und diesen Daten auf GitHub.",
     "error-title": "Anscheinend konnten wir nichts finden",
     "from-url": "Von URL",
     "github-issues": "GitHub Fehlermeldungen",
@@ -486,7 +486,7 @@
     "recipe-url": "Rezept URL",
     "recipe-html-or-json": "Rezept HTML oder JSON",
     "upload-a-recipe": "Rezept hochladen",
-    "upload-individual-zip-file": "Lade eine individuelle .zip-Datei hoch, die von einer anderen Mealie-Instanz exportiert wird.",
+    "upload-individual-zip-file": "Lade eine individuelle .zip-Datei hoch, die von einer anderen TrailFood Library-Instanz exportiert wird.",
     "url-form-hint": "Kopiere einen Link von deiner Lieblingsrezept-Website und füge ihn ein",
     "copy-and-paste-the-source-url-of-your-data-optional": "Kopiere und füge die Quell-URL deiner Daten ein (optional)",
     "view-scraped-data": "Gesammelte Daten anzeigen",
@@ -645,7 +645,7 @@
     "failed-to-add-to-timeline": "Fehler beim Hinzufügen zur Zeitleiste",
     "failed-to-update-recipe": "Fehler beim Aktualisieren des Rezepts",
     "added-to-timeline-but-failed-to-add-image": "Zum Verlauf hinzugefügt, Bild hinzufügen fehlgeschlagen",
-    "api-extras-description": "Rezepte-Extras sind ein Hauptmerkmal der Mealie API. Sie ermöglichen es dir, benutzerdefinierte JSON Key-Value-Paare zu einem Rezept zu erstellen, um Drittanbieter-Anwendungen zu steuern. Du kannst diese dazu verwenden, um Automatisierungen auszulösen oder benutzerdefinierte Nachrichten an bestimmte Geräte zu senden.",
+    "api-extras-description": "Rezepte-Extras sind ein Hauptmerkmal der TrailFood Library API. Sie ermöglichen es dir, benutzerdefinierte JSON Key-Value-Paare zu einem Rezept zu erstellen, um Drittanbieter-Anwendungen zu steuern. Du kannst diese dazu verwenden, um Automatisierungen auszulösen oder benutzerdefinierte Nachrichten an bestimmte Geräte zu senden.",
     "message-key": "Nachrichten-Schlüssel",
     "parse": "Parsen",
     "ingredients-not-parsed-description": "Es scheint als ob deine Zutaten noch nicht eingelesen wurden. Klick unten auf \"{parse}\" um deine Zutaten einzulesen.",
@@ -664,7 +664,7 @@
     "create-recipes": "Rezepte erstellen",
     "import-with-zip": "Von .zip importieren",
     "create-recipe-from-images": "Rezept von einem Bild erstellen",
-    "create-recipe-from-an-image-description": "Erstelle ein Rezept, indem du ein Bild hochlädst. Mealie wird versuchen, den Text aus dem Bild mit Hilfe von KI zu extrahieren und ein Rezept daraus zu erstellen.",
+    "create-recipe-from-an-image-description": "Erstelle ein Rezept, indem du ein Bild hochlädst. TrailFood Library wird versuchen, den Text aus dem Bild mit Hilfe von KI zu extrahieren und ein Rezept daraus zu erstellen.",
     "crop-and-rotate-the-image": "Beschneide und drehe das Bild so, dass nur der Text zu sehen ist und die Ausrichtung stimmt.",
     "create-from-images": "Aus Bildern erstellen",
     "should-translate-description": "Übersetze das Rezept in meine Sprache",
@@ -675,8 +675,8 @@
     "create-a-recipe-by-providing-the-name-all-recipes-must-have-unique-names": "Erstelle ein Rezept, indem du den Namen angibst. Alle Rezepte müssen eindeutige Namen haben.",
     "new-recipe-names-must-be-unique": "Neue Rezeptnamen müssen eindeutig sein",
     "scrape-recipe": "Rezept einlesen",
-    "scrape-recipe-description": "Importiere ein Rezept mit der URL. Gib die URL für die Seite an, die du importieren möchtest und Mealie wird versuchen, das Rezept von dieser Seite einzulesen und deiner Sammlung hinzuzufügen.",
-    "scrape-recipe-description-transcription": "Sie können die Url zu einem Video weitergeben und Mealie wird versuchen, dieses in ein Rezept zu übertragen.",
+    "scrape-recipe-description": "Importiere ein Rezept mit der URL. Gib die URL für die Seite an, die du importieren möchtest und TrailFood Library wird versuchen, das Rezept von dieser Seite einzulesen und deiner Sammlung hinzuzufügen.",
+    "scrape-recipe-description-transcription": "Sie können die Url zu einem Video weitergeben und TrailFood Library wird versuchen, dieses in ein Rezept zu übertragen.",
     "scrape-recipe-have-a-lot-of-recipes": "Hast Du viele Rezepte, die Du auf einmal einlesen willst?",
     "scrape-recipe-suggest-bulk-importer": "Probiere den Massenimporter aus",
     "scrape-recipe-have-raw-html-or-json-data": "Hast du Roh-HTML oder JSON Daten?",
@@ -688,23 +688,23 @@
     "stay-in-edit-mode": "Im Bearbeitungsmodus bleiben",
     "parse-recipe-ingredients-after-import": "Zutaten nach dem Import parsen",
     "import-from-zip": "Von Zip importieren",
-    "import-from-zip-description": "Importiere ein einzelnes Rezept, das von einer anderen Mealie-Instanz exportiert wurde.",
+    "import-from-zip-description": "Importiere ein einzelnes Rezept, das von einer anderen TrailFood Library-Instanz exportiert wurde.",
     "import-from-html-or-json": "Aus HTML oder JSON importieren",
-    "import-from-html-or-json-description": "Importiere eine einzelne Datei aus Roh-HTML oder JSON. Das ist nützlich, wenn du ein Rezept von einer Seite, die Mealie nicht scrapen kann, oder von einer externen Quelle hast.",
+    "import-from-html-or-json-description": "Importiere eine einzelne Datei aus Roh-HTML oder JSON. Das ist nützlich, wenn du ein Rezept von einer Seite, die TrailFood Library nicht scrapen kann, oder von einer externen Quelle hast.",
     "json-import-format-description-colon": "Um mit JSON zu importieren, muss die Datei in einem gültigen Format vorliegen:",
     "json-editor": "JSON-Editor",
-    "zip-files-must-have-been-exported-from-mealie": ".zip Dateien müssen aus Mealie exportiert worden sein",
+    "zip-files-must-have-been-exported-from-mealie": ".zip Dateien müssen aus TrailFood Library exportiert worden sein",
     "create-a-recipe-by-uploading-a-scan": "Erstelle ein Rezept durch Hochladen eines Scans.",
     "upload-a-png-image-from-a-recipe-book": "Lade ein PNG-Bild aus einem Kochbuch hoch",
     "recipe-bulk-importer": "Rezepte Massenimport",
-    "recipe-bulk-importer-description": "Mit dem Massenimport kannst du mehrere Rezepte auf einmal importieren, indem die Webseiten nacheinander im Hintergrund bearbeitet werden. Das kann sinnvoll sein, wenn du Mealie erstmalig einrichtest oder wenn du eine große Zahl von Rezepten importieren möchtest.",
+    "recipe-bulk-importer-description": "Mit dem Massenimport kannst du mehrere Rezepte auf einmal importieren, indem die Webseiten nacheinander im Hintergrund bearbeitet werden. Das kann sinnvoll sein, wenn du TrailFood Library erstmalig einrichtest oder wenn du eine große Zahl von Rezepten importieren möchtest.",
     "set-categories-and-tags": "Kategorien und Schlagwörter festlegen",
     "bulk-imports": "Massenimporte",
     "bulk-import-process-has-started": "Massenimport wurde gestartet",
     "bulk-import-process-has-failed": "Massenimport fehlgeschlagen",
     "report-deletion-failed": "Bericht löschen fehlgeschlagen",
     "recipe-debugger": "Rezept Debugger",
-    "recipe-debugger-description": "Füge die URL des Rezepts, das du debuggen möchtest, hier ein. Die URL wird vom Scraper eingelesen und die Ergebnisse werden angezeigt. Wenn du keine Ausgabedaten sehen solltest, wird das Einlesen dieser Webseite nicht von Mealie oder dessen Scraper-Bibliothek unterstützt.",
+    "recipe-debugger-description": "Füge die URL des Rezepts, das du debuggen möchtest, hier ein. Die URL wird vom Scraper eingelesen und die Ergebnisse werden angezeigt. Wenn du keine Ausgabedaten sehen solltest, wird das Einlesen dieser Webseite nicht von TrailFood Library oder dessen Scraper-Bibliothek unterstützt.",
     "use-openai": "Verwende OpenAI",
     "recipe-debugger-use-openai-description": "Verwende OpenAI anstelle der Scraper-Bibliothek, um die Einträge zu parsen. Wenn du ein Rezept über dessen URL erstellst und der Versuch über die Scraper-Bibliothek fehlschlägt, passiert das automatisch. Aber du kannst es hier auch manuell testen.",
     "debug": "Debug",
@@ -780,7 +780,7 @@
     "clear-selection": "Auswahl aufheben",
     "results": "Ergebnisse",
     "search": "Suchen",
-    "search-mealie": "Mealie durchsuchen (/ drücken)",
+    "search-mealie": "TrailFood Library durchsuchen (/ drücken)",
     "search-placeholder": "Suchen...",
     "tag-filter": "Schlagwortfilter",
     "search-hint": "'/' drücken",
@@ -806,7 +806,7 @@
       "import-summary": "Zusammenfassung des Imports",
       "partial-backup": "Teilsicherung",
       "unable-to-delete-backup": "Sicherung kann nicht gelöscht werden.",
-      "experimental-description": "Backups sind vollständige Schnappschüsse der Datenbank und des Datenverzeichnisses der Website. Darin sind sämtliche Daten enthalten, es können keine Teile von Daten ausgeschlossen werden. Es ist wie ein Schnappschuss von Mealie zu einem bestimmten Zeitpunkt. Es handelt sich um eine von der Datenbank unabhängige Möglichkeit, Daten zu exportieren und zu importieren oder die Webseite an einem externen Ort zu sichern.",
+      "experimental-description": "Backups sind vollständige Schnappschüsse der Datenbank und des Datenverzeichnisses der Website. Darin sind sämtliche Daten enthalten, es können keine Teile von Daten ausgeschlossen werden. Es ist wie ein Schnappschuss von TrailFood Library zu einem bestimmten Zeitpunkt. Es handelt sich um eine von der Datenbank unabhängige Möglichkeit, Daten zu exportieren und zu importieren oder die Webseite an einem externen Ort zu sichern.",
       "backup-restore": "Wiederherstellen aus Sicherung",
       "back-restore-description": "Das Wiederherstellen dieser Sicherung wird alle vorhandenen Daten in deiner Datenbank und im Datenverzeichnis überschreiben und durch den Inhalt dieser Sicherung ersetzen. {cannot-be-undone} Wenn die Wiederherstellung erfolgreich war, wirst du abgemeldet.",
       "cannot-be-undone": "Diese Aktion kann nicht rückgängig gemacht werden - verwende sie mit Vorsicht.",
@@ -905,7 +905,7 @@
     "tracker": "Fehler melden",
     "configuration": "Konfiguration",
     "docker-volume": "Docker-Volume",
-    "docker-volume-help": "Mealie setzt voraus, dass sich der Frontend-Container und das Backend das gleiche Docker-Volume oder den gleichen Speicher teilen. Dadurch wird sichergestellt, dass der Frontend-Container auf die Bilder und Assets auf der Festplatte zugreifen kann.",
+    "docker-volume-help": "TrailFood Library setzt voraus, dass sich der Frontend-Container und das Backend das gleiche Docker-Volume oder den gleichen Speicher teilen. Dadurch wird sichergestellt, dass der Frontend-Container auf die Bilder und Assets auf der Festplatte zugreifen kann.",
     "volumes-are-misconfigured": "Volumes sind falsch konfiguriert.",
     "volumes-are-configured-correctly": "Volumes sind korrekt konfiguriert.",
     "status-unknown-try-running-a-validation": "Status unbekannt. Führe eine Überprüfung aus.",
@@ -920,7 +920,7 @@
     "general-about": "Allgemeine Informationen",
     "application-version": "Programmversion",
     "application-version-error-text": "Deine derzeitige Version ({0}) stimmt nicht mit der neuesten Version überein. Prüfe, ob du auf die neueste Version ({1}) aktualisieren solltest.",
-    "mealie-is-up-to-date": "Mealie ist auf dem neuesten Stand",
+    "mealie-is-up-to-date": "TrailFood Library ist auf dem neuesten Stand",
     "secure-site": "Sichere Website",
     "secure-site-error-text": "Liefere die Webseite über localhost oder https aus. Die Zwischenablage und zusätzliche Browser APIs könnten nicht funktionieren.",
     "secure-site-success-text": "Der Zugriff auf die Webseite erfolgt über localhost oder https",
@@ -1010,7 +1010,7 @@
     "sign-up-links": "Registrierungslinks",
     "sign-up-token-deleted": "Registrierungs-Token entfernt",
     "sign-up-token-deletion-failed": "Entfernen des Registrierungs-Tokens fehlgeschlagen",
-    "welcome-to-mealie": "Willkommen bei Mealie! Um ein Benutzer dieser Instanz zu werden, musst du einen gültigen Einladungslink haben. Wenn du keine Einladung erhalten hast, kannst du dich nicht registrieren. Wende dich an den Administrator, um einen Link zu erhalten."
+    "welcome-to-mealie": "Willkommen bei TrailFood Library! Um ein Benutzer dieser Instanz zu werden, musst du einen gültigen Einladungslink haben. Wenn du keine Einladung erhalten hast, kannst du dich nicht registrieren. Wende dich an den Administrator, um einen Link zu erhalten."
   },
   "tag": {
     "tag-created": "Schlagwort angelegt",
@@ -1119,7 +1119,7 @@
     "user-details": "Benutzerdetails",
     "user-name": "Benutzername",
     "authentication-method": "Authentifizierungsmethode",
-    "authentication-method-hint": "Dies legt fest, wie sich ein Benutzer bei Mealie authentifiziert. Wenn du dir nicht sicher bist, wähle 'Mealie' aus",
+    "authentication-method-hint": "Dies legt fest, wie sich ein Benutzer bei TrailFood Library authentifiziert. Wenn du dir nicht sicher bist, wähle 'TrailFood Library' aus",
     "permissions": "Berechtigungen",
     "administrator": "Administrator",
     "user-can-invite-other-to-group": "Benutzer kann andere in Gruppe einladen",
@@ -1138,7 +1138,7 @@
   "language-dialog": {
     "translated": "übersetzt",
     "choose-language": "Sprache wählen",
-    "select-description": "Wähle die Sprache für die Mealie-Benutzeroberfläche. Die Einstellung gilt nur für dich, nicht für andere Benutzer.",
+    "select-description": "Wähle die Sprache für die TrailFood Library-Benutzeroberfläche. Die Einstellung gilt nur für dich, nicht für andere Benutzer.",
     "how-to-contribute-description": "Ist etwas noch nicht übersetzt, falsch oder deine Sprache fehlt in der Liste? {read-the-docs-link} wie man beiträgt!",
     "read-the-docs": "Dokumentation lesen"
   },
@@ -1272,7 +1272,7 @@
     "group-details": "Gruppendetails",
     "group-details-description": "Bevor du ein Konto erstellst, musst du eine Gruppe erstellen. Deine Gruppe wird nur dich enthalten, aber du kannst andere später einladen. Mitglieder in deiner Gruppe können Essenspläne, Einkaufslisten, Rezepte und vieles mehr teilen!",
     "use-seed-data": "Musterdaten",
-    "use-seed-data-description": "Mealie enthält eine Sammlung von Lebensmitteln, Einheiten und Labels, die verwendet werden können, um deine Gruppe mit hilfreichen Daten für die Organisation deiner Rezepte zu füllen. Diese werden in die Sprache übersetzt, die Sie gerade ausgewählt haben. Sie können diese Daten jederzeit später hinzufügen oder ändern.",
+    "use-seed-data-description": "TrailFood Library enthält eine Sammlung von Lebensmitteln, Einheiten und Labels, die verwendet werden können, um deine Gruppe mit hilfreichen Daten für die Organisation deiner Rezepte zu füllen. Diese werden in die Sprache übersetzt, die Sie gerade ausgewählt haben. Sie können diese Daten jederzeit später hinzufügen oder ändern.",
     "account-details": "Kontoinformationen"
   },
   "validation": {
@@ -1372,14 +1372,14 @@
       "actions-description-destructive": "destruktiv",
       "actions-description-irreversible": "irreversibel",
       "logs-action-refresh": "Logs aktualisieren",
-      "logs-page-title": "Mealie-Logs",
+      "logs-page-title": "TrailFood Library-Logs",
       "logs-tail-lines-label": "Zeilen begrenzen"
     },
     "mainentance": {
       "actions-title": "Aktionen"
     },
     "ingredients-natural-language-processor": "Zutaten Natural Language Processor",
-    "ingredients-natural-language-processor-explanation": "Mealie verwendet Conditional Random Fields (CRFs), um Zutaten zu analysieren und zu verarbeiten. Das für Zutaten verwendete Modell basiert auf über 100.000 Zutaten aus einem von der New York Times zusammengestellten Datensatz. Beachte, dass das Modell nur in Englisch trainiert wurde, deshalb können die Ergebnisse bei der Verwendung anderer Sprachen abweichen. Diese Seite ist eine Spielwiese zum Testen des Modells.",
+    "ingredients-natural-language-processor-explanation": "TrailFood Library verwendet Conditional Random Fields (CRFs), um Zutaten zu analysieren und zu verarbeiten. Das für Zutaten verwendete Modell basiert auf über 100.000 Zutaten aus einem von der New York Times zusammengestellten Datensatz. Beachte, dass das Modell nur in Englisch trainiert wurde, deshalb können die Ergebnisse bei der Verwendung anderer Sprachen abweichen. Diese Seite ist eine Spielwiese zum Testen des Modells.",
     "ingredients-natural-language-processor-explanation-2": "Es ist nicht perfekt, aber es erzeugt meist sehr gute Ergebnisse und ist ein guter Anfang, um Zutaten manuell den einzelnen Feldern zuzuordnen. Alternativ kannst du auch den \"Brute\" Prozessor benutzen, der eine Musterabgleich-Technik verwendet, um Zutaten zu identifizieren.",
     "nlp": "NLP",
     "brute": "Brute",
@@ -1395,13 +1395,13 @@
     "tasks": "Aufgaben",
     "setup": {
       "first-time-setup": "Erstmalige Einrichtung",
-      "welcome-to-mealie-get-started": "Willkommen bei Mealie! Lass uns loslegen",
+      "welcome-to-mealie-get-started": "Willkommen bei TrailFood Library! Lass uns loslegen",
       "already-set-up-bring-to-homepage": "Ich habe schon alles eingerichtet, bring mich zur Startseite",
       "common-settings-for-new-sites": "Hier sind einige allgemeine Einstellungen für neue Seiten",
       "setup-complete": "Einrichtung abgeschlossen!",
       "ai-providers-description": "Optionale Konfiguration von KI-Anbietern für Ihre Gruppe. KI-Anbieter ermöglichen Funktionen wie das Erstellen von Rezepten aus Bildern, das Importieren von Rezepten aus Videos und das verbesserte Parsen von Zutaten. Du kannst dies später immer in Ihren Gruppeneinstellungen konfigurieren.",
-      "here-are-a-few-things-to-help-you-get-started": "Hier sind einige Funktionen, die dich beim Start mit Mealie unterstützen",
-      "restore-from-v1-backup": "Hast du ein Backup von einer früheren v1 Instanz von Mealie? Hier kannst du es wiederherstellen.",
+      "here-are-a-few-things-to-help-you-get-started": "Hier sind einige Funktionen, die dich beim Start mit TrailFood Library unterstützen",
+      "restore-from-v1-backup": "Hast du ein Backup von einer früheren v1 Instanz von TrailFood Library? Hier kannst du es wiederherstellen.",
       "manage-profile-or-get-invite-link": "Verwalte dein eigenes Profil oder erstelle einen Einladungslink, den du an andere weitergeben kannst."
     },
     "debug-openai-services": "OpenAI Services debuggen",
@@ -1420,9 +1420,9 @@
     "account-summary": "Kontoübersicht",
     "account-summary-description": "Hier ist eine Zusammenfassung der Details deiner Gruppe.",
     "group-statistics": "Gruppenstatistik",
-    "group-statistics-description": "Deine Gruppenstatistik gibt dir einen Einblick, wie du Mealie verwendest.",
+    "group-statistics-description": "Deine Gruppenstatistik gibt dir einen Einblick, wie du TrailFood Library verwendest.",
     "household-statistics": "Haushaltsstatistik",
-    "household-statistics-description": "Deine Haushaltsstatistik gibt dir einen Einblick, wie du Mealie verwendest.",
+    "household-statistics-description": "Deine Haushaltsstatistik gibt dir einen Einblick, wie du TrailFood Library verwendest.",
     "storage-capacity": "Speicherplatz",
     "storage-capacity-description": "Dein Speicherplatz wird anhand der Bilder und Anhänge berechnet, die du hochgeladen hast.",
     "personal": "Persönlich",
@@ -1443,7 +1443,7 @@
     "notifiers": "Benachrichtigungen",
     "notifiers-description": "Richte E-Mail und Push-Benachrichtigungen ein, die bei bestimmten Ereignissen ausgelöst werden.",
     "manage-data": "Daten verwalten",
-    "manage-data-description": "Verwalte deine Mealie-Daten: Lebensmittel, Einheiten, Kategorien, Schlagworte und mehr.",
+    "manage-data-description": "Verwalte deine TrailFood Library-Daten: Lebensmittel, Einheiten, Kategorien, Schlagworte und mehr.",
     "data-migrations": "Datenmigration",
     "data-migrations-description": "Migriere deine vorhandenen Daten aus anderen Anwendungen wie Nextcloud-Rezepte und Chowdown.",
     "email-sent": "E-Mail gesendet",
@@ -1467,7 +1467,7 @@
     "hide-cookbooks-from-other-households": "Kochbücher von anderen Haushalten ausblenden",
     "hide-cookbooks-from-other-households-description": "Wenn aktiviert, werden nur Kochbücher deines Haushalts in der Seitenleiste angezeigt",
     "public-cookbook": "Öffentliches Kochbuch",
-    "public-cookbook-description": "Öffentliche Kochbücher können mit Nicht-Mealie-Benutzern geteilt werden und werden auf deiner Gruppenseite angezeigt.",
+    "public-cookbook-description": "Öffentliche Kochbücher können mit Nicht-TrailFood Library-Benutzern geteilt werden und werden auf deiner Gruppenseite angezeigt.",
     "filter-options": "Filteroptionen",
     "filter-options-description": "Wenn \"Alle...\" ausgewählt wurde, enthält das Kochbuch nur Rezepte, die sämtlichen ausgewählten Kriterien entsprechen.",
     "require-all-categories": "Alle Kategorien erforderlich",
@@ -1519,7 +1519,7 @@
     "announcements": "Ankündigungen",
     "all-announcements": "Alle Ankündigungen",
     "mark-all-as-read": "Alle als gelesen markieren",
-    "show-announcements-from-mealie": "Ankündigung von Mealie anzeigen",
-    "show-announcements-setting-description": "Lege fest, ob Benutzer Ankündigungen von Mealie sehen dürfen. Wenn aktiviert, können Benutzer die Anzeige in ihren Benutzereinstellungen immer noch deaktivieren"
+    "show-announcements-from-mealie": "Ankündigung von TrailFood Library anzeigen",
+    "show-announcements-setting-description": "Lege fest, ob Benutzer Ankündigungen von TrailFood Library sehen dürfen. Wenn aktiviert, können Benutzer die Anzeige in ihren Benutzereinstellungen immer noch deaktivieren"
   }
 }

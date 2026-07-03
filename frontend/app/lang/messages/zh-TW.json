@@ -1,7 +1,7 @@
 {
   "about": {
     "about": "關於",
-    "about-mealie": "關於 Mealie",
+    "about-mealie": "關於 TrailFood Library",
     "api-docs": "API 文件",
     "api-port": "API 埠號",
     "application-mode": "軟體模式",
@@ -57,7 +57,7 @@
     "event-delete-confirmation": "確定要刪除此活動嗎？",
     "event-deleted": "活動已刪除",
     "event-updated": "活動已更新",
-    "new-notification-form-description": "Mealie 使用 Apprise 來產生通知。Apprise 提供多種服務的通知選項，請參考其 Wiki 以了解如何為您的服務建立連結。選擇特定通知類型時，可能會包含額外功能。",
+    "new-notification-form-description": "TrailFood Library 使用 Apprise 來產生通知。Apprise 提供多種服務的通知選項，請參考其 Wiki 以了解如何為您的服務建立連結。選擇特定通知類型時，可能會包含額外功能。",
     "new-version": "有新版本可用！",
     "notification": "通知",
     "refresh": "重新整理",
@@ -421,7 +421,7 @@
     "recipe-migration": "食譜遷移",
     "chowdown": {
       "description": "從 Chowdown 遷移資料",
-      "description-long": "Mealie 原生支援 Chowdown 儲存庫格式。請將程式碼儲存庫下載為 .zip 檔案後上傳至下方。",
+      "description-long": "TrailFood Library 原生支援 Chowdown 儲存庫格式。請將程式碼儲存庫下載為 .zip 檔案後上傳至下方。",
       "title": "Chowdown"
     },
     "nextcloud": {
@@ -430,52 +430,52 @@
       "title": "Nextcloud Cookbook"
     },
     "copymethat": {
-      "description-long": "Mealie 可從 Copy Me That 匯入食譜。請將您的食譜匯出為 HTML 格式，再將 .zip 檔案上傳至下方。",
+      "description-long": "TrailFood Library 可從 Copy Me That 匯入食譜。請將您的食譜匯出為 HTML 格式，再將 .zip 檔案上傳至下方。",
       "title": "Copy Me That Recipe Manager"
     },
     "paprika": {
-      "description-long": "Mealie 可從 Paprika 應用程式匯入食譜。請從 Paprika 匯出食譜，將匯出檔案的副檔名改為 .zip 後上傳至下方。",
+      "description-long": "TrailFood Library 可從 Paprika 應用程式匯入食譜。請從 Paprika 匯出食譜，將匯出檔案的副檔名改為 .zip 後上傳至下方。",
       "title": "Paprika Recipe Manager"
     },
     "mealie-pre-v1": {
-      "description-long": "Mealie 可從 v1.0 以前版本的 Mealie 匯入食譜。請從舊版匯出食譜，並將 zip 檔案上傳至下方。請注意，匯出檔案中僅能匯入食譜資料。",
-      "title": "Mealie Pre v1.0"
+      "description-long": "TrailFood Library 可從 v1.0 以前版本的 TrailFood Library 匯入食譜。請從舊版匯出食譜，並將 zip 檔案上傳至下方。請注意，匯出檔案中僅能匯入食譜資料。",
+      "title": "TrailFood Library Pre v1.0"
     },
     "tandoor": {
-      "description-long": "Mealie 可從 Tandoor 匯入食譜。請以「Default」格式匯出資料，再將 .zip 檔案上傳至下方。",
+      "description-long": "TrailFood Library 可從 Tandoor 匯入食譜。請以「Default」格式匯出資料，再將 .zip 檔案上傳至下方。",
       "title": "Tandoor Recipes"
     },
     "cookn": {
-      "description-long": "Mealie 可從 DVO Cook'n X3 匯入食譜。請以「Cook'n」格式匯出食譜書或選單，將匯出檔案的副檔名改為 .zip 後上傳至下方。",
+      "description-long": "TrailFood Library 可從 DVO Cook'n X3 匯入食譜。請以「Cook'n」格式匯出食譜書或選單，將匯出檔案的副檔名改為 .zip 後上傳至下方。",
       "title": "DVO Cook'n X3"
     },
     "recipe-data-migrations": "食譜資料遷移",
-    "recipe-data-migrations-explanation": "食譜可從其他支援的應用程式遷移至 Mealie，是開始使用 Mealie 的好方法。",
-    "coming-from-another-application-or-an-even-older-version-of-mealie": "從其他應用程式或更舊版本的 Mealie 轉移過來？查看遷移功能，看看您的資料是否可以匯入。",
+    "recipe-data-migrations-explanation": "食譜可從其他支援的應用程式遷移至 TrailFood Library，是開始使用 TrailFood Library 的好方法。",
+    "coming-from-another-application-or-an-even-older-version-of-mealie": "從其他應用程式或更舊版本的 TrailFood Library 轉移過來？查看遷移功能，看看您的資料是否可以匯入。",
     "choose-migration-type": "選擇遷移類型",
     "tag-all-recipes": "為所有食譜加上 {tag-name} 標籤",
     "nextcloud-text": "Nextcloud 食譜可從包含 Nextcloud 資料的 zip 檔案匯入。請參閱下方範例資料夾結構，確保您的食譜能夠順利匯入。",
-    "chowdown-text": "Mealie 原生支援 Chowdown 儲存庫格式。請將程式碼儲存庫下載為 .zip 檔案後上傳至下方。",
+    "chowdown-text": "TrailFood Library 原生支援 Chowdown 儲存庫格式。請將程式碼儲存庫下載為 .zip 檔案後上傳至下方。",
     "recipe-1": "食譜 1",
     "recipe-2": "食譜 2",
-    "paprika-text": "Mealie 可從 Paprika 應用程式匯入食譜。請從 Paprika 匯出食譜，將匯出檔案的副檔名改為 .zip 後上傳至下方。",
-    "mealie-text": "Mealie 可從 v1.0 以前版本的 Mealie 匯入食譜。請從舊版匯出食譜，並將 zip 檔案上傳至下方。請注意，匯出檔案中僅能匯入食譜資料。",
+    "paprika-text": "TrailFood Library 可從 Paprika 應用程式匯入食譜。請從 Paprika 匯出食譜，將匯出檔案的副檔名改為 .zip 後上傳至下方。",
+    "mealie-text": "TrailFood Library 可從 v1.0 以前版本的 TrailFood Library 匯入食譜。請從舊版匯出食譜，並將 zip 檔案上傳至下方。請注意，匯出檔案中僅能匯入食譜資料。",
     "plantoeat": {
       "title": "Plan to Eat",
-      "description-long": "Mealie 可從 Plan to Eat 匯入食譜。"
+      "description-long": "TrailFood Library 可從 Plan to Eat 匯入食譜。"
     },
     "myrecipebox": {
       "title": "My Recipe Box",
-      "description-long": "Mealie 可從 My Recipe Box 匯入食譜。請將食譜匯出為 CSV 格式，再將 .csv 檔案上傳至下方。"
+      "description-long": "TrailFood Library 可從 My Recipe Box 匯入食譜。請將食譜匯出為 CSV 格式，再將 .csv 檔案上傳至下方。"
     },
     "recipekeeper": {
       "title": "Recipe Keeper",
-      "description-long": "Mealie 可從 Recipe Keeper 匯入食譜。請將食譜匯出為 zip 格式，再將 .zip 檔案上傳至下方。"
+      "description-long": "TrailFood Library 可從 Recipe Keeper 匯入食譜。請將食譜匯出為 zip 格式，再將 .zip 檔案上傳至下方。"
     }
   },
   "new-recipe": {
     "bulk-add": "批次新增",
-    "error-details": "只有包含 JSON-LD 或 Microdata 結構的網站才能被 Mealie 匯入。多數大型食譜網站均支援此資料結構。若您的網站無法匯入但日誌中含有 JSON 資料，請提交 GitHub Issue 並附上連結及資料。",
+    "error-details": "只有包含 JSON-LD 或 Microdata 結構的網站才能被 TrailFood Library 匯入。多數大型食譜網站均支援此資料結構。若您的網站無法匯入但日誌中含有 JSON 資料，請提交 GitHub Issue 並附上連結及資料。",
     "error-title": "找不到任何結果",
     "from-url": "匯入食譜",
     "github-issues": "GitHub Issues",
@@ -486,7 +486,7 @@
     "recipe-url": "食譜網址",
     "recipe-html-or-json": "食譜 HTML 或 JSON",
     "upload-a-recipe": "上傳食譜",
-    "upload-individual-zip-file": "上傳從另一個 Mealie 匯出的 zip 壓縮檔",
+    "upload-individual-zip-file": "上傳從另一個 TrailFood Library 匯出的 zip 壓縮檔",
     "url-form-hint": "複製您最喜歡的食譜網站的網址並在此貼上",
     "copy-and-paste-the-source-url-of-your-data-optional": "複製並貼上您的資料來源網址（選填）",
     "view-scraped-data": "查看網頁擷取資料",
@@ -645,7 +645,7 @@
     "failed-to-add-to-timeline": "無法加入時間軸",
     "failed-to-update-recipe": "無法更新食譜",
     "added-to-timeline-but-failed-to-add-image": "已加入時間軸，但無法新增圖片",
-    "api-extras-description": "食譜額外資料是 Mealie API 的重要功能，可讓您在食譜中建立自訂 JSON 鍵值對，供第三方應用程式參照使用。您可以利用這些鍵值提供資訊，例如觸發自動化流程或傳送自訂訊息至您指定的裝置。",
+    "api-extras-description": "食譜額外資料是 TrailFood Library API 的重要功能，可讓您在食譜中建立自訂 JSON 鍵值對，供第三方應用程式參照使用。您可以利用這些鍵值提供資訊，例如觸發自動化流程或傳送自訂訊息至您指定的裝置。",
     "message-key": "訊息鍵",
     "parse": "解析",
     "ingredients-not-parsed-description": "您的食材似乎尚未解析。請點擊下方的「{parse}」按鈕，將食材解析為結構化資料。",
@@ -664,7 +664,7 @@
     "create-recipes": "建立食譜",
     "import-with-zip": "以 .zip 匯入",
     "create-recipe-from-images": "從圖片建立食譜",
-    "create-recipe-from-an-image-description": "上傳食譜圖片來建立食譜，Mealie 將嘗試使用 AI 從圖片中擷取文字並建立食譜。",
+    "create-recipe-from-an-image-description": "上傳食譜圖片來建立食譜，TrailFood Library 將嘗試使用 AI 從圖片中擷取文字並建立食譜。",
     "crop-and-rotate-the-image": "請裁切並旋轉圖片，使其僅顯示文字且方向正確。",
     "create-from-images": "從圖片建立",
     "should-translate-description": "將食譜翻譯成我的語言",
@@ -675,8 +675,8 @@
     "create-a-recipe-by-providing-the-name-all-recipes-must-have-unique-names": "輸入名稱來建立食譜，所有食譜名稱必須是唯一的。",
     "new-recipe-names-must-be-unique": "新食譜名稱必須是唯一的",
     "scrape-recipe": "爬取食譜",
-    "scrape-recipe-description": "透過網址爬取食譜。提供您想爬取的網站網址，Mealie 將嘗試從該網站擷取食譜並加入您的收藏。",
-    "scrape-recipe-description-transcription": "你也可以提供視頻的網址，Mealie會嘗試轉錄為食譜。",
+    "scrape-recipe-description": "透過網址爬取食譜。提供您想爬取的網站網址，TrailFood Library 將嘗試從該網站擷取食譜並加入您的收藏。",
+    "scrape-recipe-description-transcription": "你也可以提供視頻的網址，TrailFood Library會嘗試轉錄為食譜。",
     "scrape-recipe-have-a-lot-of-recipes": "想一次爬取大量食譜？",
     "scrape-recipe-suggest-bulk-importer": "試試批次匯入工具",
     "scrape-recipe-have-raw-html-or-json-data": "有原始 HTML 或 JSON 資料？",
@@ -688,23 +688,23 @@
     "stay-in-edit-mode": "保持編輯模式",
     "parse-recipe-ingredients-after-import": "匯入後解析食譜食材",
     "import-from-zip": "從 Zip 匯入",
-    "import-from-zip-description": "匯入從其他 Mealie 執行個體匯出的單一食譜。",
+    "import-from-zip-description": "匯入從其他 TrailFood Library 執行個體匯出的單一食譜。",
     "import-from-html-or-json": "從 HTML 或 JSON 匯入",
-    "import-from-html-or-json-description": "匯入單一食譜的原始 HTML 或 JSON。當 Mealie 無法正常擷取某個網站的食譜，或來自其他外部來源時，此功能非常實用。",
+    "import-from-html-or-json-description": "匯入單一食譜的原始 HTML 或 JSON。當 TrailFood Library 無法正常擷取某個網站的食譜，或來自其他外部來源時，此功能非常實用。",
     "json-import-format-description-colon": "若要透過 JSON 匯入，格式必須有效：",
     "json-editor": "JSON 編輯器",
-    "zip-files-must-have-been-exported-from-mealie": ".zip 檔案必須是從 Mealie 匯出的",
+    "zip-files-must-have-been-exported-from-mealie": ".zip 檔案必須是從 TrailFood Library 匯出的",
     "create-a-recipe-by-uploading-a-scan": "上傳掃描檔來建立食譜。",
     "upload-a-png-image-from-a-recipe-book": "從食譜書上傳 PNG 圖片",
     "recipe-bulk-importer": "食譜批次匯入工具",
-    "recipe-bulk-importer-description": "批次食譜匯入工具可讓您一次匯入多個食譜，方法是將網站加入後端佇列並在背景執行任務。這在初次遷移至 Mealie 時，或需要匯入大量食譜時非常實用。",
+    "recipe-bulk-importer-description": "批次食譜匯入工具可讓您一次匯入多個食譜，方法是將網站加入後端佇列並在背景執行任務。這在初次遷移至 TrailFood Library 時，或需要匯入大量食譜時非常實用。",
     "set-categories-and-tags": "設定分類與標籤",
     "bulk-imports": "批次匯入",
     "bulk-import-process-has-started": "批次匯入程序已開始",
     "bulk-import-process-has-failed": "批次匯入程序失敗",
     "report-deletion-failed": "刪除報告失敗",
     "recipe-debugger": "食譜除錯工具",
-    "recipe-debugger-description": "貼上您想除錯的食譜網址。系統將使用食譜擷取器抓取該網址並顯示結果。若未顯示任何資料，表示該網站不受 Mealie 或其擷取器程式庫支援。",
+    "recipe-debugger-description": "貼上您想除錯的食譜網址。系統將使用食譜擷取器抓取該網址並顯示結果。若未顯示任何資料，表示該網站不受 TrailFood Library 或其擷取器程式庫支援。",
     "use-openai": "使用 OpenAI",
     "recipe-debugger-use-openai-description": "使用 OpenAI 解析結果，而非依賴擷取器程式庫。透過網址建立食譜時，若擷取器程式庫失敗，系統會自動使用此功能，您也可以在此手動測試。",
     "debug": "除錯",
@@ -780,7 +780,7 @@
     "clear-selection": "清除選取",
     "results": "結果",
     "search": "搜尋",
-    "search-mealie": "搜尋 Mealie（按 /）",
+    "search-mealie": "搜尋 TrailFood Library（按 /）",
     "search-placeholder": "搜尋...",
     "tag-filter": "標籤篩選",
     "search-hint": "按「/」",
@@ -806,7 +806,7 @@
       "import-summary": "匯入總結",
       "partial-backup": "部分備份",
       "unable-to-delete-backup": "無法刪除備份",
-      "experimental-description": "備份是網站資料庫與資料目錄的完整快照，包含所有資料且無法排除特定子集。您可以將其視為 Mealie 在特定時間點的快照。這是一種與資料庫無關的匯出、匯入或異地備份方式。",
+      "experimental-description": "備份是網站資料庫與資料目錄的完整快照，包含所有資料且無法排除特定子集。您可以將其視為 TrailFood Library 在特定時間點的快照。這是一種與資料庫無關的匯出、匯入或異地備份方式。",
       "backup-restore": "備份還原",
       "back-restore-description": "還原此備份將覆蓋資料庫與資料目錄中的所有現有資料，並以此備份內容取代。{cannot-be-undone} 若還原成功，您將會被登出。",
       "cannot-be-undone": "此操作無法復原，請謹慎使用。",
@@ -905,7 +905,7 @@
     "tracker": "問題追蹤器",
     "configuration": "設定",
     "docker-volume": "Docker 資料卷",
-    "docker-volume-help": "Mealie 要求前端容器與後端共用相同的 Docker Volume 或儲存空間，以確保前端容器能正確存取儲存在磁碟上的圖片與資源。",
+    "docker-volume-help": "TrailFood Library 要求前端容器與後端共用相同的 Docker Volume 或儲存空間，以確保前端容器能正確存取儲存在磁碟上的圖片與資源。",
     "volumes-are-misconfigured": "Volume 設定有誤。",
     "volumes-are-configured-correctly": "Volume 設定正確。",
     "status-unknown-try-running-a-validation": "狀態未知，請嘗試執行驗證。",
@@ -920,7 +920,7 @@
     "general-about": "一般資訊",
     "application-version": "應用程式版本",
     "application-version-error-text": "您目前的版本（{0}）與最新版本不符，建議更新至最新版本（{1}）。",
-    "mealie-is-up-to-date": "Mealie 已更新",
+    "mealie-is-up-to-date": "TrailFood Library 已更新",
     "secure-site": "安全網站",
     "secure-site-error-text": "請透過 localhost 或 HTTPS 提供服務，否則剪貼簿及部分瀏覽器 API 可能無法使用。",
     "secure-site-success-text": "網站已透過 localhost 或 HTTPS 存取",
@@ -1010,7 +1010,7 @@
     "sign-up-links": "註冊連結",
     "sign-up-token-deleted": "註冊金鑰已刪除",
     "sign-up-token-deletion-failed": "刪除註冊金鑰失敗",
-    "welcome-to-mealie": "歡迎來到 Mealie！您必須持有有效的邀請連結才能成為此應用程式的使用者。若尚未取得邀請，將無法完成註冊，請聯繫管理員以取得邀請連結。"
+    "welcome-to-mealie": "歡迎來到 TrailFood Library！您必須持有有效的邀請連結才能成為此應用程式的使用者。若尚未取得邀請，將無法完成註冊，請聯繫管理員以取得邀請連結。"
   },
   "tag": {
     "tag-created": "標籤已建立",
@@ -1119,7 +1119,7 @@
     "user-details": "使用者詳細資料",
     "user-name": "使用者名稱",
     "authentication-method": "驗證方式",
-    "authentication-method-hint": "此設定指定使用者如何向 Mealie 進行驗證。若不確定，請選擇「Mealie」",
+    "authentication-method-hint": "此設定指定使用者如何向 TrailFood Library 進行驗證。若不確定，請選擇「TrailFood Library」",
     "permissions": "權限",
     "administrator": "管理員",
     "user-can-invite-other-to-group": "使用者可邀請他人加入群組",
@@ -1138,7 +1138,7 @@
   "language-dialog": {
     "translated": "已翻譯",
     "choose-language": "選擇語言",
-    "select-description": "選擇Mealie 使用者介面 的語言。 此設定僅適用於您，不適用於其他使用者。",
+    "select-description": "選擇TrailFood Library 使用者介面 的語言。 此設定僅適用於您，不適用於其他使用者。",
     "how-to-contribute-description": "有尚未翻譯、翻譯有誤，或找不到您的語言嗎？{read-the-docs-link} 了解如何貢獻！",
     "read-the-docs": "閱讀文件"
   },
@@ -1272,7 +1272,7 @@
     "group-details": "群組詳細資料",
     "group-details-description": "建立帳號前，您需要先建立一個群組。群組初始只有您一人，但您可以稍後邀請其他人加入。群組成員可以共享餐點計畫、購物清單、食譜等更多內容！",
     "use-seed-data": "使用種子資料",
-    "use-seed-data-description": "Mealie 內建一組食材、單位和標籤，可用來為您的群組填入有助於整理食譜的實用資料。這些資料會依您目前選擇的語言翻譯。您隨時可以新增或修改這些資料。",
+    "use-seed-data-description": "TrailFood Library 內建一組食材、單位和標籤，可用來為您的群組填入有助於整理食譜的實用資料。這些資料會依您目前選擇的語言翻譯。您隨時可以新增或修改這些資料。",
     "account-details": "帳號詳細資料"
   },
   "validation": {
@@ -1372,14 +1372,14 @@
       "actions-description-destructive": "破壞性",
       "actions-description-irreversible": "不可復原",
       "logs-action-refresh": "重新整理紀錄",
-      "logs-page-title": "Mealie 紀錄",
+      "logs-page-title": "TrailFood Library 紀錄",
       "logs-tail-lines-label": "顯示行數"
     },
     "mainentance": {
       "actions-title": "操作"
     },
     "ingredients-natural-language-processor": "食材自然語言處理器",
-    "ingredients-natural-language-processor-explanation": "Mealie 使用條件隨機場（CRF）來解析和處理食材。食材所使用的模型基於紐約時報彙整的超過 10 萬筆食材資料集。由於模型僅以英文訓練，在其他語言下的結果可能有所差異。此頁面為測試模型的練習場。",
+    "ingredients-natural-language-processor-explanation": "TrailFood Library 使用條件隨機場（CRF）來解析和處理食材。食材所使用的模型基於紐約時報彙整的超過 10 萬筆食材資料集。由於模型僅以英文訓練，在其他語言下的結果可能有所差異。此頁面為測試模型的練習場。",
     "ingredients-natural-language-processor-explanation-2": "雖然並不完美，但整體而言效果良好，是手動將食材解析為個別欄位的良好起點。此外，您也可以使用「暴力」處理器，透過模式比對技術來識別食材。",
     "nlp": "自然語言處理",
     "brute": "暴力比對",
@@ -1395,13 +1395,13 @@
     "tasks": "任務",
     "setup": {
       "first-time-setup": "初次設定",
-      "welcome-to-mealie-get-started": "歡迎使用 Mealie！讓我們開始吧",
+      "welcome-to-mealie-get-started": "歡迎使用 TrailFood Library！讓我們開始吧",
       "already-set-up-bring-to-homepage": "我已完成設定，直接帶我到首頁",
       "common-settings-for-new-sites": "以下是新站台的常用設定",
       "setup-complete": "設定完成！",
       "ai-providers-description": "可選地為你的群組設定AI提供者。AI提供者啟用如從圖片建立食譜，從視頻導入食譜，和強化食材解析等功能。你可以之後隨時在群組設定中設定。",
-      "here-are-a-few-things-to-help-you-get-started": "以下幾項可幫助您開始使用 Mealie",
-      "restore-from-v1-backup": "有舊版 Mealie v1 的備份？您可以在這裡還原。",
+      "here-are-a-few-things-to-help-you-get-started": "以下幾項可幫助您開始使用 TrailFood Library",
+      "restore-from-v1-backup": "有舊版 TrailFood Library v1 的備份？您可以在這裡還原。",
       "manage-profile-or-get-invite-link": "管理您的個人資料，或取得邀請連結與他人分享。"
     },
     "debug-openai-services": "偵錯 OpenAI 服務",
@@ -1420,9 +1420,9 @@
     "account-summary": "帳號摘要",
     "account-summary-description": "以下是您群組資訊的摘要。",
     "group-statistics": "群組統計",
-    "group-statistics-description": "群組統計資料提供您使用 Mealie 的概況。",
+    "group-statistics-description": "群組統計資料提供您使用 TrailFood Library 的概況。",
     "household-statistics": "家庭統計",
-    "household-statistics-description": "家庭統計資料提供您使用 Mealie 的概況。",
+    "household-statistics-description": "家庭統計資料提供您使用 TrailFood Library 的概況。",
     "storage-capacity": "儲存空間",
     "storage-capacity-description": "儲存空間用量是根據您上傳的圖片與資產計算而來。",
     "personal": "個人",
@@ -1443,7 +1443,7 @@
     "notifiers": "通知器",
     "notifiers-description": "設定在特定事件觸發的電子郵件與推播通知。",
     "manage-data": "管理資料",
-    "manage-data-description": "管理您的 Mealie 資料，包含食材、單位、分類、標籤等。",
+    "manage-data-description": "管理您的 TrailFood Library 資料，包含食材、單位、分類、標籤等。",
     "data-migrations": "資料遷移",
     "data-migrations-description": "從 Nextcloud Recipes 和 Chowdown 等其他應用程式遷移現有資料。",
     "email-sent": "電子郵件已寄出",
@@ -1467,7 +1467,7 @@
     "hide-cookbooks-from-other-households": "對其他家庭隱藏食譜書",
     "hide-cookbooks-from-other-households-description": "啟用後，側邊欄將只顯示您家庭的食譜書",
     "public-cookbook": "公開食譜書",
-    "public-cookbook-description": "公開食譜書可與非 Mealie 使用者分享，並顯示在您的群組頁面上。",
+    "public-cookbook-description": "公開食譜書可與非 TrailFood Library 使用者分享，並顯示在您的群組頁面上。",
     "filter-options": "篩選選項",
     "filter-options-description": "選取「全部符合」時，食譜書只會包含符合所有已選項目的食譜。此規則適用於每個選擇器子集，而非跨選擇器的交叉篩選。",
     "require-all-categories": "需符合所有分類",
@@ -1519,7 +1519,7 @@
     "announcements": "公告",
     "all-announcements": "全部公告",
     "mark-all-as-read": "將全部標記為已讀",
-    "show-announcements-from-mealie": "顯示來自Mealie的公告",
-    "show-announcements-setting-description": "允許用戶查看來自Mealie的公吿與否。當啟用時用戶仍可在自己的用戶設定中選擇不查看"
+    "show-announcements-from-mealie": "顯示來自TrailFood Library的公告",
+    "show-announcements-setting-description": "允許用戶查看來自TrailFood Library的公吿與否。當啟用時用戶仍可在自己的用戶設定中選擇不查看"
   }
 }

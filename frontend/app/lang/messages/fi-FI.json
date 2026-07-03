@@ -1,7 +1,7 @@
 {
   "about": {
     "about": "Tietoja",
-    "about-mealie": "Tietoja Mealiestä",
+    "about-mealie": "Tietoja TrailFood Library",
     "api-docs": "API-dokumentaatio",
     "api-port": "API-portti",
     "application-mode": "Sovellustila",
@@ -57,7 +57,7 @@
     "event-delete-confirmation": "Haluatko varmasti poistaa tämän tapahtuman?",
     "event-deleted": "Tapahtuma poistettu",
     "event-updated": "Tapahtuma päivitetty",
-    "new-notification-form-description": "Mealie käyttää Apprise-kirjastoa ilmoitusten luomiseen. Se tarjoaa monia ilmoituspalvelveluvaihtoehtoja. Lisää tietoa siitä, kuinka luoda URL palvelua varten, löydät Apprisen wikistä. Joihinkin ilmoitustyyppeihin voi sisältyä lisäominaisuuksia.",
+    "new-notification-form-description": "TrailFood Library käyttää Apprise-kirjastoa ilmoitusten luomiseen. Se tarjoaa monia ilmoituspalvelveluvaihtoehtoja. Lisää tietoa siitä, kuinka luoda URL palvelua varten, löydät Apprisen wikistä. Joihinkin ilmoitustyyppeihin voi sisältyä lisäominaisuuksia.",
     "new-version": "Uusi versio saatavilla!",
     "notification": "Ilmoitus",
     "refresh": "Päivitä",
@@ -421,7 +421,7 @@
     "recipe-migration": "Reseptien tuonti",
     "chowdown": {
       "description": "Tuo data Chowdownista",
-      "description-long": "Mealie tukee natiivisti chowdown arkiston muotoa. Lataa koodiarkisto .zip tiedostoksi ja lataa se alta.",
+      "description-long": "TrailFood Library tukee natiivisti chowdown arkiston muotoa. Lataa koodiarkisto .zip tiedostoksi ja lataa se alta.",
       "title": "Chowdown"
     },
     "nextcloud": {
@@ -430,52 +430,52 @@
       "title": "Nextcloud-keittokirja"
     },
     "copymethat": {
-      "description-long": "Mealie voi tuoda reseptejä Copy Me That -sovelluksesta. Vie reseptisi HTML-muodossa ja lataa sitten zip-tiedosto.",
+      "description-long": "TrailFood Library voi tuoda reseptejä Copy Me That -sovelluksesta. Vie reseptisi HTML-muodossa ja lataa sitten zip-tiedosto.",
       "title": "Copy Me That -reseptien hallintasovellus"
     },
     "paprika": {
-      "description-long": "Mealie voi tuoda reseptejä Paprika-sovelluksesta. Vie reseptisi ohjelmasta ulos, nimeä tiedoston pääte uudelleen .zip ja lataa se alla.",
+      "description-long": "TrailFood Library voi tuoda reseptejä Paprika-sovelluksesta. Vie reseptisi ohjelmasta ulos, nimeä tiedoston pääte uudelleen .zip ja lataa se alla.",
       "title": "Paprika -reseptien hallintasovellus"
     },
     "mealie-pre-v1": {
-      "description-long": "Mealie voi tuoda reseptejä Mealie sovelluksesta ennen v1.0 julkaisua. Vie reseptisi vanhasta asennuksesta ja lataa zip-tiedosto. Huomaa, että viennistä voidaan tuoda vain reseptejä.",
-      "title": "Mealie esiversio-1.0"
+      "description-long": "TrailFood Library voi tuoda reseptejä TrailFood Library sovelluksesta ennen v1.0 julkaisua. Vie reseptisi vanhasta asennuksesta ja lataa zip-tiedosto. Huomaa, että viennistä voidaan tuoda vain reseptejä.",
+      "title": "TrailFood Library esiversio-1.0"
     },
     "tandoor": {
-      "description-long": "Mealie voi tuoda reseptejä Tandoorista. Vie tietosi \"Oletus\" -muodossa ja lataa sitten .zip alla.",
+      "description-long": "TrailFood Library voi tuoda reseptejä Tandoorista. Vie tietosi \"Oletus\" -muodossa ja lataa sitten .zip alla.",
       "title": "Tandoor Recipes -sovellus"
     },
     "cookn": {
-      "description-long": "Mealie voi tuoda reseptejä DVO Cook'n X3:sta. Vie keittokirja tai valikko \"Cook'n\"-muodossa, nimeä tiedosto uudelleen .zip-muotoon ja lataa sitten Mealieen alta.",
+      "description-long": "TrailFood Library voi tuoda reseptejä DVO Cook'n X3:sta. Vie keittokirja tai valikko \"Cook'n\"-muodossa, nimeä tiedosto uudelleen .zip-muotoon ja lataa sitten TrailFood Libraryen alta.",
       "title": "DVO Cook'n X3"
     },
     "recipe-data-migrations": "Reseptien tietojen migraatiot",
-    "recipe-data-migrations-explanation": "Reseptit voidaan siirtää toisesta tuetusta sovelluksesta Mealie -sovellukseen. Tämä on hyvä tapa päästä alkuun Mealiella.",
-    "coming-from-another-application-or-an-even-older-version-of-mealie": "Olitko toisessa sovelluksessa tai Mealien aiemmassa versiossa? Tarkista, voidaanko tietosi siirtää.",
+    "recipe-data-migrations-explanation": "Reseptit voidaan siirtää toisesta tuetusta sovelluksesta TrailFood Library -sovellukseen. Tämä on hyvä tapa päästä alkuun TrailFood Librarylla.",
+    "coming-from-another-application-or-an-even-older-version-of-mealie": "Olitko toisessa sovelluksessa tai TrailFood Libraryn aiemmassa versiossa? Tarkista, voidaanko tietosi siirtää.",
     "choose-migration-type": "Valitse migraatiotyyppi",
     "tag-all-recipes": "Merkitse kaikki reseptit tunnisteella {tag-name}",
     "nextcloud-text": "Nextcloud reseptejä voidaan tuoda zip-tiedostosta, joka sisältää Nextcloudiin tallennetut tiedot. Katso esimerkkikansiorakenne alla varmistaaksesi, että reseptisi voidaan tuoda.",
-    "chowdown-text": "Mealie tukee Chowdown-säilömistä. Lataa koodin arkisto zip-tiedostona alempaa.",
+    "chowdown-text": "TrailFood Library tukee Chowdown-säilömistä. Lataa koodin arkisto zip-tiedostona alempaa.",
     "recipe-1": "Resepti 1",
     "recipe-2": "Resepti 2",
-    "paprika-text": "Mealie voi tuoda reseptejä Paprika-sovelluksesta. Vie reseptisi ohjelmasta ulos, nimeä tiedoston pääte uudelleen .zip ja lataa se alla.",
-    "mealie-text": "Mealie voi tuoda reseptejä Mealie sovelluksesta ennen v1.0 julkaisua. Vie reseptisi vanhasta asennuksesta ja lataa zip-tiedosto. Huomaa, että viennistä voidaan tuoda vain reseptejä.",
+    "paprika-text": "TrailFood Library voi tuoda reseptejä Paprika-sovelluksesta. Vie reseptisi ohjelmasta ulos, nimeä tiedoston pääte uudelleen .zip ja lataa se alla.",
+    "mealie-text": "TrailFood Library voi tuoda reseptejä TrailFood Library sovelluksesta ennen v1.0 julkaisua. Vie reseptisi vanhasta asennuksesta ja lataa zip-tiedosto. Huomaa, että viennistä voidaan tuoda vain reseptejä.",
     "plantoeat": {
       "title": "Plan to Eat",
-      "description-long": "Mealieen voi tuoda reseptejä Plan to Eat -sovelluksesta."
+      "description-long": "TrailFood Libraryen voi tuoda reseptejä Plan to Eat -sovelluksesta."
     },
     "myrecipebox": {
       "title": "Reseptilaatikkoni",
-      "description-long": "Voit tuoda Mealieen reseptejä reseptilaatikosta. Tuo reseptisi csv-muodossa ja lataa sitten csv-tiedosto alempaa."
+      "description-long": "Voit tuoda TrailFood Libraryen reseptejä reseptilaatikosta. Tuo reseptisi csv-muodossa ja lataa sitten csv-tiedosto alempaa."
     },
     "recipekeeper": {
       "title": "Reseptinsäilyttäjä",
-      "description-long": "Mealieen voi tuoda reseptejä reseptinsäilyttäjästä. Tuo reseptit zip-muodossa ja sitten lataa zip-tiedosto alempaa."
+      "description-long": "TrailFood Libraryen voi tuoda reseptejä reseptinsäilyttäjästä. Tuo reseptit zip-muodossa ja sitten lataa zip-tiedosto alempaa."
     }
   },
   "new-recipe": {
     "bulk-add": "Lisää useita kerralla",
-    "error-details": "Mealieen voi tuoda vain niitä sivuja, jotka sisältävät mikrodataa tai ld+json:in. Suurin osa suosituista reseptisivuista tukevat tätä. Jos sivustoasi ei voi tuoda, mutta lokissa on json-tietoja, ilmoita siitä GitHubiin ja mainitse verkko-osoite ja tiedot.",
+    "error-details": "TrailFood Libraryen voi tuoda vain niitä sivuja, jotka sisältävät mikrodataa tai ld+json:in. Suurin osa suosituista reseptisivuista tukevat tätä. Jos sivustoasi ei voi tuoda, mutta lokissa on json-tietoja, ilmoita siitä GitHubiin ja mainitse verkko-osoite ja tiedot.",
     "error-title": "Emme löytäneet mitään",
     "from-url": "Tuo resepti",
     "github-issues": "GitHub-ongelmat",
@@ -486,7 +486,7 @@
     "recipe-url": "Reseptin URL",
     "recipe-html-or-json": "Resepti HTML tai JSON",
     "upload-a-recipe": "Lataa resepti",
-    "upload-individual-zip-file": "Tuo yksittäinen pakattu kansio toisesta Mealie instanssista.",
+    "upload-individual-zip-file": "Tuo yksittäinen pakattu kansio toisesta TrailFood Library instanssista.",
     "url-form-hint": "Liitä linkki lempireseptiverkkosivultasi",
     "copy-and-paste-the-source-url-of-your-data-optional": "Kopioi ja liitä tietojesi URL-lähdeosoite (vapaaehtoinen)",
     "view-scraped-data": "Näytä hankittu data",
@@ -645,7 +645,7 @@
     "failed-to-add-to-timeline": "Aikajanaan lisääminen epäonnistui",
     "failed-to-update-recipe": "Reseptin päivitys epäonnistui",
     "added-to-timeline-but-failed-to-add-image": "Lisätty aikajanaan, mutta kuvan lisääminen epäonnistui",
-    "api-extras-description": "Reseptiekstrat ovat Mealien API:n tärkeä ominaisuus. Niiden avulla voidaan luoda mukautettuja JSON-avain/arvo-pareja reseptin sisällä viitaten kolmannen osapuolen sovelluksiin. Näitä avaimia voi käyttää tiedon antamiseksi, esimerkiksi automaattisen toiminnon tai mukautetun viestin käynnistämiseksi haluamaasi laitteeseen.",
+    "api-extras-description": "Reseptiekstrat ovat TrailFood Libraryn API:n tärkeä ominaisuus. Niiden avulla voidaan luoda mukautettuja JSON-avain/arvo-pareja reseptin sisällä viitaten kolmannen osapuolen sovelluksiin. Näitä avaimia voi käyttää tiedon antamiseksi, esimerkiksi automaattisen toiminnon tai mukautetun viestin käynnistämiseksi haluamaasi laitteeseen.",
     "message-key": "Viestiavain",
     "parse": "Jäsennä",
     "ingredients-not-parsed-description": "Näyttää siltä, että ainesosat eivät ole vielä jäsenneltyjä. Klikkaa \"{parse}\" painiketta alla jäsentääksesi ainesosat strukturoiduiksi elintarvikkeiksi.",
@@ -664,7 +664,7 @@
     "create-recipes": "Luo reseptejä",
     "import-with-zip": "Tuo .zip:llä",
     "create-recipe-from-images": "Create Recipe from Images",
-    "create-recipe-from-an-image-description": "Luo resepti tuomalla siitä kuva. Mealie pyrkii poimimaan tekstin kuvasta tekoälyllä ja luomaan siitä reseptin.",
+    "create-recipe-from-an-image-description": "Luo resepti tuomalla siitä kuva. TrailFood Library pyrkii poimimaan tekstin kuvasta tekoälyllä ja luomaan siitä reseptin.",
     "crop-and-rotate-the-image": "Rajaa ja kierrä kuvaa niin, että vain teksti näkyy, ja että se on oikein päin.",
     "create-from-images": "Luo resepti kuvasta",
     "should-translate-description": "Käännä resepti kielelleni",
@@ -675,8 +675,8 @@
     "create-a-recipe-by-providing-the-name-all-recipes-must-have-unique-names": "Luo resepti antamalla nimi. Kaikilla resepteillä on oltava yksilölliset nimet.",
     "new-recipe-names-must-be-unique": "Reseptin nimen on oltava yksilöllinen",
     "scrape-recipe": "Reseptin kaappain",
-    "scrape-recipe-description": "Hae resepti URL-osoitteesta. Anna haluamasi reseptin URL-osoite ja Mealie koittaa hakea reseptin tietoineen. Tämän jälkeen resepti lisätään kokoelmaan.",
-    "scrape-recipe-description-transcription": "Voit myös antaa videon url-osoitteen, ja Mealie yrittää muuntaa sen reseptiksi.",
+    "scrape-recipe-description": "Hae resepti URL-osoitteesta. Anna haluamasi reseptin URL-osoite ja TrailFood Library koittaa hakea reseptin tietoineen. Tämän jälkeen resepti lisätään kokoelmaan.",
+    "scrape-recipe-description-transcription": "Voit myös antaa videon url-osoitteen, ja TrailFood Library yrittää muuntaa sen reseptiksi.",
     "scrape-recipe-have-a-lot-of-recipes": "Haluatko kerätä useamman reseptin kerralla?",
     "scrape-recipe-suggest-bulk-importer": "Kokeile massasiirtotyökalua",
     "scrape-recipe-have-raw-html-or-json-data": "Onko sinulla raakaa HTML- tai JSON-dataa?",
@@ -688,23 +688,23 @@
     "stay-in-edit-mode": "Pysy muokkaustilassa",
     "parse-recipe-ingredients-after-import": "Jäsennä reseptin ainesosat tuonnin jälkeen",
     "import-from-zip": "Tuo zip-arkistosta",
-    "import-from-zip-description": "Tuo yksi resepti, joka on viety toisesta Mealie-asennuksesta.",
+    "import-from-zip-description": "Tuo yksi resepti, joka on viety toisesta TrailFood Library-asennuksesta.",
     "import-from-html-or-json": "Tuo HTML- tai JSON-tiedostosta",
-    "import-from-html-or-json-description": "Tuo yksittäinen resepti raa'asta HTML- tai JSON-tiedostosta. Tämä on hyödyllistä, jos sinulla on resepti sivustolta, jota Mealie ei voi kaapata normaalisti, tai jostain muusta ulkoisesta lähteestä.",
+    "import-from-html-or-json-description": "Tuo yksittäinen resepti raa'asta HTML- tai JSON-tiedostosta. Tämä on hyödyllistä, jos sinulla on resepti sivustolta, jota TrailFood Library ei voi kaapata normaalisti, tai jostain muusta ulkoisesta lähteestä.",
     "json-import-format-description-colon": "Jos haluat tuoda JSON-muodossa, sen on oltava kelvollisessa muodossa:",
     "json-editor": "JSON-muokkain",
-    "zip-files-must-have-been-exported-from-mealie": ".zip-tiedostot on täytynyt viedä Mealiesta",
+    "zip-files-must-have-been-exported-from-mealie": ".zip-tiedostot on täytynyt viedä TrailFood Librarysta",
     "create-a-recipe-by-uploading-a-scan": "Luo resepti lataamalla skannaus.",
     "upload-a-png-image-from-a-recipe-book": "Lataa png- kuva reseptikirjasta",
     "recipe-bulk-importer": "Reseptin massatuonti",
-    "recipe-bulk-importer-description": "Reseptien massatuonnin avulla voit tuoda useita reseptejä kerralla asettamalla sivustot jonoon taustajärjestelmässä ja suorittamalla tehtävän taustalla. Tästä voi olla hyötyä, kun siirryt Mealieen tai kun haluat tuoda suuren määrän reseptejä.",
+    "recipe-bulk-importer-description": "Reseptien massatuonnin avulla voit tuoda useita reseptejä kerralla asettamalla sivustot jonoon taustajärjestelmässä ja suorittamalla tehtävän taustalla. Tästä voi olla hyötyä, kun siirryt TrailFood Libraryen tai kun haluat tuoda suuren määrän reseptejä.",
     "set-categories-and-tags": "Aseta kategoriat ja tunnisteet",
     "bulk-imports": "Massatuonti",
     "bulk-import-process-has-started": "Massatuonnin prosessi on alkanut",
     "bulk-import-process-has-failed": "Massatuonnin prosessi epäonnistui",
     "report-deletion-failed": "Raportin poistaminen epäonnistui",
     "recipe-debugger": "Reseptin vianhaku",
-    "recipe-debugger-description": "Tartu sen reseptin URL-osoitteeseen, jonka virheenkorjausta haluat tehdä, ja liitä se tähän. Reseptikaappain hakee URL-osoitteen ja tulokset näytetään. Jos et näe palautettua dataa, Mealie tai sen kappauskirjasto ei tue sivua, jota yrität kaapata.",
+    "recipe-debugger-description": "Tartu sen reseptin URL-osoitteeseen, jonka virheenkorjausta haluat tehdä, ja liitä se tähän. Reseptikaappain hakee URL-osoitteen ja tulokset näytetään. Jos et näe palautettua dataa, TrailFood Library tai sen kappauskirjasto ei tue sivua, jota yrität kaapata.",
     "use-openai": "Käytä OpenAI:ta",
     "recipe-debugger-use-openai-description": "Käytä OpenAI:ta kaavinkirjaston sijaan tulosten jäsentämiseen. Luodessa reseptiä URL:n kautta tämä tehdään ilman eri kysymystä, kun kaavinkirjasto ei toimi, mutta voit kokeilla sitä tässä manuaalisesti.",
     "debug": "Vianhaku",
@@ -780,7 +780,7 @@
     "clear-selection": "Tyhjennä valinnat",
     "results": "Tulokset",
     "search": "Hae",
-    "search-mealie": "Hae Mealiestä (paina /)",
+    "search-mealie": "Hae TrailFood Library (paina /)",
     "search-placeholder": "Hae...",
     "tag-filter": "Tunnisteen mukaan suodatus",
     "search-hint": "Paina '/'",
@@ -806,7 +806,7 @@
       "import-summary": "Tuo yhteenveto",
       "partial-backup": "Osittainen varmuuskopiointi",
       "unable-to-delete-backup": "Varmuuskopiota ei voi poistaa.",
-      "experimental-description": "Varmuuskopiot ovat sivuston tietokannan ja -hakemiston tilannekuvia. Siihen sisältyy kaikki tieto, eikä siitä voi poistaa tietojen osajoukkoja. Tämä on verrattavissa tilannekuvaan Mealiesta tiettynä ajankohtana. Nämä toimivat tietokantojen tapana tuoda ja viedä tietoja sekä sivuston varmuuskopioina ulkoisessa sijainnissa.",
+      "experimental-description": "Varmuuskopiot ovat sivuston tietokannan ja -hakemiston tilannekuvia. Siihen sisältyy kaikki tieto, eikä siitä voi poistaa tietojen osajoukkoja. Tämä on verrattavissa tilannekuvaan TrailFood Librarysta tiettynä ajankohtana. Nämä toimivat tietokantojen tapana tuoda ja viedä tietoja sekä sivuston varmuuskopioina ulkoisessa sijainnissa.",
       "backup-restore": "Varmuuskopion palautus",
       "back-restore-description": "Tämän varmuuskopion palauttaminen korvaa kaikki tietokannassasi ja tietokannassasi olevat tiedot ja korvaa ne tämän varmuuskopion sisällöllä. {cannot-be-undone} Jos palautus onnistuu, sinut kirjataan ulos.",
       "cannot-be-undone": "Tätä toimintoa ei voi kumota - käytä varoen.",
@@ -905,7 +905,7 @@
     "tracker": "Lähetä",
     "configuration": "Konfigurointi",
     "docker-volume": "Docker-kontin tiedostojärjestelmä",
-    "docker-volume-help": "Mealie vaatii, että frontend-kontti ja backend jakaa saman dockerin tiedostojärjestelmän tai varaston. Näin varmistetaan, että frontend-kontti pääsee kunnolla käsiksi levylle tallennettuihin kuviin ja resursseihin.",
+    "docker-volume-help": "TrailFood Library vaatii, että frontend-kontti ja backend jakaa saman dockerin tiedostojärjestelmän tai varaston. Näin varmistetaan, että frontend-kontti pääsee kunnolla käsiksi levylle tallennettuihin kuviin ja resursseihin.",
     "volumes-are-misconfigured": "Äänenvoimakkuudet ovat virheellisiä.",
     "volumes-are-configured-correctly": "Tiedostojärjestelmät ovat oikein konfiguroitu.",
     "status-unknown-try-running-a-validation": "Tila tuntematon. Yritä suorittaa validointi.",
@@ -920,7 +920,7 @@
     "general-about": "Yleistä",
     "application-version": "Sovellusversio",
     "application-version-error-text": "Nykyinen versiosi ({0}) ei vastaa viimeisintä versiota. Harkitse päivitystä uusimpaan versioon ({1}).",
-    "mealie-is-up-to-date": "Mealie on ajan tasalla",
+    "mealie-is-up-to-date": "TrailFood Library on ajan tasalla",
     "secure-site": "Turvallinen Sivusto",
     "secure-site-error-text": "Palvele paikallisen tai suojatun palvelimen kautta https-sovelluksella. Leikepöytä ja muut selaimen API-sovellukset eivät välttämättä toimi.",
     "secure-site-success-text": "Sivustolle pääsee localhost tai https",
@@ -1010,7 +1010,7 @@
     "sign-up-links": "Rekisteröintilinkit",
     "sign-up-token-deleted": "Rekisteröintitunnus poistettu",
     "sign-up-token-deletion-failed": "Rekisteröintitunnuksen poisto epäonnistui",
-    "welcome-to-mealie": "Tervetuloa Mealieen! Sinulla tulee olla voimassaoleva kutsulinkki, mikäli haluat päästä tämän sovelluksen käyttäjäksi. Mikäli et ole saanut kutsua, et voi rekisteröityä. Saadaksesi linkin, ota yhteyttä sivun ylläpitoon."
+    "welcome-to-mealie": "Tervetuloa TrailFood Libraryen! Sinulla tulee olla voimassaoleva kutsulinkki, mikäli haluat päästä tämän sovelluksen käyttäjäksi. Mikäli et ole saanut kutsua, et voi rekisteröityä. Saadaksesi linkin, ota yhteyttä sivun ylläpitoon."
   },
   "tag": {
     "tag-created": "Tunniste luotu",
@@ -1119,7 +1119,7 @@
     "user-details": "Käyttäjän tiedot",
     "user-name": "Käyttäjänimi",
     "authentication-method": "Todentamistapa",
-    "authentication-method-hint": "Tämä määrittelee, miten käyttäjä todentaa Mealien. Jos et ole varma, valitse 'Mealie'",
+    "authentication-method-hint": "Tämä määrittelee, miten käyttäjä todentaa TrailFood Libraryn. Jos et ole varma, valitse 'TrailFood Library'",
     "permissions": "Käyttöoikeudet",
     "administrator": "Ylläpitäjä",
     "user-can-invite-other-to-group": "Käyttäjä voi kutsua muita ryhmään",
@@ -1138,7 +1138,7 @@
   "language-dialog": {
     "translated": "käännetty",
     "choose-language": "Valitse kieli",
-    "select-description": "Valitse Mealien käyttöliittymän kieli. Asetus koskee vain sinua, ei muita käyttäjiä.",
+    "select-description": "Valitse TrailFood Libraryn käyttöliittymän kieli. Asetus koskee vain sinua, ei muita käyttäjiä.",
     "how-to-contribute-description": "Eikö jotain ole käännetty vielä tai onko jokin väärin käännetty tai kielesi puuttuu listalta? {read-the-docs-link} siitä, miten osallistua!",
     "read-the-docs": "Lue ohjeet"
   },
@@ -1272,7 +1272,7 @@
     "group-details": "Ryhmän tiedot",
     "group-details-description": "Ennen kuin luot tilin, sinun on luotava ryhmä. Ryhmässäsi on vain sinä, mutta voit kutsua muita myöhemmin. Ryhmäsi jäsenet voivat jakaa ateriasuunnitelmia, ostoslistoja, reseptejä ja paljon muuta!",
     "use-seed-data": "Käytä pohjatietoja",
-    "use-seed-data-description": "Mealie:ssa tulee mukana kokoelma valmiita Ruokia, Yksiköitä sekä Luokituksia, joita voidaan käyttää resepteissä sekä niiden lajittelussa. Ne on käännetty kielelle joka on tällä hetkellä valittuna. Voit aina lisätä tai muokata tätä dataa myöhemmin.",
+    "use-seed-data-description": "TrailFood Library:ssa tulee mukana kokoelma valmiita Ruokia, Yksiköitä sekä Luokituksia, joita voidaan käyttää resepteissä sekä niiden lajittelussa. Ne on käännetty kielelle joka on tällä hetkellä valittuna. Voit aina lisätä tai muokata tätä dataa myöhemmin.",
     "account-details": "Tilitiedot"
   },
   "validation": {
@@ -1306,7 +1306,7 @@
     "preview-markdown-button-label": "Esikatsele Markdownia"
   },
   "demo": {
-    "info_message_with_version": "Mealie on esittelytilassa. Mealien versio: {version}",
+    "info_message_with_version": "TrailFood Library on esittelytilassa. TrailFood Libraryn versio: {version}",
     "demo_username": "Käyttäjätunnus: {username}",
     "demo_password": "Salasana: {password}"
   },
@@ -1372,14 +1372,14 @@
       "actions-description-destructive": "tuhoisia",
       "actions-description-irreversible": "peruuttamatonta",
       "logs-action-refresh": "Päivitä lokit",
-      "logs-page-title": "Mealie- Lokit",
+      "logs-page-title": "TrailFood Library- Lokit",
       "logs-tail-lines-label": "Loppurivit"
     },
     "mainentance": {
       "actions-title": "Toiminnot"
     },
     "ingredients-natural-language-processor": "Ingredients Natural Language Processor",
-    "ingredients-natural-language-processor-explanation": "Mealie käyttää Conditional Random Fields (CRF) ainesosien jäsentämiseen ja prosessointiin. Ainesosien osalta käytetty malli perustuu yli 100000 ainesosan aineistoon New York Timesin kokoamasta aineistosta. Huomaa, että koska malli on koulutettu vain englanniksi, mallilla voi olla vaihtelevia tuloksia, kun käytät mallia muilla kielillä. Tämä sivu on mallin testaamiseen tarkoitettu leikkipaikka.",
+    "ingredients-natural-language-processor-explanation": "TrailFood Library käyttää Conditional Random Fields (CRF) ainesosien jäsentämiseen ja prosessointiin. Ainesosien osalta käytetty malli perustuu yli 100000 ainesosan aineistoon New York Timesin kokoamasta aineistosta. Huomaa, että koska malli on koulutettu vain englanniksi, mallilla voi olla vaihtelevia tuloksia, kun käytät mallia muilla kielillä. Tämä sivu on mallin testaamiseen tarkoitettu leikkipaikka.",
     "ingredients-natural-language-processor-explanation-2": "Se ei ole täydellinen, mutta se tuottaa hyviä tuloksia yleensä ja on hyvä lähtökohta manuaalisesti jäsentää ainesosia yksittäisiin kenttiin. Vaihtoehtoisesti voit myös käyttää Brute-prosessori, joka käyttää kuvion täsmäystekniikkaa tunnistamaan ainesosia.",
     "nlp": "NLP",
     "brute": "Brute",
@@ -1395,13 +1395,13 @@
     "tasks": "Tehtävät",
     "setup": {
       "first-time-setup": "Ensiasetukset",
-      "welcome-to-mealie-get-started": "Tervetuloa Mealieen! Aloitetaan",
+      "welcome-to-mealie-get-started": "Tervetuloa TrailFood Libraryen! Aloitetaan",
       "already-set-up-bring-to-homepage": "Olen jo valmis, vie minut kotisivulle",
       "common-settings-for-new-sites": "Tässä muutamia yleisiä asetuksia uusille sivustoille",
       "setup-complete": "Asennus valmis.",
       "ai-providers-description": "Optionally configure AI providers for your group. AI providers enable features like creating recipes from images, importing recipes from videos, and enhanced ingredient parsing. You can always configure this later from your group settings.",
       "here-are-a-few-things-to-help-you-get-started": "Näillä muutamilla asioilla pääset alkuun",
-      "restore-from-v1-backup": "Onko sinulla varmuuskopio aiemmasta Mealie v1 -instanssista? Palauta se tästä.",
+      "restore-from-v1-backup": "Onko sinulla varmuuskopio aiemmasta TrailFood Library v1 -instanssista? Palauta se tästä.",
       "manage-profile-or-get-invite-link": "Hallitse profiiliasi tai hanki kutsulinkki muille."
     },
     "debug-openai-services": "Debuggaa OpenAI-palveluita",
@@ -1420,9 +1420,9 @@
     "account-summary": "Tilin Yhteenveto",
     "account-summary-description": "Tässä on yhteenveto ryhmäsi tiedoista.",
     "group-statistics": "Ryhmätilastot",
-    "group-statistics-description": "Ryhmätilaston avulla saat tietoa siitä, miten käytät Mealietä.",
+    "group-statistics-description": "Ryhmätilaston avulla saat tietoa siitä, miten käytät TrailFood Librarytä.",
     "household-statistics": "Kotitalouksien tilastot",
-    "household-statistics-description": "Kotitalouden tilastot tarjoavat joitakin oivalluksia miten käytät Mealietä.",
+    "household-statistics-description": "Kotitalouden tilastot tarjoavat joitakin oivalluksia miten käytät TrailFood Librarytä.",
     "storage-capacity": "Tallennustila",
     "storage-capacity-description": "Tallennuskapasiteetti on laskettu niistä kuvista ja resursseista, jotka olet ladannut.",
     "personal": "Henkilökohtainen",
@@ -1443,7 +1443,7 @@
     "notifiers": "Ilmoitukset",
     "notifiers-description": "Määritä sähköposti- ja push-ilmoitukset, jotka käynnistävät tiettyjä tapahtumia.",
     "manage-data": "Hallinnoi tietoja",
-    "manage-data-description": "Hallitse Mealie-tietojasi: elintarvikkeita, yksiköitä, luokkia, tunnisteita ja muita.",
+    "manage-data-description": "Hallitse TrailFood Library-tietojasi: elintarvikkeita, yksiköitä, luokkia, tunnisteita ja muita.",
     "data-migrations": "Tietojen migraatiot",
     "data-migrations-description": "Siirrä tietosi muista sovelluksista, kuten Nextcloudista ja Chowdownista.",
     "email-sent": "Sähköposti lähetetty",
@@ -1467,7 +1467,7 @@
     "hide-cookbooks-from-other-households": "Piilota keittokirjat muista kotitalouksista",
     "hide-cookbooks-from-other-households-description": "Kun käytössä, sivupalkissa näkyy vain oman kotitaloutesi keittokirjoja",
     "public-cookbook": "Julkinen Keittokirja",
-    "public-cookbook-description": "Julkisia keittokirjoja voidaan jakaa ei-Mealien käyttäjille, ja ne näkyvät ryhmäsi sivulla.",
+    "public-cookbook-description": "Julkisia keittokirjoja voidaan jakaa ei-TrailFood Libraryn käyttäjille, ja ne näkyvät ryhmäsi sivulla.",
     "filter-options": "Suodatuksen asetukset",
     "filter-options-description": "Kun vaaditaan kaikki on valittu, keittokirja sisältää vain reseptejä, joissa on kaikki valitut tuotteet. Tämä koskee jokaista valitsimien osajoukkoa, ei valittujen kohteiden poikkileikkausta.",
     "require-all-categories": "Vaadi Kaikki Kategoriat",
@@ -1519,7 +1519,7 @@
     "announcements": "Announcements",
     "all-announcements": "All announcements",
     "mark-all-as-read": "Mark All as Read",
-    "show-announcements-from-mealie": "Näytä Mealien ilmoitukset",
-    "show-announcements-setting-description": "Whether or not you want to allow users to see announcements from Mealie. When enabled users can still opt-out from seeing them in their user settings"
+    "show-announcements-from-mealie": "Näytä TrailFood Libraryn ilmoitukset",
+    "show-announcements-setting-description": "Whether or not you want to allow users to see announcements from TrailFood Library. When enabled users can still opt-out from seeing them in their user settings"
   }
 }

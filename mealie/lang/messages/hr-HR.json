@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Zaboravljena lozinka - Mealie",
+            "subject": "Zaboravljena lozinka - TrailFood Library",
             "header_text": "Zaboravljena lozinka",
             "message_top": "Zatražili ste ponovno postavljanje lozinke.",
             "message_bottom": "Kliknite na gumb iznad kako biste ponovno postavili svoju lozinku.",
             "button_text": "Ponovno postavi lozinku"
         },
         "invitation": {
-            "subject": "Pozivnica za Mealie",
+            "subject": "Pozivnica za TrailFood Library",
             "header_text": "Pozvani ste!",
-            "message_top": "Pozvani ste da nam se pridružite na Mealie.",
+            "message_top": "Pozvani ste da nam se pridružite na TrailFood Library.",
             "message_bottom": "Molim Vas, kliknite na gumb iznad kako biste prihvatili pozivnicu.",
             "button_text": "Prihvati Pozivnicu"
         },
         "test": {
-            "subject": "Mealie Test Email",
+            "subject": "TrailFood Library Test Email",
             "header_text": "Test Email",
             "message_top": "This is a test email.",
             "message_bottom": "Please click the button above to test the email.",
-            "button_text": "Otvori Mealie"
+            "button_text": "Otvori TrailFood Library"
         }
     }
 }

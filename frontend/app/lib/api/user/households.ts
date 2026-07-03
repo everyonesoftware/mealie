@@ -30,38 +30,46 @@ const routes = {
   householdsSelfRecipesSlug: (recipeSlug: string) => `${prefix}/households/self/recipes/${recipeSlug}`,
 };
 
-export class HouseholdAPI extends BaseCRUDAPIReadOnly<HouseholdSummary> {
+export class HouseholdAPI extends BaseCRUDAPIReadOnly<HouseholdSummary>
+{
   baseRoute = routes.households;
   itemRoute = routes.householdsId;
   /** Returns the Household Data for the Current User
    */
-  async getCurrentUserHousehold() {
+  async getCurrentUserHousehold()
+  {
     return await this.requests.get<HouseholdInDB>(routes.householdsSelf);
   }
 
-  async getCurrentUserHouseholdRecipe(recipeSlug: string) {
+  async getCurrentUserHouseholdRecipe(recipeSlug: string)
+  {
     return await this.requests.get<HouseholdRecipeSummary>(routes.householdsSelfRecipesSlug(recipeSlug));
   }
 
-  async setPreferences(payload: UpdateHouseholdPreferences) {
+  async setPreferences(payload: UpdateHouseholdPreferences)
+  {
     // TODO: This should probably be a patch request, which isn't offered by the API currently
     return await this.requests.put<ReadHouseholdPreferences, UpdateHouseholdPreferences>(routes.preferences, payload);
   }
 
-  async createInvitation(payload: CreateInviteToken) {
+  async createInvitation(payload: CreateInviteToken)
+  {
     return await this.requests.post<ReadInviteToken>(routes.invitation, payload);
   }
 
-  async fetchMembers(page = 1, perPage = -1, params = {} as Record<string, QueryValue>) {
+  async fetchMembers(page = 1, perPage = -1, params = {} as Record<string, QueryValue>)
+  {
     return await this.requests.get<PaginationData<UserOut>>(routes.members, { page, perPage, ...params });
   }
 
-  async setMemberPermissions(payload: SetPermissions) {
+  async setMemberPermissions(payload: SetPermissions)
+  {
     // TODO: This should probably be a patch request, which isn't offered by the API currently
     return await this.requests.put<UserOut, SetPermissions>(routes.permissions, payload);
   }
 
-  async statistics() {
+  async statistics()
+  {
     return await this.requests.get<HouseholdStatistics>(routes.statistics);
   }
 }

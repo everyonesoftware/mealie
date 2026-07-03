@@ -19,7 +19,8 @@ const _announcementsUnsorted = import.meta.glob<{ default: Component; meta?: Ann
 );
 const allAnnouncements: Announcement[] = Object.entries(_announcementsUnsorted)
   .sort(([a], [b]) => a.localeCompare(b))
-  .map(([path, mod]) => {
+  .map(([path, mod]) =>
+  {
     const key = path.split("/").at(-1)!.replace(".vue", "");
 
     const dateParts = key.split("_", 1)[0]!.split("-").map(Number);
@@ -38,11 +39,13 @@ const allAnnouncements: Announcement[] = Object.entries(_announcementsUnsorted)
 
 const newAnnouncements = shallowRef<Announcement[]>([]);
 
-function isWelcomeAnnouncement(key: string) {
+function isWelcomeAnnouncement(key: string)
+{
   return key === allAnnouncements.at(0)!.key;
 }
 
-export function useAnnouncements() {
+export function useAnnouncements()
+{
   const auth = useMealieAuth();
   const api = useUserApi();
   const { household } = useHouseholdSelf();
@@ -57,25 +60,30 @@ export function useAnnouncements() {
       ),
   );
 
-  function updateUnreadAnnouncements(lastReadKey: string) {
+  function updateUnreadAnnouncements(lastReadKey: string)
+  {
     newAnnouncements.value = allAnnouncements.filter(a => a.key > lastReadKey);
   }
 
-  async function setLastRead(key: string) {
+  async function setLastRead(key: string)
+  {
     const user = auth.user.value!;
 
-    if (!user.lastReadAnnouncement && isWelcomeAnnouncement(key)) {
+    if (!user.lastReadAnnouncement && isWelcomeAnnouncement(key))
+    {
       // The welcome announcement is a special case: it's shown to new users and
       // all other announcements are marked as read when they view it
       key = allAnnouncements.at(-1)!.key;
       updateUnreadAnnouncements(key);
     }
-    else {
+    else
+    {
       // Only mark this specific announcement as read in the current session
       newAnnouncements.value = newAnnouncements.value.filter(a => a.key !== key);
     }
 
-    if (user.lastReadAnnouncement && key <= user.lastReadAnnouncement) {
+    if (user.lastReadAnnouncement && key <= user.lastReadAnnouncement)
+    {
       // Don't update the last read announcement if it's older than the current one
       return;
     }
@@ -91,22 +99,26 @@ export function useAnnouncements() {
     );
   }
 
-  async function markAllAsRead() {
+  async function markAllAsRead()
+  {
     setLastRead(allAnnouncements.at(-1)!.key);
     newAnnouncements.value = [];
   }
 
-  function initUnreadAnnouncements() {
+  function initUnreadAnnouncements()
+  {
     const user = auth.user.value;
 
     // Only logged-in users can see announcements
-    if (!user || !allAnnouncements.length) {
+    if (!user || !allAnnouncements.length)
+    {
       newAnnouncements.value = [];
       return;
     }
 
     // If a user has never seen an announcement, show them only the welcome announcement
-    if (!user.lastReadAnnouncement) {
+    if (!user.lastReadAnnouncement)
+    {
       newAnnouncements.value = [allAnnouncements.at(0)!];
       return;
     }
@@ -119,8 +131,10 @@ export function useAnnouncements() {
 
   // If the user changes, re-init
   let lastUserId = auth.user.value?.id;
-  watch(auth.user, () => {
-    if (auth.user.value?.id === lastUserId) {
+  watch(auth.user, () =>
+  {
+    if (auth.user.value?.id === lastUserId)
+    {
       return;
     }
 

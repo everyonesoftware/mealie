@@ -71,25 +71,25 @@
     },
     "emails": {
         "password": {
-            "subject": "Забравена парола за Mealie",
+            "subject": "Забравена парола за TrailFood Library",
             "header_text": "Забравена парола",
             "message_top": "Изпратили сте заявка за смяна на паролата.",
             "message_bottom": "Натиснете бутона по-горе за смяна на паролата.",
             "button_text": "Смяна на паролата"
         },
         "invitation": {
-            "subject": "Покана за присъединяване към Mealie",
+            "subject": "Покана за присъединяване към TrailFood Library",
             "header_text": "Поканен сте!",
-            "message_top": "Получихте покана за присъединяване към Mealie.",
+            "message_top": "Получихте покана за присъединяване към TrailFood Library.",
             "message_bottom": "Натиснете бутона по-горе за приемане на поканата.",
             "button_text": "Приемете поканата"
         },
         "test": {
-            "subject": "Тестово съобщение от Mealie",
+            "subject": "Тестово съобщение от TrailFood Library",
             "header_text": "Тестово съобщение",
             "message_top": "Това е тестово съобщение.",
             "message_bottom": "Натиснете бутона по-горе за тест на електронната поща.",
-            "button_text": "Влезте в Mealie"
+            "button_text": "Влезте в TrailFood Library"
         }
     }
 }
