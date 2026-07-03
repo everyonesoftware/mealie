@@ -58,7 +58,7 @@ jobs:
     if: |
       github.event_name == 'pull_request' &&
       contains(github.event.pull_request.labels.*.name, 'build-image') &&
-      github.repository == 'everyonesoftware/mealie'
+      github.repository == 'everyonesoftware/trailfood-library'
     permissions:
       contents: read
       packages: write

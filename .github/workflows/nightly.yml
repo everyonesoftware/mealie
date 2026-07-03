@@ -40,7 +40,7 @@ jobs:
       # https://github.com/orgs/community/discussions/76409#discussioncomment-8131390
       id-token: write
     name: Build Tagged Release
-    if: github.repository == 'everyonesoftware/mealie'
+    if: github.repository == 'everyonesoftware/trailfood-library'
     uses: ./.github/workflows/publish.yml
     needs:
       - frontend-tests
